@@ -1,4 +1,4 @@
 **Tirocinio 'Voci dall'Inferno'**
-_CdL Informatica Umanistica, Università di Pisa
-_
-_wip_
+CdL Informatica Umanistica, Università di Pisa
+
+wip
