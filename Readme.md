@@ -1,7 +1,7 @@
-**Tirocinio 'Voci dall'Inferno'**
-CdL Informatica Umanistica, Università di Pisa
+<h1>**Tirocinio 'Voci dall'Inferno'**</h1>
+<h2>CdL Informatica Umanistica, Università di Pisa</h2>
 
-Codifica di una testimonianza orale di Goti Bauer. 
+Codifica di una testimonianza orale di Goti Bauer, intervista realizzata dalla professoressa Marina Riccucci dell'Università di Pisa. 
 Lavoro realizzato per il tirocinio universitario.
 
 Contenuto:
