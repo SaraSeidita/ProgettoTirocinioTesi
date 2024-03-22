@@ -11,4 +11,5 @@ Lavoro realizzato per il tirocinio universitario.
   <li>Il file XML che contiene le eventuali modifiche della precedente codifica</li>
   <li>Il file TXT che contiene la trascrizione dell'intervista audio</li>
   <li>Il file DTD-TEI</li>
+  <li>Il file DTD-TEI versione Voci dall'Inferno</li>
 </ul>
