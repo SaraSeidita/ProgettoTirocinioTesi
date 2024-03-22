@@ -1,37 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE TEI SYSTEM "tei_all.dtd">
+<!DOCTYPE TEI SYSTEM "tei_vocidallinferno.dtd">
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="it">
     <teiHeader>
-        <fileDesc> <!-- Descrizione bibliografica del file elettronico -->
+
+        <fileDesc>
             <titleStmt>
                 <title>Testimonianza di <name ref="GB">Goti Bauer</name></title>
-                <respStmt>
-                    <resp>Intervista realizzata da:</resp>
-                    <persName xml:id="MR">
-                        <forename>Marina</forename>
-                        <surname>Riccucci</surname>
-                    </persName>       
-                </respStmt>
-                <respStmt>
-                    <resp>Seconda persona che ha partecipato all'intervista:</resp>
-                    <persName xml:id="LR">
-                        <forename>Laura</forename>
-                        <surname>Ricotti</surname>
-                    </persName>
-                </respStmt>
-                <respStmt>
-                    <resp>Intervista fatta a:</resp>
-                    <persName xml:id="GB" ref="https://it.wikipedia.org/wiki/Goti_Herskovits_Bauer">
-                        <forename type="first">Goti</forename>
-                        <forename type="last">Herskovits</forename>
-                        <surname>Bauer</surname>
-                    </persName>
-                </respStmt>
             </titleStmt>
-            <editionStmt> <!-- Informazioni relative all'edizione del testo -->
-                <edition>Lavoro realizzato per il tirocinio e tesi di Laurea Triennale di Informatica Umanistica, Università di Pisa</edition>
-                <respStmt>
+
+            <editionStmt>
+                <edition>Lavoro realizzato per il tirocinio e tesi di Laurea Triennale di Informatica Umanistica, Università di Pisa</edition>   
+                <respStmt xml:id="encoder">
                     <resp>Trascrizione e codifica a cura di:</resp>
                     <persName xml:id="SS">
                         <forename>Sara</forename>
@@ -51,26 +31,30 @@
                     </persName>
                 </respStmt>
             </editionStmt>
+
             <extent> 
+                Si tratta di una registrazione audio in file Mp4 con una durata di 2 ore e 4 minuti, trascritta poi in un file text.
                 <measure unit="pages" quantity="33">33 pagine di trascrizione</measure>
             </extent>
-            <publicationStmt> <!-- Informazioni riguardanti la pubblicazione o distribuzione del testo -->
+
+            <publicationStmt>
                 <publisher>Università di Pisa</publisher>
                  <availability>
                     <licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence>
                 </availability>
             </publicationStmt>
-            <notesStmt> <!-- Racchiude qualsiasi nota che fornisca informazioni aggiuntive sul testo -->
+
+            <notesStmt> 
                 <note>Il presente lavoro fa parte di un ampio progetto, ossia "Voci dall'Inferno". Progetto che si occupa della raccolta di testimonianze, anche inedite,
                 di sopravvissuti all'Olocausto e all'orrore dei Lager.</note>
             </notesStmt>
-            <sourceDesc> <!-- Descrizione della fonte orale -->
+
+            <sourceDesc>
                 <recordingStmt>
                     <recording type="audio" dur="P02H04M11S">
                         <date when="2020-02-20">20 febbraio 2020</date>
                         <respStmt>
-                            <!--responsabilità -->
-                            <resp>Intervista realizzata da</resp>
+                            <resp>Intervista curata e realizzata da</resp>
                             <persName ref="#MR">Marina Riccucci</persName>
                             <persName ref="#LR">Laura Ricotti</persName>
                         </respStmt>
@@ -81,19 +65,20 @@
                                     <title>Intervista a Goti Bauer, 2020</title>
                                     <date when="2020-02-20">20 febbraio 2020</date>
                                     <placeName ref="MI">Milano</placeName>
+                                    <note>Registrazione dell'intervista sulla testimonianza di <persName ref="#GB">Goti Bauer</persName>, realizzata da <persName ref="#MR">Marina Riccucci</persName> e <persName ref="#LR">Laura Ricotti</persName>.
+                                    L'intervista è stata fatta presso la RSA (<placeName ref="#MI">Milano</placeName>) dove Goti risiede da alcuni anni.</note>
                                 </bibl>
                         </broadcast>
-                        <p>Registrazione dell'intervista sulla testimonianza di <persName ref="#GB">Goti Bauer</persName>, realizzata da <persName ref="#MR">Marina Riccucci</persName> e <persName ref="#LR">Laura Ricotti</persName>.
-                        L'intervista è stata fatta presso la RSA (<placeName ref="#MI">Milano</placeName>) dove Goti risiede da alcuni anni.</p> 
                     </recording>
                 </recordingStmt>
             </sourceDesc>
         </fileDesc>
-        <encodingDesc> <!-- Relazione tra testo elettronico e fonte orale -->
+
+        <encodingDesc> 
             <projectDesc>
                 <p>Lavoro di codifica della testimonianza è stata realizzata per il progetto di Tirocinio e Tesi di <persName ref="#SS">Sara Seidita</persName></p>
             </projectDesc>
-            <editorialDecl><!-- Fornisce informazioni dettagliate sui principi e sulle pratiche editoriali applicate nel corso della codifica del testo -->
+            <editorialDecl>
                 <correction>
                     <p>Nella fonte orale ci sono state alcune pronunce di termini errate, le quali sono state corrette.</p>
                 </correction>
@@ -108,64 +93,88 @@
                     <p>Articoli, saggi e film citati sono stati segnati con il tag <gi>Title</gi> e poi inseriti nella <gi>listBibl</gi></p>
                     <p>Organizzazioni e simili sono stati segnati con <gi>orgName</gi></p>
                     <p>Eventuali rumori esterni sono stati segnati con il tag <gi>Incident</gi></p>
-                    <p>Eventuali rumori come starnuti, risate o brusio di voci sono stati segnati segnati con il tag <gi>Vocal</gi></p>
+                    <p>Eventuali rumori come starnuti, risate o brusio di voci sono stati segnati con il tag <gi>Vocal</gi></p>
+                    <p>Eventuali parole non riconosciute (perché straniere o perché inaudibili) sono state segnate con il tag <gi>gap</gi></p> 
                 </interpretation>
             </editorialDecl>
         </encodingDesc>
         <profileDesc>
+            <particDesc>
+                <listPerson>
+                    <person xml:id="GB" role="testimone" source="https://it.wikipedia.org/wiki/Goti_Herskovits_Bauer">
+                        <persName>
+                            <forename type="first">Goti</forename>
+                            <forename type="last">Herskovits</forename>
+                            <surname>Bauer</surname>
+                        </persName>
+                    </person>
+                    <person xml:id="MR" role="intervistatrice">
+                        <persName>
+                            <forename>Marina</forename>
+                            <surname>Riccucci</surname>
+                        </persName> 
+                    </person>
+                    <person xml:id="LR" role="intervistatrice">
+                        <persName>
+                            <forename>Laura</forename>
+                            <surname>Ricotti</surname>
+                        </persName>
+                    </person>  
+                    <person xml:id="RB" role="partecipante">
+                        <persName>
+                            <forename>Rosanna</forename>
+                            <surname>Bauer</surname>
+                        </persName>
+                        <note>Figlia della testimone Goti Bauer</note>
+                    </person>   
+                </listPerson>
+            </particDesc>
             <creation>
-                <date when="2020">2020</date>
+                <date when="2020-02-20">20 febbraio 2020</date>
             </creation>
             <langUsage>
                 <language ident="it">Italiano</language>
             </langUsage>
             <abstract>
-                <!--Regesto dialogo intervista --> 
                 <ab>
                     <list>
                         <item synch="#tlri1">
-                            Il racconto di <persName ref="#GB">Goti Bauer</persName> inizia parlando 
-                            del modo in cui ha convinto <persName ref="#LS">Liliana Segre</persName> a testimoniare.
+                            Il racconto di <persName ref="#GB">Goti Bauer</persName> inizia parlando del modo in cui ha convinto <persName ref="#LS">Liliana Segre</persName> a testimoniare.
                             Goti spiega che anche per lei era stato difficile parlare all'inizio, ma che lo riteneva un dovere.
                             Un dovere tale per cui nessuno li poteva sostituire, perché erano tra i pochissimi che questa storia la potevano raccontare.
                             Così a furia di parlarne, Liliana ci ha pensato e poi ha accettato di parlare e raccontare.
-                            Inoltre, Goti Bauer racconta di essersi trovate a casa di un'amica in comune, ossia in casa di <persName ref="#GP">Gianna Pavia</persName>. 
-                            Goti dice che lavoravano insieme alla <orgName ref="#ADEI">ADEI</orgName>, un'associazione femminile.
+                            Inoltre, Goti Bauer racconta di essersi trovate a casa di un'amica in comune, ossia in casa di <persName ref="#GP">Gianna Pavia</persName>, dicendo che lavoravano insieme alla <orgName ref="#ADEI">ADEI</orgName>, un'associazione femminile.
                             Goti e Liliana avevano anche come amica comune <persName ref="#GD">Giuliana Donati</persName>, tramite la quale si sono conosciute.
                         </item>
                         <item synch="#tlri2">
-                            L'intervista prosegue chiedendo a Goti se ha mai testimoniato insieme a Liliana.
-                            Goti risponde di sì, qualche volta hanno testimoniato insieme. In prima istanza a casa di <persName ref="#GP">Gianna Pavia</persName>, 
-                            poi dice, "forse alla <orgName ref="#ADEI">ADEI</orgName>"", l'associazione femminile.
-                            Viene menzionato il nome di <persName ref="#TM">Teodoro Morgani</persName>, il quale invitò Goti a scrivere nel volume <title ref="#quarantanni">Quarant'anni dopo</title>. 
-                            Si parla anche dei saggi di Goti, il primo di questi è <title ref="#UVS">Una vita segnata</title>, il quale si trova all'interno del volume <title ref="#VDS">Voci dalla Shoah</title>. Goti e Teodoro avevano in comune 
+                            L'intervista prosegue chiedendo a <persName ref="#GB">Goti</persName> se ha mai testimoniato insieme a <persName ref="#LS">Liliana</persName>.
+                            Goti risponde di sì, qualche volta hanno testimoniato insieme. In prima istanza a casa di <persName ref="#GP">Gianna Pavia</persName>, poi dice, "forse alla <orgName ref="#ADEI">ADEI</orgName>", l'associazione femminile, ma non è sicura.
+                            Viene menzionato il nome di <persName ref="#TM">Teodoro Morgani</persName>, il quale invitò Goti a scrivere nel volume <bibl><title ref="#quarantanni">Quarant'anni dopo</title></bibl>. 
+                            Si parla anche dei saggi di Goti, il primo di questi è <bibl><title ref="#UVS">Una vita segnata</title></bibl>, il quale si trova all'interno del volume <bibl><title ref="#VDS">Voci dalla Shoah</title></bibl>. Goti e Teodoro avevano in comune 
                             la provenienza da <placeName ref="#FIUME">Fiume</placeName> e lui le disse di scrivere qualcosa, perché scrivere di una situazione vissuta proprio a <placeName ref="#FIUME">Fiume</placeName>, quasi nessuno poteva farlo.
                         </item>
                         <item synch="#tlri3">
-                            Goti racconta di essere tornata in visita ad <placeName ref="#AUSCH">Auschwitz</placeName> tre volte.
-                            Racconta di essere stata una volta con <persName ref="#MP">Marcello Pezzetti</persName>, poi nel 2009 con l'ufficiale <persName ref="#WV">Walter Veltroni</persName>.
-                            Goti racconta anche che una volta, suo marito aveva bisogno di visitare alcuni paesi dell'<placeName ref="#EUO">Europa Orientale</placeName>, e al ritorno aveva chiesto a lei se si poteva passare da Auschwitz.
+                            <persName ref="#GB">Goti</persName> racconta di essere tornata in visita ad <placeName ref="#AUSCH">Auschwitz</placeName> tre volte.
+                            Racconta di essere stata una volta con <persName ref="#MP">Marcello Pezzetti</persName>, poi nel <date when="2009">2009</date> con l'ufficiale <persName ref="#WV">Walter Veltroni</persName>.
+                            Goti racconta anche che una volta, suo marito aveva bisogno di visitare alcuni paesi dell'<placeName ref="#EUO">Europa Orientale</placeName>, e al ritorno aveva chiesto a lei se si poteva passare da <placeName ref="#AUSCH">Auschwitz</placeName>.
                             Ma Goti gli disse che non ci voleva più tornare, perché non era più l'<placeName ref="#AUSCH">Auschwitz</placeName> che lei ricordava.        
                         </item>
                         <item synch="#tlri4">
-                            Viene poi mostrata una foto sfocata con i genitori di <persName ref="#GB">Goti Bauer</persName>, in cui quest'ultima dice che ne ha una a casa tutta intera,
-                            con lei che aveva due mesi
+                            Viene poi mostrata una foto sfocata con i genitori di <persName ref="#GB">Goti Bauer</persName>, in cui quest'ultima dice che ne ha una a casa tutta intera, con lei che aveva due mesi.
                         </item>
                         <item synch="#tlri5">
-                            Si parla poi dei genitori di Goti, ma per motivi dei privacy questa parte è censurata
+                            Si parla poi dei genitori di <persName ref="#GB">Goti</persName>, ma per motivi dei privacy questa parte è censurata.
                         </item>
                         <item synch="#tlri6">
-                            Poi Goti parla del figlio della sorella <persName ref="LLY">Lilly</persName>, il quale si è salvato. Spiega che sua sorella e il marito erano una coppia con un unico figlio di 13 anni.
-                            Racconta poi che il cognato, il padre del ragazzo, aveva un fratello più grande che era medico. 
-                            Quando la famiglia è stata deportata ad <placeName ref="#AUSCH">Auschwitz</placeName>, il fratello del cognato ha portato con sé il ragazzino di 13 anni.
-                            Questo perché, essendo medico, aveva una posizione di favore. E dal momento che i ragazzi giovani andavano a gas, il figlio della sorella di Goti si è potuto salvare in questo modo.
+                            Poi <persName ref="#GB">Goti</persName> parla del figlio della sorella <persName ref="LLY">Lilly</persName>, il quale si è salvato. Spiega che sua sorella e il marito erano una coppia con un unico figlio di 13 anni. Racconta poi che il cognato, il padre del ragazzo, aveva un fratello più grande che era medico. 
+                            Quando la famiglia è stata deportata ad <placeName ref="#AUSCH">Auschwitz</placeName>, il fratello del cognato ha portato con sé il ragazzino di 13 anni. Questo perché, essendo medico, aveva una posizione di favore. E dal momento che i ragazzi giovani andavano a gas, il figlio della sorella di Goti si è potuto salvare in questo modo.
                             Goti dice che suo padre ha avuto tre figli dal suo precedente matrimonio: <persName ref="#GIULIO">Giulio</persName>, <persName ref="#EDM">Edmondo</persName> e <persName ref="LLY">Lilly</persName>.
-                            Lilli è morta in deportazione ad Auschwitz, insieme a suo marito. 
+                            Lilli è morta in deportazione ad <placeName ref="#AUSCH">Auschwitz</placeName>, insieme a suo marito. 
                             Viene menzionato anche il fratello di Goti, <persName ref="#TIBOR">Tibor</persName>, morto a <placeName ref="#BW">Buchenwald</placeName>. 
                         </item>
                         <item synch="#tlri7">
                             Si parla poi di <persName ref="#EV">Elio Varutti</persName>, il quale ha ricostruito la storia degli ebrei di <placeName ref="#FIUME">Fiume</placeName> in un articolo.
-                            Il titolo è <title ref="#EFT">Ebrei di Fiume in transito</title>, e in particolare si è dedicato alla storia di un bambino. Si chiamava <persName ref="#AC">Alberto Czerkl</persName>.
+                            Il titolo è <bibl><title ref="#EFT">Ebrei di Fiume in transito</title></bibl>, e in particolare si è dedicato alla storia di un bambino. Si chiamava <persName ref="#AC">Alberto Czerkl</persName>.
                             Si parla poi della scuola elementare frequentata da Goti, la <orgName ref="#DM">Daniele Manin</orgName>
                         </item>
                         <item synch="#tlri8">
@@ -173,42 +182,41 @@
                             Nel <date when="1945">'45</date> si era iscritta all'Università, ma non riuscì a fare niente perché si sposò ed andò a vivere in <placeName ref="#AFRICA">Africa</placeName>.
                             Poi Goti spiega di aver studiato tutto privatamente e di anno in anno dava gli esami. Questo perché agli ebrei era stato tolto il permesso di frequentare le scuole, ma avevano dato il permesso di presentarsi agli esami. 
                             E quelli che hanno avuto il desiderio di continuare a studiare, hanno studiato e tutti gli anni andavano a fare gli esami. 
-                            Goti riuscì a fare la maturità e frequentò il liceo scientifico
+                            Goti riuscì a fare la maturità e frequentò il liceo scientifico.
                         </item>
                         <item synch="#tlri9">
-                            L'intervistatore chiede a Goti cosa cambiò nei rapporti tra le persone dopo il <date when="1938">1938</date>.
+                            Viene poi chiesto a <persName ref="#GB">Goti Bauer</persName> cosa cambiò nei rapporti tra le persone dopo il <date when="1938">1938</date>.
                             Bauer risponde che di quel periodo ha ricordi sia positivi che negativi: di positivi nella solidarietà, nel dispiacere, anche di insegnanti che ci avevano conosciuto.
                             Ma i padri venivano licenziati dai loro lavori, quindi bisognava continuare a vivere e i ragazzi a studiare e Goti dava lezioni a ragazzini più piccoli di lei e non solo per poter guadagnare qualcosa.
                             Arrivò poi l'<date when="1943-09-08">8 settembre del 43</date> e arrivarono i tedeschi, i quali hanno incominciato a deportare gli ebrei. Allora sono dovuti scappare.
                         </item>
                         <item synch="#tlri10">
-                            Goti parla anche di quando una vecchia amica che le voltò le spalle in quelle circostanze.
+                            <persName ref="#GB">Goti</persName> parla anche di quando una vecchia amica che le voltò le spalle in quelle circostanze. Il nome di quest'amica è stato censurato perché la stessa Goti Bauer non vuole che venga scritto.
                         </item>
                         <item synch="#tlri11"> 
-                            Si parla anche di <persName ref="#AB">Angelina Braida</persName>, di cui ne parla con tanto affetto
+                            Si parla anche di <persName ref="#AB">Angelina Braida</persName>, la vicina di casa di <persName ref="#GB">Goti</persName> quando abitava a <placeName ref="#FIUME">Fiume</placeName>. Goti ne parla con tanto affetto.
                         </item>
                         <item synch="#tlri12">
                             Si parla del periodo <date from="1939" to="1940">1939-1940</date>, quando ci furono centinaia di profughi dall'est.
-                            Goti spiega che la tragedia era cominciata prima nei paesi centrali dell'Europa, scatenata nel <date when="1933">'33</date> dalla Germania. Poi i tedeschi erano entrati in <placeName ref="#UNGHERIA">Ungheria</placeName>, nei paesi della <placeName ref="#NORVEGIA">Norvegia</placeName>, e in <placeName ref="#ITA">Italia</placeName>.
+                            <persName ref="#GB">Goti</persName> spiega che la tragedia era cominciata prima nei paesi centrali dell'<placeName ref="#EU">Europa</placeName>, scatenata nel <date when="1933">'33</date> dalla <placeName ref="#GERMANIA">Germania</placeName>. Poi i tedeschi erano entrati in <placeName ref="#UNGHERIA">Ungheria</placeName>, nei paesi della <placeName ref="#NORVEGIA">Norvegia</placeName>, e in <placeName ref="#ITA">Italia</placeName>.
                             Con loro si scatenava la grande tragedia, soprattutto per gli ebrei. Questo perché, spiega Goti, era caccia agli ebrei, per sterminarli, deportarli e poi farli fuori.
-                            Si parla poi del rabbino <persName ref="#KARL">Karl Zelikovitz</persName>. 
-                            Questo perché una parte della storia di Goti è unita a quella del rabbino Karl, perché sono stati insieme a <placeName ref="#VISERBA">Viserba</placeName>. Ma non c'era solo lui, c'erano anche la famiglia <persName ref="#ALTMANN">Altmann</persName>. Di loro non è tornato nessuno.
+                            Si parla poi del rabbino <persName ref="#KARL">Karl Zelikovitz</persName>. Questo perché una parte della storia di Goti è unita a quella del rabbino Karl, perché sono stati insieme a <placeName ref="#VISERBA">Viserba</placeName>. Ma non c'era solo lui, c'erano anche la famiglia <persName ref="#ALTMANN">Altmann</persName>. Di loro non è tornato nessuno.
                         </item>
                         <item synch="#tlri13">
-                            Dopo i vari problemi tecnici, l'intervista continua e si parla delle persecuzioni che iniziano a Fiume, subito dopo l'<date when="09-08">8 settembre</date>.
-                            Goti risponde che già dal <date when="1938">'38</date> la loro vita è diventata difficilissima, perché i loro padri non lavoravano più. Quindi i figli dovevano aiutare, oltre che studiare (senza poter frequentare) e dare gli esami.
+                            Dopo i vari problemi tecnici, l'intervista continua e si parla delle persecuzioni che iniziano a <placeName ref="#FIUME">Fiume</placeName>, subito dopo l'<date when="09-08">8 settembre</date>.
+                            <persName ref="#GB">Goti</persName> risponde che già dal <date when="1938">'38</date> la loro vita è diventata difficilissima, perché i loro padri non lavoravano più. Quindi i figli dovevano aiutare, oltre che studiare (senza poter frequentare) e dare gli esami.
                         </item>
                         <item synch="#tlri14">
                             Si parla di quando era arrivato il pericolo, che prima di venir deportati, qualcuno si è suicidato, per la paura di questo.
                         </item>
                         <item synch="#tlri15">
-                            Si parla delle sorelle <persName ref="#BUCCI">Bucci</persName>, che Goti ha conosciuto. Spiega che quello che loro raccontano adesso, di cose avvenute in quel periodo, le raccontano per averle sentite, perché in quel periodo erano piccolissime.
+                            Si parla delle sorelle <persName ref="#BUCCI">Bucci</persName>, che <persName ref="#GB">Goti</persName> ha conosciuto. Spiega che quello che loro raccontano adesso, di cose avvenute in quel periodo, le raccontano per averle sentite, perché in quel periodo erano piccolissime.
                             Goti racconta di conoscere e di essere amica anche di <persName ref="#MG">Martino Godelli</persName>, così come con la moglie <persName ref="#GK">Gisella Kugler</persName>.
                             Goti ha aiutato Gisella a scrivere il suo primo libro.
                         </item>
                         <item synch="#tlri16">
-                            Si parla poi della prima intervista che <persName ref="#GB">Goti Bauer</persName> ha rilasciato per il <orgName ref="#CDEC">CDEC</orgName> sia del febbraio dell'87 a <persName ref="#RP">Liliana Picciotto</persName>. 
-                            Poi l'intervistante chiede a Goti se nel <date when="1944">1944</date>, quando lei era andata a <placeName ref="#VISERBA">Viserba</placeName>, le sorelle <persName ref="#KR">Kruger</persName> fossero con lei, ma Goti risponde di no. Ma spiega che le conosceva, che stavano nascoste con nomi falsi e che era andata a prenderle a <placeName ref="#ML">Massa Lombarda</placeName>. 
+                            Si parla poi della prima intervista che <persName ref="#GB">Goti Bauer</persName> ha rilasciato per il <orgName ref="#CDEC">CDEC</orgName>, sia del <date when="1987-02">febbraio dell'87</date> a <persName ref="#RP">Liliana Picciotto</persName>. 
+                            Poi si chiede a Goti se nel <date when="1944">1944</date>, quando lei era andata a <placeName ref="#VISERBA">Viserba</placeName>, le sorelle <persName ref="#KR">Kruger</persName> fossero con lei, ma Goti risponde di no. Ma spiega che le conosceva, che stavano nascoste con nomi falsi e che era andata a prenderle a <placeName ref="#ML">Massa Lombarda</placeName>. 
                             Vengono menzionati vari nomi, tra cui il professore <persName ref="#RV">Ravasini</persName>, il rabbino <persName ref="#ZL">Zelikovitz</persName>, la famiglia <persName ref="#ALTMANN">Altmann</persName> e la famiglia <persName ref="#KROO">Kroo</persName>. 
                             Del professore <persName ref="#RV">Ravasini</persName>, Goti spiega che aveva ospitato parecchi ebrei in difficoltà. Anche chi non aveva bisogno di tante cure veniva ospitato dal professore, perché i tedeschi andavano già di casa in casa ad arrestare le famiglie ebraiche.
                             Della famiglia <persName ref="#ALTMANN">Altmann</persName>, vengono menzionati i nomi di Margherita e Ferdinando, quest'ultimo è sopravissuto e ha testimoniato con Goti. Vengono nominati anche i figli Giuliano e Juditta.
@@ -218,15 +226,15 @@
                         <item synch="#tlri17">
                             Poi <persName ref="#GB">Goti Bauer</persName> dice che il professore <persName ref="#RV">Ravasini</persName> suggerì alla famiglia di lasciare il posto, in quanto i tedeschi avevano saputo che lui ospitava famiglie ebraiche, ed era diventato così pericoloso.
                             Goti poi racconta di quanto era stato terribile quel viaggio e menziona il dottor <persName ref="#NANNI">Nanni</persName>, di cui dice che era un gran galantuomo, che aveva capito che con le risposte che loro davano non erano del tutto realistiche.
-                            Lei spiega che in quel periodo avevano documenti falsi (infatti lei con quel documento si chiama "Cortese di Ortona") e, dal momento che la gente di Fiume non parlava un italiano molto fluente, in quanto a Fiume vi si parlava varie lingue, vi era la paura di essere scoperti se il padre avesse detto il proprio nome con una pronuncia italiana non corretta, così dissero a quel dottore che era muto.    
+                            Lei spiega che in quel periodo avevano documenti falsi (infatti lei con quel documento si chiama <persName>Cortese di Ortona</persName>) e, dal momento che la gente di <placeName ref="#FIUME">Fiume</placeName> non parlava un italiano molto fluente, in quanto a <placeName ref="#FIUME">Fiume</placeName> vi si parlava varie lingue, vi era la paura di essere scoperti se il padre avesse detto il proprio nome con una pronuncia italiana non corretta, così dissero a quel dottore che era muto.    
                         </item>
                         <item synch="#tlri18">
-                            Si parla poi della famiglia <persName ref="#KUCHI">Kuchi</persName>, la quale fornì alla famiglia di Goti le prime informazioni utili per andare in <placeName ref="#SWI">Svizzera</placeName>. 
+                            Si parla poi della famiglia <persName ref="#KUCHI">Kuchi</persName>, la quale fornì alla famiglia di <persName ref="#GB">Goti</persName> le prime informazioni utili per andare in <placeName ref="#SWI">Svizzera</placeName>. 
                             Quando la famiglia di Goti è andata a <placeName ref="#MI">Milano</placeName> non hanno alloggiato, ma sono partiti la sera, prendendo un treno per <placeName ref="#VAR">Varese</placeName>, e poi con il tram fino a <placeName ref="#GHI">Ghirla</placeName>. 
-                            Arrivano a <placeName ref="#CREM">Cremenaga</placeName> tra il primo e il 2 maggio.
+                            Arrivano a <placeName ref="#CREM">Cremenaga</placeName> tra il <date from="05-01" to="05-02">primo e il 2 maggio</date>.
                         </item>
                         <item synch="#tlri19">
-                            Goti poi parla e racconta del maresciallo dei carabinieri <persName ref="#MROSSI">Marcello Rossi</persName>, che lo ricorda come una bravissima persona e di cui ne racconta un episodio accaduto.
+                            <persName ref="#GB">Goti</persName> poi parla e racconta del maresciallo dei carabinieri <persName ref="#MROSSI">Marcello Rossi</persName>, che lo ricorda come una bravissima persona e di cui ne racconta un episodio accaduto.
                         </item>
                         <item synch="#tlri20">
                             Si racconta dell'arresto a <placeName ref="#CREM">Cremenaga</placeName>, quando poi arrivano i tedeschi. Vengono poi trasferiti al <placeName ref="#CARCERECOMO">carcere di Como</placeName>, poi a <placeName ref="#SANV">San Vittore</placeName>, al quinto raggio.
@@ -237,13 +245,13 @@
                         </item>
                         <item synch="#tlri22">
                             Si parla poi dell'arrivo con il convoglio ad <placeName ref="#AUSCH">Auschwitz</placeName>. 
-                            E' tra i primi convogli che arrivano direttamente dentro il campo. Goti racconta che vennero disposti in fila, da un lato le donne e dall'altro gli uomini, li fanno incamminare e li portano fino a una baracca messa di traverso, dove avviene la selezione.
-                            Goti racconta che con un cenno del dito, senza molti complimenti, dicevano <cit><quote>tu di la, questo di la</quote></cit>. 
-                            Sul momento non capiva cosa voleva dire questa divisione, ma quella fu l'ultima volta che Goti vide sua madre. Quando erano state divise, Goti ha chiesto ad un ragazzo tedesco <cit><quote>Ma perché questa divisione?</quote></cit>, e lui rispose <cit><quote>Eh, perché voi andrete a piedi, e loro invece vanno con un camion, perché sono più vecchi</quote></cit>. 
+                            E' tra i primi convogli che arrivano direttamente dentro il campo. <persName ref="#GB">Goti</persName> racconta che vennero disposti in fila, da un lato le donne e dall'altro gli uomini, li fanno incamminare e li portano fino a una baracca messa di traverso, dove avviene la selezione.
+                            Goti racconta che con un cenno del dito, senza molti complimenti, dicevano "<cit><quote>tu di la, questo di la</quote></cit>". 
+                            Sul momento non capiva cosa voleva dire questa divisione, ma quella fu l'ultima volta che Goti vide sua madre. Quando erano state divise, Goti ha chiesto ad un ragazzo tedesco "<cit><quote>Ma perché questa divisione?</quote></cit>", e lui rispose "<cit><quote>Eh, perché voi andrete a piedi, e loro invece vanno con un camion, perché sono più vecchi</quote></cit>". 
                             E non ha detto dove andavano, l'hanno saputo dopo.
                         </item>
                         <item synch="#tlri23">
-                            Si parla poi della selezione, di come questa parola viene pronunciata ancora a fatica da Goti. Perché quella parola aveva un solo significato per lei: la decisione rapidissima fatta con il cenno del dito di un solo uomo, con la sua mano.
+                            Si parla poi della selezione, di come questa parola viene pronunciata ancora a fatica da <persName ref="#GB">Goti</persName>. Perché quella parola aveva un solo significato per lei: la decisione rapidissima fatta con il cenno del dito di un solo uomo, con la sua mano.
                             Quel mattino di fine maggio subito andavano nella camera a gas: la più piccola delle tre sorelle <persName ref="#KRUGER">Kruger</persName>, Maddalena, con la madre, <persName ref="#MH">Margherita Herskovitz</persName>, e i suoi due figli, Juditta e Giuliano, la madre e il padre di Goti.
                             Poi Goti spiega che andarono e rimasero nel lager A, nella baracca 31, molto a lungo. 
                         </item>
@@ -253,12 +261,12 @@
                             Se si è salvato un certo numero di persone è perché i russi incombevano e perché stavano occupando il campo. Allora a un certo punto hanno deciso di non fare una strage totale e sono scappati. 
                         </item>
                         <item synch="#tlri25">
-                            Si parla poi delle sorelle <persName ref="#LANDAU">Landau</persName>. Erano due sorelle ungheresi più anziane di Goti.
+                            Si parla poi delle sorelle <persName ref="#LANDAU">Landau</persName>. Erano due sorelle ungheresi più anziane di <persName ref="#GB">Goti</persName>.
                         </item>
                         <item synch="#tlri26">
                             Si parla poi della brutalità delle donne polacche, le quali furono deportate prima. 
-                            Goti racconta che in Polonia c'era un grande antisemitismo, già precedente. 
-                            Spiega che la Polonia era una delle nazioni più cattoliche dell'Europa, e fin da piccoli i giovani andavano in chiesa a far lezione dove venivano cresciuti con questa mentalità e convinzione, così di riflesso odiavano gli ebrei.
+                            <persName ref="#GB">Goti</persName> racconta che in <placeName ref="#POLONIA">Polonia</placeName> c'era un grande antisemitismo, già precedente. 
+                            Spiega che la <placeName ref="#POLONIA">Polonia</placeName> era una delle nazioni più cattoliche dell'<placeName ref="#EU">Europa</placeName>, e fin da piccoli i giovani andavano in chiesa a far lezione dove venivano cresciuti con questa mentalità e convinzione, così di riflesso odiavano gli ebrei.
                         </item>
                         <item synch="#tlri27">
                             Poi si parla di <persName ref="#GROSS">Suzi Gross</persName>, arrivata come prigioniera e poi diventata Kapo, ossia ottenne una posizione dirigenziale, posizione che permetteva di comandare e prendere le decisioni. 
@@ -268,7 +276,7 @@
                             Poi c'è stata un'interruzione dell'audio, che viene ripreso parlando dell'infermeria.
                         </item>
                         <item synch="#tlri29">
-                            Viene chiesto a Goti se si ricorda del campo di <placeName ref="#WILI">Wilischthal</placeName>, il quale, dice Goti, era un campo di passaggio, molto più leggero. Era uno dei 96 sotto-campi di <placeName ref="#FLOSS">Flossenbürg</placeName>.
+                            Viene chiesto a <persName ref="#GB">Goti</persName> se si ricorda del campo di <placeName ref="#WILI">Wilischthal</placeName>, il quale, dice Goti, era un campo di passaggio, molto più leggero. Era uno dei 96 sotto-campi di <placeName ref="#FLOSS">Flossenbürg</placeName>.
                         </item>
                         <item synch="#tlri30">
                             C'è stata un'altra interruzione dell'audio, dove il discorso riprende parlando dell'ultimo trasferimento da <placeName ref="#WILI">Wilischthal</placeName> a <placeName ref="#THERE">Theresienstadt</placeName>, luogo dove verranno liberati.
@@ -276,18 +284,18 @@
                             Qua incontra due romane, <persName ref="#SDV">Silvia di Veroli</persName> e <persName ref="#CDC">Costanza Di Castro</persName>. 
                         </item>
                         <item synch="#tlri31">
-                            Nel luglio del '45 Goti arriva a <placeName ref="#FIUME">Fiume</placeName>, dove trova <persName ref="#AB">Angelina Braida</persName>. 
+                            Nel <date when="1945-07">luglio del '45</date> Goti arriva a <placeName ref="#FIUME">Fiume</placeName>, dove trova <persName ref="#AB">Angelina Braida</persName>. 
                             Parla anche della famiglia <persName ref="#REISS">Reiss</persName>, famiglia presso la quale si fermò a lungo e dove conobbe il marito. 
                         </item>
                         <item synch="#tlri32">
-                            Goti racconta che ha vissuto in Africa dal 1946 al 1950.
+                            Goti racconta che ha vissuto in <placeName ref="#AFRICA">Africa</placeName> <date from="1946" to="1950">dal 1946 al 1950</date>.
                         </item>
                         <item synch="#tlri33">
-                            Si parla del ritratto della madre di Goti, dipinto da un pittore viennese.
+                            Si parla del ritratto della madre di <persName ref="#GB">Goti</persName>, dipinto da un pittore viennese.
                             Quadro che è sopravvissuto al saccheggio. Infatti alcune cose della loro casa le aveva prese <persName ref="#AB">Angelina Braida</persName>, la vicina di casa. E ha preso anche il quadro, che il padre di Goti voleva salvare. 
                         </item>
                         <item synch="#tlri34">
-                            Viene chiesto a Goti se c'è una domanda che non le è mai stata fatta e che avrebbe voluto che le fosse rivolta, ma avendole fatto un'infinità di domande, di tutti i tipi, non sa come rispondere. 
+                            Viene chiesto a <persName ref="#GB">Goti</persName> se c'è una domanda che non le è mai stata fatta e che avrebbe voluto che le fosse rivolta, ma avendole fatto un'infinità di domande, di tutti i tipi, non sa come rispondere. 
                             Poi dice che la persona a cui raccontò per la prima volta, fu proprio la vicina <persName ref="#AB">Angelina Braida</persName>, alla quale però non voleva raccontare più di tanto. 
                             Poi racconta di quando lei la vide e di quando la mattina dopo <persName ref="#AB">Angelina</persName> trovò Goti a dormire per terra, questo perché era ormai abituata a dormire solo per terra. 
                         </item>
@@ -316,10 +324,10 @@
                         </item>
                         <item synch="#tlrei7">
                             Stanno per fare una domanda a Goti, quando hanno dovuto interrompere la registrazione dell'intervista.
-                            Quando viene ripresa, si nota che Goti stava facendo un discorso, che però viene interrotta perché non è stato ripreso
+                            Quando viene ripresa, si nota che Goti stava facendo un discorso, che però viene interrotta perché non è stato ripreso.
                         </item>
                         <item synch="#tlrei8">
-                            Qualcuno bussa alla porta 
+                            Qualcuno bussa alla porta .
                         </item>
                         <item synch="#tlrei9">
                             La registrazione viene interrotta e poi ripresa, e chiedono a Goti se è stanca. Lei risponde di no e aggiunge che questi ricordi sono ovviamente molto presenti sempre, ma non nei dettagli. Raccontare l'aiuta a rinfrescarsi la memoria.
@@ -360,67 +368,66 @@
     <standOff> <!-- contenitore per dati collegati -->
         <!--TimeLine Regesto Intervista TLRI, divisa in blocchi--> 
         <timeline xml:id="tlri">
-            <when xml:id="tlri1" absolute="00:00:00"/> <!-- blocco 1 --> <!-- inizio intervista -->
-            <when xml:id="tlri2" absolute="00:05:57"/> <!-- blocco 2 -->
-            <when xml:id="tlri3" absolute="00:09:35"/> <!-- blocco 3 -->
-            <when xml:id="tlri4" absolute="00:12:53"/> <!-- blocco 4 -->
-            <when xml:id="tlri5" absolute="00:14:22"/> <!-- blocco 5 -->
-            <when xml:id="tlri6" absolute="00:15:54"/> <!-- blocco 6 -->
-            <when xml:id="tlri7" absolute="00:21:14"/> <!-- blocco 7 -->
-            <when xml:id="tlri8" absolute="00:30:01"/> <!-- blocco 8 -->
-            <when xml:id="tlri9" absolute="00:35:06"/> <!-- blocco 9 -->
-            <when xml:id="tlri10" absolute="00:39:02"/> <!-- blocco 10 -->
-            <when xml:id="tlri11" absolute="00:41:46"/> <!-- blocco 11 -->
-            <when xml:id="tlri12" absolute="00:45:57"/> <!-- blocco 12 -->
-            <when xml:id="tlri13" absolute="00:49:23"/> <!-- blocco 13 -->
-            <when xml:id="tlri14" absolute="00:51:14"/> <!-- blocco 14 -->
-            <when xml:id="tlri15" absolute="00:52:31"/> <!-- blocco 15 -->
-            <when xml:id="tlri16" absolute="00:54:00"/> <!-- blocco 16 -->
-            <when xml:id="tlri17" absolute="01:00:24"/> <!-- blocco 17 -->
-            <when xml:id="tlri18" absolute="01:03:12"/> <!-- blocco 18 -->
-            <when xml:id="tlri19" absolute="01:07:50"/> <!-- blocco 19 -->
-            <when xml:id="tlri20" absolute="01:14:43"/> <!-- blocco 20 -->
-            <when xml:id="tlri21" absolute="01:18:31"/> <!-- blocco 21 -->
-            <when xml:id="tlri22" absolute="01:19:59"/> <!-- blocco 22 -->
-            <when xml:id="tlri23" absolute="01:23:19"/> <!-- blocco 23 -->
-            <when xml:id="tlri24" absolute="01:30:50"/> <!-- blocco 24 -->
-            <when xml:id="tlri25" absolute="01:33:13"/> <!-- blocco 25 -->
-            <when xml:id="tlri26" absolute="01:33:56"/> <!-- blocco 26 -->
-            <when xml:id="tlri27" absolute="01:36:14"/> <!-- blocco 27 -->
-            <when xml:id="tlri28" absolute="01:39:08"/> <!-- blocco 28 -->
-            <when xml:id="tlri29" absolute="01:39:37"/> <!-- blocco 29 -->
-            <when xml:id="tlri30" absolute="01:41:30"/> <!-- blocco 30 -->
-            <when xml:id="tlri31" absolute="01:46:06"/> <!-- blocco 31 -->
-            <when xml:id="tlri32" absolute="01:54:56"/> <!-- blocco 32 -->
-            <when xml:id="tlri33" absolute="01:55:56"/> <!-- blocco 33 -->
-            <when xml:id="tlri34" absolute="01:58:54"/> <!-- blocco 34 -->
+            <when xml:id="tlri1" absolute="00:00:00"/> <!-- inizio intervista -->
+            <when xml:id="tlri2" absolute="00:05:57"/> 
+            <when xml:id="tlri3" absolute="00:09:35"/>
+            <when xml:id="tlri4" absolute="00:12:53"/> 
+            <when xml:id="tlri5" absolute="00:14:22"/> 
+            <when xml:id="tlri6" absolute="00:15:54"/> 
+            <when xml:id="tlri7" absolute="00:21:14"/> 
+            <when xml:id="tlri8" absolute="00:30:01"/> 
+            <when xml:id="tlri9" absolute="00:35:06"/>
+            <when xml:id="tlri10" absolute="00:39:02"/> 
+            <when xml:id="tlri11" absolute="00:41:46"/> 
+            <when xml:id="tlri12" absolute="00:45:57"/> 
+            <when xml:id="tlri13" absolute="00:49:23"/> 
+            <when xml:id="tlri14" absolute="00:51:14"/> 
+            <when xml:id="tlri15" absolute="00:52:31"/> 
+            <when xml:id="tlri16" absolute="00:54:00"/> 
+            <when xml:id="tlri17" absolute="01:00:24"/> 
+            <when xml:id="tlri18" absolute="01:03:12"/> 
+            <when xml:id="tlri19" absolute="01:07:50"/> 
+            <when xml:id="tlri20" absolute="01:14:43"/> 
+            <when xml:id="tlri21" absolute="01:18:31"/> 
+            <when xml:id="tlri22" absolute="01:19:59"/> 
+            <when xml:id="tlri23" absolute="01:23:19"/> 
+            <when xml:id="tlri24" absolute="01:30:50"/> 
+            <when xml:id="tlri25" absolute="01:33:13"/> 
+            <when xml:id="tlri26" absolute="01:33:56"/> 
+            <when xml:id="tlri27" absolute="01:36:14"/> 
+            <when xml:id="tlri28" absolute="01:39:08"/> 
+            <when xml:id="tlri29" absolute="01:39:37"/> 
+            <when xml:id="tlri30" absolute="01:41:30"/> 
+            <when xml:id="tlri31" absolute="01:46:06"/>
+            <when xml:id="tlri32" absolute="01:54:56"/> 
+            <when xml:id="tlri33" absolute="01:55:56"/> 
+            <when xml:id="tlri34" absolute="01:58:54"/> 
         </timeline>
 
         <!-- TimeLine Regesto Extra-Intervista TLREI, ossia non inerente all'intervista, anche qua divisa in blocchi -->
         <timeline xml:id="tlrei">
-            <when xml:id="tlrei1" absolute="00:13:40"/> <!-- blocco extra1 -->
-            <when xml:id="tlrei2" absolute="00:18:24"/> <!-- blocco extra2 -->
-            <when xml:id="tlrei3" absolute="00:22:10"/> <!-- blocco extra3 -->
-            <when xml:id="tlrei4" absolute="00:26:15"/> <!-- blocco extra4 -->
-            <when xml:id="tlrei5" absolute="00:29:31"/> <!-- blocco extra5 -->
-            <when xml:id="tlrei6" absolute="00:42:30"/> <!-- blocco extra6 -->
-            <when xml:id="tlrei7" absolute="00:48:29"/> <!-- blocco extra7 -->
-            <when xml:id="tlrei8" absolute="00:54:43"/> <!-- blocco extra8 -->
-            <when xml:id="tlrei9" absolute="01:14:03"/> <!-- blocco extra9 -->
-            <when xml:id="tlrei10" absolute="01:19:31"/> <!-- blocco extra10 -->
-            <when xml:id="tlrei11" absolute="01:27:46"/> <!-- blocco extra11 -->
-            <when xml:id="tlrei12" absolute="01:30:10"/> <!-- blocco extra12 -->
-            <when xml:id="tlrei13" absolute="01:31:21"/> <!-- blocco extra13 -->
-            <when xml:id="tlrei14" absolute="01:38:50"/> <!-- blocco extra14 -->
-            <when xml:id="tlrei15" absolute="01:41:24"/> <!-- blocco extra15 -->
-            <when xml:id="tlrei16" absolute="01:49:10"/> <!-- blocco extra16 -->
-            <when xml:id="tlrei17" absolute="01:58:21"/> <!-- blocco extra17 -->
-            <when xml:id="tlrei18" absolute="02:00:55"/> <!-- blocco extra18 --> <!-- fine intervista -->
+            <when xml:id="tlrei1" absolute="00:13:40"/> 
+            <when xml:id="tlrei2" absolute="00:18:24"/> 
+            <when xml:id="tlrei3" absolute="00:22:10"/> 
+            <when xml:id="tlrei4" absolute="00:26:15"/> 
+            <when xml:id="tlrei5" absolute="00:29:31"/> 
+            <when xml:id="tlrei6" absolute="00:42:30"/> 
+            <when xml:id="tlrei7" absolute="00:48:29"/> 
+            <when xml:id="tlrei8" absolute="00:54:43"/> 
+            <when xml:id="tlrei9" absolute="01:14:03"/> 
+            <when xml:id="tlrei10" absolute="01:19:31"/> 
+            <when xml:id="tlrei11" absolute="01:27:46"/> 
+            <when xml:id="tlrei12" absolute="01:30:10"/> 
+            <when xml:id="tlrei13" absolute="01:31:21"/> 
+            <when xml:id="tlrei14" absolute="01:38:50"/> 
+            <when xml:id="tlrei15" absolute="01:41:24"/> 
+            <when xml:id="tlrei16" absolute="01:49:10"/> 
+            <when xml:id="tlrei17" absolute="01:58:21"/>
+            <when xml:id="tlrei18" absolute="02:00:55"/> <!-- fine intervista -->
         </timeline>
 
         <!-- Timeline sovrapposizione -->
         <timeline xml:id="tls" unit="s">
-            <!-- INTERVISTA BLOCCO 1 -->
             <when xml:id="tls1" absolute="00:00:42"/> <!-- inizio sovrapposizione 1 -->
             <when xml:id="tls2" since="#tls1" interval="1"/> <!-- durata sovrapposizione 1 -->
             <when xml:id="tls3" absolute="00:00:43"/>
@@ -482,26 +489,22 @@
             <when xml:id="tls59" absolute="00:12:34"/>
             <when xml:id="tls60" since="#tls59" interval="1"/>
             <when xml:id="tls61" absolute="00:13:08"/> 
-            <!--  INTERVISTA BLOCCO 4 -->
             <when xml:id="tls62" since="#tls61" interval="2"/>
             <when xml:id="tls63" absolute="00:13:45"/>
-            <when xml:id="tls64" since="#tls63" interval="1"/> 
-            <!-- EXTRA-INTERVISTA BLOCCO 1 -->
+            <when xml:id="tls64" since="#tls63" interval="1"/>
             <when xml:id="tls65" absolute="00:13:50"/>
             <when xml:id="tls66" since="#tls65" interval="4"/>
             <when xml:id="tls67" absolute="00:14:11"/>
             <when xml:id="tls68" since="#tls67" interval="1"/>
             <when xml:id="tls69" absolute="00:14:14"/>
             <when xml:id="tls70" since="#tls69" interval="5"/>
-            <when xml:id="tls71" absolute="00:14:30"/> 
-            <!-- INTERVISTA BLOCCO 5 -->
+            <when xml:id="tls71" absolute="00:14:30"/>
             <when xml:id="tls72" since="#tls71" interval="1"/>
             <when xml:id="tls73" absolute="00:14:45"/>
             <when xml:id="tls74" since="#tls73" interval="1"/>
             <when xml:id="tls75" absolute="00:14:47"/>
             <when xml:id="tls76" since="#tls75" interval="3"/>
-            <when xml:id="tls77" absolute="00:16:05"/> 
-            <!-- TLRI blocco 6 -->
+            <when xml:id="tls77" absolute="00:16:05"/>
             <when xml:id="tls78" since="#tls77" interval="1"/> 
             <when xml:id="tls79" absolute="00:16:10"/>
             <when xml:id="tls80" since="#tls79" interval="1"/>
@@ -517,13 +520,11 @@
             <when xml:id="tls90" since="#tls89" interval="2"/>
             <when xml:id="tls91" absolute="00:20:38"/>
             <when xml:id="tls92" since="#tls91" interval="1"/>
-            <when xml:id="tls93" absolute="00:22:14"/> 
-            <!-- TLREI blocco 3 -->
+            <when xml:id="tls93" absolute="00:22:14"/>
             <when xml:id="tls94" since="#tls93" interval="2"/>
             <when xml:id="tls95" absolute="00:22:21"/>
             <when xml:id="tls96" since="#tls95" interval="3"/>
             <when xml:id="tls97" absolute="00:22:30"/> 
-            <!-- TLRI blocco 7 -->
             <when xml:id="tls98" since="#tls97" interval="1"/>
             <when xml:id="tls99" absolute="00:23:03"/>
             <when xml:id="tls100" since="#tls99" interval="13"/>
@@ -552,15 +553,12 @@
             <when xml:id="tls123" absolute="00:26:12"/>
             <when xml:id="tls124" since="#tls123" interval="2"/>
             <when xml:id="tls125" absolute="00:26:16"/> 
-            <!-- TLREI blocco 4 -->
             <when xml:id="tls126" since="#tls125" interval="2"/>
             <when xml:id="tls127" absolute="00:26:20"/>
             <when xml:id="tls128" since="#tls127" interval="1"/>
             <when xml:id="tls129" absolute="00:26:24"/>
             <when xml:id="tls130" since="#tls129" interval="2"/>
-            <!-- -->
             <when xml:id="tls131" absolute="00:26:27"/> 
-            <!-- continuo TLRI blocco 7 -->
             <when xml:id="tls132" since="#tls131" interval="4"/>
             <when xml:id="tls133" absolute="00:27:40"/>
             <when xml:id="tls134" since="#tls133" interval="2"/>
@@ -572,8 +570,7 @@
             <when xml:id="tls140" since="#tls139" interval="2"/>
             <when xml:id="tls141" absolute="00:29:00"/>
             <when xml:id="tls142" since="#tls141" interval="2"/>
-            <!-- BLOCCO TLRI OTTAVO -->
-            <when xml:id="tls143" absolute="00:30:15"/> <!-- voce di sottofondo -->
+            <when xml:id="tls143" absolute="00:30:15"/> 
             <when xml:id="tls144" since="#tls143" interval="1"/>
             <when xml:id="tls145" absolute="00:30:19"/> 
             <when xml:id="tls146" since="#tls145" interval="1"/>
@@ -581,7 +578,7 @@
             <when xml:id="tls148" since="#tls147" interval="2"/>
             <when xml:id="tls149" absolute="00:30:38"/>
             <when xml:id="tls150" since="#tls149" interval="1"/>
-            <when xml:id="tls151" absolute="00:30:44"/> <!-- voce di sottofondo -->
+            <when xml:id="tls151" absolute="00:30:44"/> 
             <when xml:id="tls152" since="#tls151" interval="4"/>
             <when xml:id="tls153" absolute="00:31:04"/>
             <when xml:id="tls154" since="#tls153" interval="1"/>
@@ -593,13 +590,13 @@
             <when xml:id="tls160" since="#tls159" interval="1"/>
             <when xml:id="tls161" absolute="00:31:41"/> 
             <when xml:id="tls162" since="#tls161" interval="2"/>
-            <when xml:id="tls163" absolute="00:32:00"/> <!-- voce di sottofondo -->
+            <when xml:id="tls163" absolute="00:32:00"/> 
             <when xml:id="tls164" since="#tls163" interval="1"/>
             <when xml:id="tls165" absolute="00:33:16"/>
             <when xml:id="tls166" since="#tls165" interval="6"/>
             <when xml:id="tls167" absolute="00:33:30"/> 
             <when xml:id="tls168" since="#tls167" interval="1"/>
-            <when xml:id="tls169" absolute="00:33:37"/> <!-- voce di sottofondo -->
+            <when xml:id="tls169" absolute="00:33:37"/> 
             <when xml:id="tls170" since="#tls169" interval="1"/>
             <when xml:id="tls171" absolute="00:34:17"/> 
             <when xml:id="tls172" since="#tls171" interval="1"/>
@@ -611,32 +608,27 @@
             <when xml:id="tls178" since="#tls177" interval="1"/>
             <when xml:id="tls179" absolute="00:34:59"/>
             <when xml:id="tls180" since="#tls179" interval="4"/>
-            <!-- BLOCCO TLRI 9 -->
             <when xml:id="tls181" absolute="00:36:19"/>
             <when xml:id="tls182" since="#tls181" interval="1"/>
-            <!-- BLOCCO TLRI 10 -->
-            <when xml:id="tls183" absolute="00:39:02"/> <!-- voce di sottofondo -->
+            <when xml:id="tls183" absolute="00:39:02"/> 
             <when xml:id="tls184" since="#tls183" interval="2"/>
             <when xml:id="tls185" absolute="00:39:11"/> 
             <when xml:id="tls186" since="#tls185" interval="1"/>
             <when xml:id="tls187" absolute="00:39:16"/> 
             <when xml:id="tls188" since="#tls187" interval="1"/> 
-            <!-- BLOCCO TLREI 6 -->
             <when xml:id="tls189" absolute="00:42:33"/> 
             <when xml:id="tls190" since="#tls189" interval="2"/>
             <when xml:id="tls191" absolute="00:42:38"/> 
             <when xml:id="tls192" since="#tls191" interval="2"/>
-            <!-- BLOCCO TLRI 11 -->
-            <when xml:id="tls193" absolute="00:42:48"/> <!-- voce di sottofondo -->
+            <when xml:id="tls193" absolute="00:42:48"/>
             <when xml:id="tls194" since="#tls193" interval="2"/>
-            <!-- BLOCCO TLRI 12 -->
             <when xml:id="tls195" absolute="00:46:09"/>
             <when xml:id="tls196" since="#tls195" interval="1"/>
             <when xml:id="tls197" absolute="00:47:28"/> 
             <when xml:id="tls198" since="#tls197" interval="1"/>
             <when xml:id="tls199" absolute="00:47:36"/> 
             <when xml:id="tls200" since="#tls199" interval="1"/>
-            <when xml:id="tls201" absolute="00:47:44"/> <!-- voce di sottofondo -->
+            <when xml:id="tls201" absolute="00:47:44"/>
             <when xml:id="tls202" since="#tls201" interval="1"/>
             <when xml:id="tls203" absolute="00:47:49"/> 
             <when xml:id="tls204" since="#tls203" interval="1"/>
@@ -644,7 +636,6 @@
             <when xml:id="tls206" since="#tls205" interval="3"/>
             <when xml:id="tls207" absolute="00:48:08"/> 
             <when xml:id="tls208" since="#tls207" interval="2"/>
-            <!-- BLOCCO TLREI 7 -->
             <when xml:id="tls209" absolute="00:48:39"/> 
             <when xml:id="tls210" since="#tls209" interval="3"/>
             <when xml:id="tls211" absolute="00:48:59"/> 
@@ -657,7 +648,6 @@
             <when xml:id="tls218" since="#tls217" interval="1"/>
             <when xml:id="tls219" absolute="00:49:22"/> 
             <when xml:id="tls220" since="#tls219" interval="1"/>
-            <!-- BLOCCO TLRI 13 -->
             <when xml:id="tls221" absolute="00:49:28"/>
             <when xml:id="tls222" since="#tls221" interval="1"/>
             <when xml:id="tls223" absolute="00:49:35"/>
@@ -666,7 +656,6 @@
             <when xml:id="tls226" since="#tls225" interval="1"/>
             <when xml:id="tls227" absolute="00:50:18"/>
             <when xml:id="tls228" since="#tls227" interval="1"/>
-            <!-- BLOCCO TLRI 14 -->
             <when xml:id="tls229" absolute="00:51:34"/>
             <when xml:id="tls230" since="#tls229" interval="1"/>
             <when xml:id="tls231" absolute="00:52:05"/>
@@ -675,7 +664,6 @@
             <when xml:id="tls234" since="#tls233" interval="2"/>
             <when xml:id="tls235" absolute="00:52:25"/>
             <when xml:id="tls236" since="#tls235" interval="2"/>
-            <!-- BLOCCO TLRI 15 -->
             <when xml:id="tls237" absolute="00:52:41"/>
             <when xml:id="tls238" since="#tls237" interval="1"/>
             <when xml:id="tls239" absolute="00:52:42"/>
@@ -704,7 +692,6 @@
             <when xml:id="tls262" since="#tls261" interval="1"/>
             <when xml:id="tls263" absolute="00:53:54"/>
             <when xml:id="tls264" since="#tls263" interval="1"/>
-            <!-- TLRI BLOCCO 16 -->
             <when xml:id="tls265" absolute="00:54:19"/> 
             <when xml:id="tls266" since="#tls265" interval="1"/>
             <when xml:id="tls267" absolute="00:55:01"/>
@@ -777,7 +764,6 @@
             <when xml:id="tls334" since="#tls333" interval="1"/>
             <when xml:id="tls335" absolute="01:00:12"/>
             <when xml:id="tls336" since="#tls335" interval="7"/>
-            <!-- BLOCCO TLRI 17 -->
             <when xml:id="tls337" absolute="01:00:42"/>
             <when xml:id="tls338" since="#tls337" interval="2"/>
             <when xml:id="tls339" absolute="01:00:48"/>
@@ -796,7 +782,6 @@
             <when xml:id="tls352" since="#tls351" interval="1"/>
             <when xml:id="tls353" absolute="01:03:11"/>
             <when xml:id="tls354" since="#tls353" interval="1"/>
-            <!-- TLRI BLOCCO 18 --> 
             <when xml:id="tls357" absolute="01:03:33"/>
             <when xml:id="tls358" since="#tls357" interval="4"/>
             <when xml:id="tls359" absolute="01:03:38"/>
@@ -861,7 +846,6 @@
             <when xml:id="tls418" since="#tls417" interval="5"/>
             <when xml:id="tls419" absolute="01:07:40"/>
             <when xml:id="tls420" since="#tls419" interval="1"/>
-            <!-- BLOCCO TLRI 19 -->
             <when xml:id="tls421" absolute="01:08:06"/>
             <when xml:id="tls422" since="#tls421" interval="1"/>
             <when xml:id="tls423" absolute="01:08:07"/>
@@ -872,7 +856,6 @@
             <when xml:id="tls428" since="#tls427" interval="1"/>
             <when xml:id="tls429" absolute="01:12:54"/>
             <when xml:id="tls430" since="#tls429" interval="1"/>
-            <!-- BLOCCO EXTRA-INTERVISTA 9 -->
             <when xml:id="tls431" absolute="01:14:09"/>
             <when xml:id="tls432" since="#tls431" interval="1"/>
             <when xml:id="tls433" absolute="01:14:10"/>
@@ -885,7 +868,6 @@
             <when xml:id="tls440" since="#tls439" interval="3"/>
             <when xml:id="tls441" absolute="01:14:39"/>
             <when xml:id="tls442" since="#tls441" interval="3"/>
-            <!-- BLOCCO TLRI 20 -->
             <when xml:id="tls443" absolute="01:14:44"/>
             <when xml:id="tls444" since="#tls443" interval="1"/>
             <when xml:id="tls445" absolute="01:14:55"/>
@@ -920,7 +902,6 @@
             <when xml:id="tls478" since="#tls477" interval="2"/>
             <when xml:id="tls479" absolute="01:18:19"/>
             <when xml:id="tls480" since="#tls479" interval="3"/>
-            <!-- BLOCCO INTERVISTA 21 -->
             <when xml:id="tls481" absolute="01:18:47"/>
             <when xml:id="tls482" since="#tls481" interval="4"/>
             <when xml:id="tls483" absolute="01:18:53"/>
@@ -929,14 +910,12 @@
             <when xml:id="tls486" since="#tls485" interval="1"/>
             <when xml:id="tls487" absolute="01:19:18"/>
             <when xml:id="tls488" since="#tls487" interval="3"/>
-            <!-- BLOCCO EXTRA INTERVISTA 10 -->
             <when xml:id="tls489" absolute="01:19:31"/>
             <when xml:id="tls490" since="#tls489" interval="9"/>
             <when xml:id="tls491" absolute="01:19:46"/>
             <when xml:id="tls492" since="#tls491" interval="5"/>
             <when xml:id="tls493" absolute="01:19:52"/>
             <when xml:id="tls494" since="#tls492" interval="2"/>
-            <!-- BLOCCO INTERVISTA 22 -->
             <when xml:id="tls495" absolute="01:20:04"/>
             <when xml:id="tls496" since="#tls495" interval="1"/>
             <when xml:id="tls497" absolute="01:20:22"/>
@@ -963,7 +942,6 @@
             <when xml:id="tls518" since="#tls517" interval="9"/>
             <when xml:id="tls519" absolute="01:21:48"/>
             <when xml:id="tls520" since="#tls519" interval="1"/>
-            <!-- INTERVISTA BLOCCO 23 -->
             <when xml:id="tls521" absolute="01:23:36"/>
             <when xml:id="tls522" since="#tls521" interval="2"/>
             <when xml:id="tls523" absolute="01:23:45"/>
@@ -992,7 +970,6 @@
             <when xml:id="tls546" since="#tls545" interval="1"/>
             <when xml:id="tls547" absolute="01:27:34"/>
             <when xml:id="tls548" since="#tls547" interval="1"/>
-            <!-- EXTRA-INTERVISTA blocco 11 -->
             <when xml:id="tls549" absolute="01:27:47"/>
             <when xml:id="tls550" since="#tls549" interval="1"/>
             <when xml:id="tls551" absolute="01:27:51"/>
@@ -1011,7 +988,6 @@
             <when xml:id="tls564" since="#tls563" interval="1"/>
             <when xml:id="tls565" absolute="01:28:35"/>
             <when xml:id="tls566" since="#tls565" interval="1"/>
-            <!-- CONTINUO BLOCCO 23 -->
             <when xml:id="tls567" absolute="01:28:46"/>
             <when xml:id="tls568" since="#tls567" interval="2"/>
             <when xml:id="tls569" absolute="01:28:58"/>
@@ -1030,10 +1006,8 @@
             <when xml:id="tls582" since="#tls581" interval="2"/>
             <when xml:id="tls583" absolute="01:29:46"/>
             <when xml:id="tls584" since="#tls583" interval="1"/>
-            <!-- EXTRA INTERVISTA BLOCCO 12 -->
             <when xml:id="tls585" absolute="01:30:10"/>
             <when xml:id="tls586" since="#tls585" interval="14"/>
-            <!-- CONTINUO BLOCCO 23 -->
             <when xml:id="tls587" absolute="01:30:30"/>
             <when xml:id="tls588" since="#tls587" interval="3"/>
             <when xml:id="tls589" absolute="01:30:41"/>
@@ -1042,20 +1016,16 @@
             <when xml:id="tls592" since="#tls591" interval="1"/>
             <when xml:id="tls593" absolute="01:30:48"/>
             <when xml:id="tls594" since="#tls593" interval="1"/>
-            <!-- INTERVISTA BLOCCO 24 -->
             <when xml:id="tls595" absolute="01:30:57"/>
             <when xml:id="tls596" since="#tls595" interval="6"/>
-            <!-- EXTRA INTERVISTA BLOCCO 13 -->
             <when xml:id="tls597" absolute="01:31:26"/>
             <when xml:id="tls598" since="#tls597" interval="1"/>
             <when xml:id="tls599" absolute="01:31:39"/>
             <when xml:id="tls600" since="#tls599" interval="3"/>
-            <!-- CONTINUO BLOCCO 24 -->
             <when xml:id="tls601" absolute="01:31:51"/>
             <when xml:id="tls602" since="#tls601" interval="3"/>
             <when xml:id="tls603" absolute="01:32:00"/>
             <when xml:id="tls604" since="#tls603" interval="1"/>
-            <!-- INTERVISTA BLOCCO 25 -->
             <when xml:id="tls605" absolute="01:33:21"/>
             <when xml:id="tls606" since="#tls605" interval="1"/>
             <when xml:id="tls607" absolute="01:33:30"/>
@@ -1064,25 +1034,20 @@
             <when xml:id="tls610" since="#tls609" interval="2"/>
             <when xml:id="tls611" absolute="01:33:45"/>
             <when xml:id="tls612" since="#tls611" interval="2"/>
-            <!-- INTERVISTA BLOCCO 26 -->
             <when xml:id="tls613" absolute="01:34:05"/>
             <when xml:id="tls614" since="#tls613" interval="1"/>
-            <!-- INTERVISTA BLOCCO 27 -->
             <when xml:id="tls615" absolute="01:36:37"/>
             <when xml:id="tls616" since="#tls615" interval="1"/>
             <when xml:id="tls617" absolute="01:38:37"/>
             <when xml:id="tls618" since="#tls617" interval="1"/>
-            <!-- INTERVISTA BLOCCO 28 -->
             <when xml:id="tls619" absolute="01:39:08"/>
             <when xml:id="tls620" since="#tls619" interval="1"/>
             <when xml:id="tls621" absolute="01:39:12"/>
             <when xml:id="tls622" since="#tls621" interval="2"/>
-            <!-- INTERVISTA BLOCCO 29 -->
             <when xml:id="tls623" absolute="01:40:47"/>
             <when xml:id="tls624" since="#tls623" interval="6"/>
             <when xml:id="tls625" absolute="01:41:21"/>
             <when xml:id="tls626" since="#tls625" interval="3"/>
-            <!-- INTERVISTA BLOCCO 30 -->
             <when xml:id="tls627" absolute="01:41:33"/>
             <when xml:id="tls628" since="#tls627" interval="1"/>
             <when xml:id="tls629" absolute="01:41:40"/>
@@ -1111,7 +1076,6 @@
             <when xml:id="tls652" since="#tls651" interval="4"/>
             <when xml:id="tls653" absolute="01:45:47"/>
             <when xml:id="tls654" since="#tls653" interval="1"/>
-            <!-- BLOCCO INTERVISTA 31 -->
             <when xml:id="tls655" absolute="01:46:22"/>
             <when xml:id="tls656" since="#tls655" interval="2"/>
             <when xml:id="tls657" absolute="01:46:29"/>
@@ -1122,7 +1086,6 @@
             <when xml:id="tls662" since="#tls661" interval="1"/>
             <when xml:id="tls663" absolute="01:48:48"/>
             <when xml:id="tls664" since="#tls663" interval="19"/>
-            <!-- EXTRA-INTERVISTA BLOCCO 16 -->
             <when xml:id="tls665" absolute="01:49:27"/>
             <when xml:id="tls666" since="#tls665" interval="5"/>
             <when xml:id="tls667" absolute="01:49:49"/>
@@ -1131,7 +1094,6 @@
             <when xml:id="tls670" since="#tls671" interval="2"/>
             <when xml:id="tls671" absolute="01:49:56"/>
             <when xml:id="tls672" since="#tls672" interval="1"/>
-            <!-- INTERVISTA BLOCCO 32 -->
             <when xml:id="tls673" absolute="01:54:59"/>
             <when xml:id="tls674" since="#tls673" interval="2"/>
             <when xml:id="tls675" absolute="01:55:05"/>
@@ -1140,7 +1102,6 @@
             <when xml:id="tls678" since="#tls677" interval="1"/>
             <when xml:id="tls679" absolute="01:55:47"/>
             <when xml:id="tls680" since="#tls679" interval="1"/>
-            <!-- INTERVISTA BLOCCO 33 -->
             <when xml:id="tls681" absolute="01:56:01"/>
             <when xml:id="tls682" since="#tls681" interval="3"/>
             <when xml:id="tls683" absolute="01:56:06"/>
@@ -1161,12 +1122,10 @@
             <when xml:id="tls698" since="#tls697" interval="2"/>
             <when xml:id="tls699" absolute="01:57:53"/>
             <when xml:id="tls700" since="#tls699" interval="2"/>
-            <!-- EXTRA-INTERVISTA BLOCCO 17 -->
             <when xml:id="tls701" absolute="01:58:36"/>
             <when xml:id="tls702" since="#tls701" interval="10"/>
             <when xml:id="tls703" absolute="01:58:47"/>
             <when xml:id="tls704" since="#tls703" interval="7"/>
-            <!-- INTERVISTA BLOCCO 34 -->
             <when xml:id="tls705" absolute="01:59:16"/>
             <when xml:id="tls706" since="#tls705" interval="4"/>
             <when xml:id="tls707" absolute="01:59:30"/>
@@ -1177,30 +1136,22 @@
             <when xml:id="tls712" since="#tls711" interval="1"/>
             <when xml:id="tls713" absolute="02:00:28"/>
             <when xml:id="tls714" since="#tls713" interval="1"/>
-            <!-- EXTRA-INTERVISTA BLOCCO 18 -->
             <when xml:id="tls715" absolute="02:00:55"/>
             <when xml:id="tls716" since="#tls715" interval="2"/>
             </timeline>
 
         <!--Timeline cambio di parlante TLP -->
         <timeline xml:id="tlp" unit="s">
-            <!-- lista parlanti:
-            r = Marina Riccucci, b = (Goti) Bauer, 
-            rb = Rosanna Bauer (figlia di Goti),
-            l = Laura Ricotti, seconda che intervista, 
-            d = Daniele Quinti, riprende l'intervista
-            -->
             <when xml:id="tlp0" synch="#r1" absolute="00:00:02"/> 
-            <!-- INTERVISTA BLOCCO 1 -->
             <!-- synch si collega poi sotto nel testo, es. r1=Riccucci1 -->
-            <when xml:id="tlp1" synch="#b1" absolute="00:00:34"/>  <!-- b -->
-            <when xml:id="tlp2" synch="#r2" absolute="00:00:39"/> <!-- r -->
+            <when xml:id="tlp1" synch="#b1" absolute="00:00:34"/>  
+            <when xml:id="tlp2" synch="#r2" absolute="00:00:39"/> 
             <when xml:id="tlp3" synch="#b2" absolute="00:00:41"/>
             <when xml:id="tlp4" synch="#r3" absolute="00:00:42"/>
             <when xml:id="tlp5" synch="#b3" absolute="00:00:47"/>
             <when xml:id="tlp6" synch="#r4" absolute="00:02:59"/>
             <when xml:id="tlp7" synch="#b4" absolute="00:03:02"/>
-            <when xml:id="tlp8" synch="#rb1" absolute="00:03:16"/> <!-- rb -->
+            <when xml:id="tlp8" synch="#rb1" absolute="00:03:16"/> 
             <when xml:id="tlp9" synch="#b5" absolute="00:03:18"/>
             <when xml:id="tlp10" synch="#rb2" absolute="00:03:20"/>
             <when xml:id="tlp11" synch="#b6" absolute="00:03:21"/>
@@ -1217,10 +1168,9 @@
             <when xml:id="tlp22" synch="#b18" absolute="00:05:41"/>
             <when xml:id="tlp23" synch="#rb6" absolute="00:05:41"/>
             <when xml:id="tlp24" synch="#b19" absolute="00:05:42"/>
-            <!-- INTERVISTA BLOCCO 2 -->
             <when xml:id="tlp25" synch="#l1" absolute="00:05:57"/> 
             <when xml:id="tlp26" synch="#b20" absolute="00:06:08"/>
-            <when xml:id="tlp27" synch="#l2" absolute="00:06:13"/> <!-- l -->
+            <when xml:id="tlp27" synch="#l2" absolute="00:06:13"/> 
             <when xml:id="tlp28" synch="#b21" absolute="00:06:15"/>
             <when xml:id="tlp29" synch="#r15" absolute="00:06:53"/>
             <when xml:id="tlp30" synch="#b22" absolute="00:07:05"/>
@@ -1240,7 +1190,6 @@
             <when xml:id="tlp44" synch="#b36" absolute="00:08:58"/>
             <when xml:id="tlp45" synch="#r31" absolute="00:09:02"/>
             <when xml:id="tlp46" synch="#b37" absolute="00:09:03"/>
-            <!-- INTERVISTA BLOCCO 3 -->
             <when xml:id="tlp47" synch="#r32" absolute="00:09:35"/> 
             <when xml:id="tlp48" synch="#b38" absolute="00:09:46"/>
             <when xml:id="tlp49" synch="#r33" absolute="00:09:47"/>
@@ -1260,7 +1209,6 @@
             <when xml:id="tlp63" synch="#r41" absolute="00:12:34"/>
             <when xml:id="tlp64" synch="#rb8" absolute="00:12:34"/> 
             <when xml:id="tlp65" synch="#b47" absolute="00:12:36"/>
-            <!-- INTERVISTA BLOCCO 4 -->
             <when xml:id="tlp66" synch="#r42" absolute="00:12:53"/> 
             <when xml:id="tlp67" synch="#b48" absolute="00:13:16"/>
             <when xml:id="tlp68" synch="#r43" absolute="00:13:24"/>
@@ -1268,18 +1216,15 @@
             <when xml:id="tlp70" synch="#r44" absolute="00:13:29"/>
             <when xml:id="tlp71" synch="#b50" absolute="00:13:32"/>
             <when xml:id="tlp72" synch="#r45" absolute="00:13:36"/>
-            <!-- EXTRA-INTERVISTA BLOCCO 1 -->
             <when xml:id="tlp73" synch="#b51" absolute="00:13:40"/> 
             <when xml:id="tlp74" synch="#r46" absolute="00:13:43"/>
             <when xml:id="tlp75" synch="#b52" absolute="00:13:49"/>
             <when xml:id="tlp76" synch="#rb10" absolute="00:13:54"/>
             <when xml:id="tlp77" synch="#b53" absolute="00:13:56"/>
-            <!-- INTERVISTA BLOCCO 5  -->
             <when xml:id="tlp78" synch="#r47" absolute="00:14:22"/> 
             <when xml:id="tlp79" synch="#b55" absolute="00:14:34"/>
             <when xml:id="tlp80" synch="#r49" absolute="00:14:35"/>
-            <when xml:id="tlp81" synch="#b56" absolute="00:14:45"/> <!-- pezzo dove c'è la prima censura -->
-            <!-- INTERVISTA BLOCCO 6 -->
+            <when xml:id="tlp81" synch="#b56" absolute="00:14:45"/>
             <when xml:id="tlp82" synch="#r50" absolute="00:15:55"/> 
             <when xml:id="tlp83" synch="#b59" absolute="00:16:13"/>
             <when xml:id="tlp84" synch="#r53" absolute="00:17:09"/>
@@ -1295,9 +1240,7 @@
             <when xml:id="tlp94" synch="#r60" absolute="00:18:07"/>
             <when xml:id="tlp95" synch="#b67" absolute="00:18:14"/>
             <when xml:id="tlp96" synch="#r62" absolute="00:18:21"/>
-            <!-- EXTRA-INTERVISTA BLOCCO 2 -->
-            <when xml:id="tlp97" synch="#b69" absolute="00:18:24"/> 
-            <!-- CONTINUO INTERVISTA BLOCCO 6 -->
+            <when xml:id="tlp97" synch="#b69" absolute="00:18:24"/>
             <when xml:id="tlp98" synch="#r63" absolute="00:19:49"/>
             <when xml:id="tlp99" synch="#b70" absolute="00:20:05"/>
             <when xml:id="tlp100" synch="#r64" absolute="00:20:14"/>
@@ -1308,17 +1251,14 @@
             <when xml:id="tlp105" synch="#b74" absolute="00:21:06"/>
             <when xml:id="tlp106" synch="#r68" absolute="00:21:08"/>
             <when xml:id="tlp107" synch="#b75" absolute="00:21:09"/>
-            <!-- INTERVISTA BLOCCO 7-->
             <when xml:id="tlp108" synch="#r69" absolute="00:21:14"/> 
             <when xml:id="tlp109" synch="#b76" absolute="00:21:28"/>
             <when xml:id="tlp110" synch="#r70" absolute="00:21:30"/>
             <when xml:id="tlp111" synch="#b77" absolute="00:21:37"/>
             <when xml:id="tlp112" synch="#r71" absolute="00:21:38"/>
-            <!-- EXTRA INTERVISTA BLOCCO 3 -->
             <when xml:id="tlp113" synch="#b78" absolute="00:22:10"/> 
             <when xml:id="tlp114" synch="#rb11" absolute="00:22:15"/>
             <when xml:id="tlp115" synch="#d1" absolute="00:22:18"/> 
-            <!-- CONTINUO INTERVISTA BLOCCO 7 -->
             <when xml:id="tlp116" synch="#r72" absolute="00:22:27"/>
             <when xml:id="tlp167" synch="#b80" absolute="00:22:46"/>
             <when xml:id="tlp168" synch="#r74" absolute="00:22:47"/>
@@ -1333,7 +1273,7 @@
             <when xml:id="tlp179" synch="#b86" absolute="00:23:56"/>
             <when xml:id="tlp180" synch="#r80" absolute="00:23:58"/>
             <when xml:id="tlp181" synch="#b87" absolute="00:24:04"/>
-            <when xml:id="tlp184" synch="#r82" absolute="00:24:12"/> <!-- c'è una pausa di silenzio di due secondi nel mezzo-->
+            <when xml:id="tlp184" synch="#r82" absolute="00:24:12"/>
             <when xml:id="tlp185" synch="#b89" absolute="00:24:28"/>
             <when xml:id="tlp186" synch="#r83" absolute="00:24:31"/>
             <when xml:id="tlp189" synch="#b91" absolute="00:24:47"/>
@@ -1345,10 +1285,8 @@
             <when xml:id="tlp201" synch="#b97" absolute="00:25:40"/>
             <when xml:id="tlp202" synch="#r91" absolute="00:25:48"/>
             <when xml:id="tlp207" synch="#b100" absolute="00:26:14"/>
-            <!-- EXTRA INTERVISTA blocco 4 -->
             <when xml:id="tlp208" synch="#rb12" absolute="00:26:18"/> 
             <when xml:id="tlp209" synch="#b101" absolute="00:26:21"/>
-            <!-- CONTINUO INTERVISTA blocco 7 -->
             <when xml:id="tlp210" synch="#r94" absolute="00:26:26"/> 
             <when xml:id="tlp211" synch="#b102" absolute="00:26:27"/>
             <when xml:id="tlp212" synch="#r95" absolute="00:26:31"/>
@@ -1358,11 +1296,10 @@
             <when xml:id="tlp216" synch="#b104" absolute="00:27:56"/>
             <when xml:id="tlp217" synch="#r96" absolute="00:28:27"/>
             <when xml:id="tlp218" synch="#b105" absolute="00:28:40"/>
-            <when xml:id="tlp219" synch="#r97" absolute="00:28:43"/> <!-- in mezzo ci sono varie sovrapposizioni -->
+            <when xml:id="tlp219" synch="#r97" absolute="00:28:43"/> 
             <when xml:id="tlp220" synch="#b106" absolute="00:28:54"/>
             <when xml:id="tlp221" synch="#rb15" absolute="00:29:32"/>
             <when xml:id="tlp222" synch="#b107" absolute="00:29:32"/>
-            <!-- INTERVISTA BLOCCO 8 -->
             <when xml:id="tlp223" synch="#l3" absolute="00:30:01"/>
             <when xml:id="tlp226" synch="#b109" absolute="00:30:21"/>
             <when xml:id="tlp227" synch="#l5" absolute="00:30:27"/>
@@ -1382,24 +1319,18 @@
             <when xml:id="tlp241" synch="#b116" absolute="00:33:37"/>
             <when xml:id="tlp242" synch="#l7" absolute="00:34:38"/>
             <when xml:id="tlp245" synch="#b118" absolute="00:34:46"/>
-            <!-- INTERVISTA BLOCCO 9 -->
             <when xml:id="tlp246" synch="#r102" absolute="00:35:06"/> 
             <when xml:id="tlp247" synch="#b119" absolute="00:35:14"/>
-            <!-- INTERVISTA BLOCCO 10 -->
             <when xml:id="tlp248" synch="#r103" absolute="00:39:02"/> 
             <when xml:id="tlp251" synch="#b121" absolute="00:39:16"/>
-            <!-- INTERVISTA BLOCCO 11 -->
             <when xml:id="tlp252" synch="#r105" absolute="00:41:46"/> 
             <when xml:id="tlp253" synch="#b122" absolute="00:41:48"/>
-            <!-- EXTRA INTERVISTA BLOCCO 6 -->
             <when xml:id="tlp254" synch="#rb18" absolute="00:42:30"/> 
             <when xml:id="tlp255" synch="#b123" absolute="00:42:31"/>
             <when xml:id="tlp256" synch="#rb19" absolute="00:42:32"/>
             <when xml:id="tlp257" synch="#b124" absolute="00:42:33"/>
             <when xml:id="tlp258" synch="#r106" absolute="00:42:40"/>
-            <!-- CONTINUO INTERVISTA BLOCCO 11-->
             <when xml:id="tlp259" synch="#b125" absolute="00:42:42"/>
-            <!-- INTERVISTA BLOCCO 12 --> 
             <when xml:id="tlp260" synch="#r107" absolute="00:45:57"/> 
             <when xml:id="tlp261" synch="#b126" absolute="00:46:13"/>
             <when xml:id="tlp262" synch="#r108" absolute="00:47:25"/>
@@ -1414,7 +1345,6 @@
             <when xml:id="tlp271" synch="#b131" absolute="00:48:10"/>
             <when xml:id="tlp272" synch="#r113" absolute="00:48:22"/>
             <when xml:id="tlp273" synch="#b132" absolute="00:48:25"/>
-            <!-- EXTRA INTERVISTA BLOCCO 7 -->
             <when xml:id="tlp274" synch="#r114" absolute="00:48:29"/>
             <when xml:id="tlp275" synch="#d2" absolute="00:48:39"/> 
             <when xml:id="tlp276" synch="#b133" absolute="00:48:40"/>
@@ -1429,10 +1359,8 @@
             <when xml:id="tlp288" synch="#r116" absolute="00:49:19"/>
             <when xml:id="tlp289" synch="#b137" absolute="00:49:22"/>
             <when xml:id="tlp290" synch="#d8" absolute="00:49:22"/>
-            <!-- INTERVISTA BLOCCO 13 -->
             <when xml:id="tlp291" synch="#r117" absolute="00:49:23"/> 
             <when xml:id="tlp292" synch="#b138" absolute="00:49:33"/>
-            <!-- INTERVISTA BLOCCO 14 -->
             <when xml:id="tlp295" synch="#r119" absolute="00:51:14"/> 
             <when xml:id="tlp296" synch="#b140" absolute="00:51:23"/>
             <when xml:id="tlp297" synch="#r120" absolute="00:51:24"/>
@@ -1441,7 +1369,6 @@
             <when xml:id="tlp300" synch="#b142" absolute="00:52:05"/>
             <when xml:id="tlp301" synch="#l10" absolute="00:52:11"/>
             <when xml:id="tlp302" synch="#b143" absolute="00:52:15"/>
-            <!-- INTERVISTA BLOCCO 15 -->
             <when xml:id="tlp303" synch="#r122" absolute="00:52:31"/>
             <when xml:id="tlp306" synch="#b145" absolute="00:52:44"/>
             <when xml:id="tlp311" synch="#r126" absolute="00:53:14"/>
@@ -1454,19 +1381,16 @@
             <when xml:id="tlp324" synch="#b154" absolute="00:53:50"/>
             <when xml:id="tlp325" synch="#rb22" absolute="00:53:51"/>
             <when xml:id="tlp328" synch="#b156" absolute="00:53:54"/>
-            <!-- INTERVISTA BLOCCO 16 -->
             <when xml:id="tlp329" synch="#r131" absolute="00:54:00"/> 
             <when xml:id="tlp330" synch="#b157" absolute="00:54:20"/>
             <when xml:id="tlp331" synch="#r132" absolute="00:54:24"/>
             <when xml:id="tlp332" synch="#b158" absolute="00:54:25"/>
             <when xml:id="tlp333" synch="#x1" absolute="00:54:43"/> 
-            <!-- BLOCCO TLREI 8 qualcuno bussa alla porta-->
             <when xml:id="tlp334" synch="#b159" absolute="00:54:44"/>
             <when xml:id="tlp335" synch="#rb24" absolute="00:54:48"/>
             <when xml:id="tlp336" synch="#r133" absolute="00:54:50"/>
             <when xml:id="tlp337" synch="#b160" absolute="00:54:51"/>
             <when xml:id="tlp338" synch="#rb25" absolute="00:54:52"/>
-            <!-- CONTINUO INTERVISTA BLOCCO 16 -->
             <when xml:id="tlp339" synch="#r134" absolute="00:54:54"/> 
             <when xml:id="tlp340" synch="#b161" absolute="00:55:01"/>
             <when xml:id="tlp341" synch="#r135" absolute="00:55:01"/>
@@ -1501,7 +1425,6 @@
             <when xml:id="tlp384" synch="#b183" absolute="01:00:11"/>
             <when xml:id="tlp385" synch="#r157" absolute="01:00:12"/>
             <when xml:id="tlp386" synch="#b184" absolute="01:00:21"/>
-            <!-- INTERVISTA BLOCCO 17 -->
             <when xml:id="tlp387" synch="#r158" absolute="01:00:24"/> 
             <when xml:id="tlp388" synch="#b185" absolute="01:00:39"/>
             <when xml:id="tlp389" synch="#r159" absolute="01:00:55"/>
@@ -1514,7 +1437,6 @@
             <when xml:id="tlp398" synch="#b190" absolute="01:01:53"/>
             <when xml:id="tlp399" synch="#r164" absolute="01:01:54"/>
             <when xml:id="tlp400" synch="#b191" absolute="01:01:56"/>
-            <!-- INTERVISTA BLOCCO 18 -->
             <when xml:id="tlp401" synch="#r165" absolute="02:00:55"/>
             <when xml:id="tlp404" synch="#b193" absolute="01:03:39"/>
             <when xml:id="tlp405" synch="#r167" absolute="01:03:41"/>
@@ -1541,14 +1463,11 @@
             <when xml:id="tlp432" synch="#b207" absolute="01:07:20"/>
             <when xml:id="tlp435" synch="#r182" absolute="01:07:25"/>
             <when xml:id="tlp436" synch="#b209" absolute="01:07:40"/>
-            <!-- INTERVISTA BLOCCO 19 -->
             <when xml:id="tlp437" synch="#r183" absolute="01:07:50"/>
-            <when xml:id="tlp438" synch="#b210" absolute="01:08:06"/> <!-- di mezzo c'è anche l'extra-intervista blocco 9 -->
-            <!-- EXTRA-INTERVISTA BLOCCO 9 -->
+            <when xml:id="tlp438" synch="#b210" absolute="01:08:06"/> 
             <when xml:id="tlp439" synch="#r184" absolute="01:14:09"/>
             <when xml:id="tlp440" synch="#b211" absolute="01:14:21"/>
             <when xml:id="tlp441" synch="#l11" absolute="01:14:39"/>
-            <!-- INTERVISTA BLOCCO 20 -->
             <when xml:id="tlp442" synch="#r185" absolute="01:14:43"/>
             <when xml:id="tlp443" synch="#b212" absolute="01:14:54"/>
             <when xml:id="tlp446" synch="#r187" absolute="01:14:57"/>
@@ -1566,7 +1485,6 @@
             <when xml:id="tlp460" synch="#r194" absolute="01:16:40"/>
             <when xml:id="tlp461" synch="#b221" absolute="01:16:46"/>
             <when xml:id="tlp462" synch="#r195" absolute="01:18:17"/>
-            <!-- INTERVISTA BLOCCO 21 -->
             <when xml:id="tlp463" synch="#l12" absolute="01:18:31"/>
             <when xml:id="tlp464" synch="#b222" absolute="01:18:47"/>
             <when xml:id="tlp465" synch="#l13" absolute="01:18:52"/>
@@ -1579,18 +1497,15 @@
             <when xml:id="tlp472" synch="#b226" absolute="01:19:16"/>
             <when xml:id="tlp473" synch="#r197" absolute="01:19:24"/>
             <when xml:id="tlp474" synch="#b227" absolute="01:19:27"/>
-            <when xml:id="tlp475" synch="#rb26" absolute="01:19:29"/> <!-- continua nell'Extra-Intervista 10 -->
-            <!-- EXTRA-INTERVISTA BLOCCO 10 -->
+            <when xml:id="tlp475" synch="#rb26" absolute="01:19:29"/>
             <when xml:id="tlp476" synch="#rb27" absolute="01:19:41"/>
             <when xml:id="tlp477" synch="#b228" absolute="01:19:53"/>
-            <!-- INTERVISTA BLOCCO 22 -->
             <when xml:id="tlp478" synch="#r198" absolute="01:19:59"/>
             <when xml:id="tlp479" synch="#b229" absolute="01:20:18"/>
             <when xml:id="tlp480" synch="#r199" absolute="01:20:44"/>
             <when xml:id="tlp481" synch="#b230" absolute="01:20:46"/>
-            <when xml:id="tlp481x" synch="#r199x" absolute="01:20:55"/><!-- Riga inserita postuma a causa di una svista -->
-            <when xml:id="tlp481y" synch="#b230y" absolute="01:21:39"/><!-- Riga inserita postuma a causa di una svista -->
-            <!-- INTERVISTA BLOCCO 23 --> 
+            <when xml:id="tlp481x" synch="#r199x" absolute="01:20:55"/>
+            <when xml:id="tlp481y" synch="#b230y" absolute="01:21:39"/>
             <when xml:id="tlp482" synch="#r200" absolute="01:23:19"/>
             <when xml:id="tlp483" synch="#b231" absolute="01:23:54"/>
             <when xml:id="tlp484" synch="#r201" absolute="01:24:06"/>
@@ -1603,7 +1518,6 @@
             <when xml:id="tlp491" synch="#b235" absolute="01:26:30"/>
             <when xml:id="tlp492" synch="#r205" absolute="01:26:57"/>
             <when xml:id="tlp493" synch="#b236" absolute="01:27:29"/>
-            <!-- EXTRA-INTERVISTA BLOCCO 11 -->
             <when xml:id="tlp494" synch="#r206" absolute="01:27:46"/>
             <when xml:id="tlp495" synch="#l16" absolute="01:27:57"/>
             <when xml:id="tlp496" synch="#b237" absolute="01:28:10"/>
@@ -1611,7 +1525,6 @@
             <when xml:id="tlp498" synch="#rb28" absolute="01:28:31"/>
             <when xml:id="tlp499" synch="#l18" absolute="01:28:32"/>
             <when xml:id="tlp500" synch="#b238" absolute="01:28:44"/>
-            <!-- CONTINUO INTERVISTA BLOCCO 23 -->
             <when xml:id="tlp501" synch="#r207" absolute="01:28:46"/>
             <when xml:id="tlp502" synch="#b239" absolute="01:28:56"/>
             <when xml:id="tlp503" synch="#r208" absolute="01:29:06"/>
@@ -1624,20 +1537,16 @@
             <when xml:id="tlp510" synch="#b243" absolute="01:30:29"/>
             <when xml:id="tlp511" synch="#r212" absolute="01:30:40"/>
             <when xml:id="tlp512" synch="#b244" absolute="01:30:48"/>
-            <!-- INTERVISTA BLOCCO 24 -->
             <when xml:id="tlp513" synch="#r213" absolute="01:30:50"/>
             <when xml:id="tlp514" synch="#b245" absolute="01:31:12"/>
-            <!-- EXTRA-INTERVISTA BLOCCO 13 -->
             <when xml:id="tlp515" synch="#r214" absolute="01:31:23"/>
             <when xml:id="tlp516" synch="#b246" absolute="01:31:24"/>
             <when xml:id="tlp517" synch="#r215" absolute="01:31:25"/>
             <when xml:id="tlp518" synch="#b247" absolute="01:31:27"/>
             <when xml:id="tlp519" synch="#r216" absolute="01:31:44"/>
             <when xml:id="tlp520" synch="#d9" absolute="01:31:45"/>
-            <!-- CONTINUO INTERVISTA BLOCCO 24 -->
             <when xml:id="tlp521" synch="#r217" absolute="01:31:48"/>
             <when xml:id="tlp522" synch="#b248" absolute="01:31:58"/>
-            <!-- INTERVISTA BLOCCO 25 -->
             <when xml:id="tlp523" synch="#r218" absolute="01:33:13"/>
             <when xml:id="tlp524" synch="#b249" absolute="01:33:17"/>
             <when xml:id="tlp525" synch="#r219" absolute="01:33:18"/>
@@ -1646,12 +1555,10 @@
             <when xml:id="tlp528" synch="#b251" absolute="01:33:30"/>
             <when xml:id="tlp529" synch="#r221" absolute="01:33:34"/>
             <when xml:id="tlp530" synch="#b252" absolute="01:33:43"/>
-            <!-- INTERVISTA BLOCCO 26 -->
             <when xml:id="tlp531" synch="#r222" absolute="01:33:56"/>
             <when xml:id="tlp532" synch="#b253" absolute="01:34:05"/>
             <when xml:id="tlp533" synch="#r223" absolute="01:34:10"/>
             <when xml:id="tlp534" synch="#b254" absolute="01:34:12"/>
-            <!-- INTERVISTA BLOCCO 27 -->
             <when xml:id="tlp535" synch="#r224" absolute="01:36:14"/>
             <when xml:id="tlp536" synch="#b255" absolute="01:36:17"/>
             <when xml:id="tlp537" synch="#r225" absolute="01:36:37"/>
@@ -1660,17 +1567,13 @@
             <when xml:id="tlp540" synch="#b257" absolute="01:38:28"/>
             <when xml:id="tlp541" synch="#r227" absolute="01:38:29"/>
             <when xml:id="tlp542" synch="#b258" absolute="01:38:30"/>
-            <!-- INTERVISTA BLOCCO 28 -->
             <when xml:id="tlp543" synch="#r228" absolute="01:39:08"/>
             <when xml:id="tlp544" synch="#b259" absolute="01:39:21"/>
-            <!-- INTERVISTA BLOCCO 29 -->
             <when xml:id="tlp545" synch="#r229" absolute="01:39:37"/>
             <when xml:id="tlp546" synch="#b260" absolute="01:39:43"/>
             <when xml:id="tlp547" synch="#r230" absolute="01:40:25"/>
             <when xml:id="tlp548" synch="#b261" absolute="01:40:40"/>
-            <!-- EXTRA-INTERVISTA BLOCCO 15 -->
             <when xml:id="tlp549" synch="#x2" absolute="01:41:28"/>
-            <!-- INTERVISTA BLOCCO 30 -->
             <when xml:id="tlp550" synch="#r231" absolute="01:41:30"/>
             <when xml:id="tlp551" synch="#b262" absolute="01:41:51"/>
             <when xml:id="tlp552" synch="#r232" absolute="01:41:58"/>
@@ -1695,7 +1598,6 @@
             <when xml:id="tlp573" synch="#b273" absolute="01:45:26"/>
             <when xml:id="tlp574" synch="#r244" absolute="01:45:30"/>
             <when xml:id="tlp575" synch="#b274" absolute="01:45:38"/>
-            <!-- INTERVISTA BLOCCO 31 -->
             <when xml:id="tlp576" synch="#r245" absolute="01:46:06"/>
             <when xml:id="tlp577" synch="#b275" absolute="01:46:20"/>
             <when xml:id="tlp578" synch="#r246" absolute="01:46:22"/>
@@ -1706,16 +1608,13 @@
             <when xml:id="tlp583" synch="#b278" absolute="01:46:51"/>
             <when xml:id="tlp584" synch="#r249" absolute="01:48:24"/>
             <when xml:id="tlp585" synch="#b279" absolute="01:48:28"/>
-            <!-- EXTRA-INTERVISTA BLOCCO 16 -->
             <when xml:id="tlp586" synch="#b280" absolute="01:49:10"/>
             <when xml:id="tlp587" synch="#rb29" absolute="01:49:27"/>
             <when xml:id="tlp588" synch="#b281" absolute="01:49:32"/>
             <when xml:id="tlp589" synch="#r250" absolute="01:49:51"/>
             <when xml:id="tlp590" synch="#b282" absolute="01:49:57"/>
-            <!-- INTERVISTA BLOCCO 32 -->
             <when xml:id="tlp591" synch="#r251" absolute="01:54:56"/>
             <when xml:id="tlp592" synch="#b283" absolute="01:55:02"/>
-            <!-- INTERVISTA BLOCCO 33 -->
             <when xml:id="tlp593" synch="#r252" absolute="01:55:56"/>
             <when xml:id="tlp594" synch="#b284" absolute="01:56:06"/>
             <when xml:id="tlp595" synch="#rb30" absolute="01:56:19"/>
@@ -1728,13 +1627,11 @@
             <when xml:id="tlp602" synch="#b288" absolute="01:56:54"/>
             <when xml:id="tlp603" synch="#r256" absolute="01:57:24"/>
             <when xml:id="tlp604" synch="#b289" absolute="01:57:29"/>
-            <!-- EXTRA-INTERVISTA BLOCCO 17 -->
             <when xml:id="tlp605" synch="#r257" absolute="01:58:21"/>
             <when xml:id="tlp606" synch="#b290" absolute="01:58:26"/>
             <when xml:id="tlp607" synch="#r258" absolute="01:58:28"/>
             <when xml:id="tlp608" synch="#b291" absolute="01:58:30"/>
             <when xml:id="tlp609" synch="#rb31" absolute="01:58:32"/>
-            <!-- INTERVISTA BLOCCO 34 -->
             <when xml:id="tlp610" synch="#r259" absolute="01:58:54"/>
             <when xml:id="tlp611" synch="#b292" absolute="01:59:01"/>
             <when xml:id="tlp612" synch="#d10" absolute="01:59:35"/>
@@ -1848,26 +1745,6 @@
             <when xml:id="tln85" synch="#n86" absolute="01:59:21"/>
             <when xml:id="tln86" synch="#n87" absolute="01:59:42"/>
         </timeline>
-
-        <!-- timeline parole non comprese -->
-        <timeline xml:id="tlnc">
-            <when xml:id="tlnc0" synch="#nc1" absolute="00:00:29"/>
-            <when xml:id="tlnc1" synch="#nc2" absolute="00:03:07"/>
-            <when xml:id="tlnc2" synch="#nc3" absolute="00:06:40"/>
-            <when xml:id="tlnc3" synch="#nc4" absolute="00:11:33"/>
-            <when xml:id="tlnc4" synch="#nc5" absolute="00:53:31"/>
-            <when xml:id="tlnc5" synch="#nc6" absolute="01:00:05"/>
-            <when xml:id="tlnc6" synch="#nc7" absolute="00:31:53"/>
-            <when xml:id="tlnc7" synch="#nc8" absolute="00:31:55"/>
-            <when xml:id="tlnc8" synch="#nc9" absolute="01:05:57"/>
-            <when xml:id="tlnc9" synch="#nc10" absolute="01:06:03"/>
-            <when xml:id="tlnc10" synch="#nc11" absolute="01:16:08"/>
-            <when xml:id="tlnc11" synch="#nc12" absolute="01:26:57"/>
-            <when xml:id="tlnc12" synch="#nc13" absolute="01:32:38"/>
-            <when xml:id="tlnc13" synch="#nc14" absolute="01:33:40"/>
-            <when xml:id="tlnc14" synch="#nc15" absolute="01:39:23"/>
-            <when xml:id="tlnc15" synch="#nc16" absolute="01:44:36"/>
-        </timeline>
     </standOff>
 
     <text>
@@ -1875,28 +1752,24 @@
             <!-- corpo del testo trascritto, diviso nei vari blocchi -->
             <div type="intervista1">
                 <incident xml:id="n1" synch="#tln0"><desc>Rumore di auto</desc></incident>
-                <u who="#MR" xml:id="r1" synch="#tlp0">
-                <shift feature="pitch" new="monot"/>Dunque, <shift feature="pitch" new="normal"/>il <del type="correction">quando</del> siamo andate a <del type="repetition">Siamo andate a</del> incontrare <persName ref="#LG">Liliana Segre</persName>, 
-                Liliana ha detto "<cit><quote>Per me Goti è come <persName ref="#DC">Virgilio</persName> per <persName ref="#DC">Dante</persName></quote></cit>". 
+                <u who="#MR" xml:id="r1" synch="#tlp0"><shift feature="pitch" new="monot"/>Dunque, <shift feature="pitch" new="normal"/>il <del type="correction">quando</del> siamo andate a <del type="repetition">Siamo andate a</del> incontrare <persName ref="#LG">Liliana Segre</persName>, 
+                Liliana ha detto "<cit><quote>Per me Goti è come <bibl><title ref="#DC">Virgilio</title></bibl> per <bibl><title ref="#DC">Dante</title></bibl></quote></cit>". 
                 <vocal xml:id="n2" synch="#tln1"><desc>Goti ride</desc></vocal>
-                e ha iniziato il racconto di come, e di quando, abbia lei stessa iniziato a testimoniare. E ci ha raccontato il <desc xml:id="nc1" synch="#tlnc0">Parola non compresa</desc> di Bauer. <vocal><desc>Ehmm</desc></vocal>, ci farebbe.. </u>
+                e ha iniziato il racconto di come, e di quando, abbia lei stessa iniziato a testimoniare. E ci ha raccontato il <gap reason="inaudible"/> di Bauer. <vocal><desc>Ehmm</desc></vocal>, ci farebbe.. </u>
                 <u who="#GB" xml:id="b1" synch="#tlp1">Me la ricordo, perché lei per la verità era restia. E sono stata io a convincerla.</u>
                 <u who="#MR" xml:id="r2" synch="#tlp2">Ce la racconta.</u>
-                <u who="#GB" xml:id="b2" synch="#tlp3">Sì
-                <anchor synch="#tls1"/><desc>Sovrapposizione</desc></u><anchor synch="#tls2"/>
-                <u who="#MR" xml:id="r3" synch="#tlp4">Questo incontro  
-                <anchor synch="#tls3"/><desc>Sovrapposizione tra Riccucci e Bauer, non si capisce cosa dicono</desc><anchor synch="#tls4"/>
-                con <persName ref="LS">Liliana</persName> e il modo in cui l'ha convinta <pause dur="pt1s"/>a testimoniare</u>
+                <u who="#GB" xml:id="b2" synch="#tlp3">Sì<anchor synch="#tls1"/><desc>Sovrapposizione</desc></u><anchor synch="#tls2"/>
+                <u who="#MR" xml:id="r3" synch="#tlp4">Questo incontro <anchor synch="#tls3"/><desc>Sovrapposizione tra Riccucci e Bauer, non si capisce cosa dicono</desc><anchor synch="#tls4"/> con <persName ref="LS">Liliana</persName> e il modo in cui l'ha convinta <pause dur="pt1s"/>a testimoniare</u>
                 <u who="#GB" xml:id="b3" synch="#tlp5">Adesso dovrei ripensare bene a quello che ho adesso. Adesso esattamente non mi ricordo. Mi ricordo che mentre <pause dur="pt2s"/> i testimoni che c'erano, erano <persName ref="NF">Nedo Fiano</persName>, io e ancora una terza persona che però ne ha parlato poco. E poi forse era anche partita.
-                E io ho pensato che c'era Liliana che era però parecchio più giovane e che non aveva ancora iniziato a parlare. <pause dur="pt1s"/> E io la conoscevo, ma da poco tempo. E allora un giorno ci siamo incontrate in casa nos, <del type="correction">di</del> un'amica comune e a un certo punto le ho detto "<cit><quote>Guarda ti voglio dire una cosa</quote></cit>", perché lei ascoltava me e approvava quello che dicevo. Ma allo stesso tempo, lei non parlava.
+                E io ho pensato che c'era Liliana che era però parecchio più giovane e che non aveva ancora iniziato a parlare. <pause dur="pt1s"/> E io la conoscevo, ma da poco tempo. E allora un giorno ci siamo incontrate in casa <del type="correction">nos</del>, di un'amica comune e a un certo punto le ho detto "<cit><quote>Guarda ti voglio dire una cosa</quote></cit>", perché lei ascoltava me e approvava quello che dicevo. Ma allo stesso tempo, lei non parlava.
                 Allora io le ho detto che anche per me era stato difficile all'inizio, ma lo ritenevo un dovere. Perché questo dovere era tale per cui nessuno ci poteva sostituire, perché eravamo tra i pochissimi che questa storia la potevo- <del type="correction">potevano</del> raccontare.
                 E allora a furia di parlarle, lei ci ha pensato e ha accettato. Poi ha cominciato a parlare ma come spesso succede, che l'allievo diventa migliore del maestro 
                 <vocal xml:id="n3" synch="#tln2"><desc>Goti ride</desc></vocal>, allora è andata così. Che ovviamente abbiamo gli stessi ricordi ma molto diversi.
                 Lei era molto più giovane di me, ha avuto una situazione diversa dalla mia. Lì, e allora ha delle cose <del type="correction">abbiamo</del> delle cose in comune <del type="repetion">in comune</del> da raccontare, ma altri che sono molto specifiche, molto individuali.
-                E infatti lei è diventata bravissima e negli anni ovviamente si è abituata a parlare. E ogni volta che parla, le viene fuori ancora meglio tutto quello che ha da dire.</u>
-                <u who="#MR" xml:id="r4" synch="#tlp6">Se la ricorda questa amica comune?</u>
+                E infatti lei è diventata bravissima e negli anni ovviamente si è abituata a parlare. E ogni volta che parla, le viene fuori ancora meglio tutto quello che ha da dire.</u>  
+                <u who="#MR" xml:id="r4" synch="#tlp6">Se la ricorda questa amica comune?</u> 
                 <u who="#GB" xml:id="b4" synch="#tlp7">
-                Eravamo in <pause dur="pt1s"/> <q type="spoken" who="#GB" toWhom="#RB">Sai da chi? Da quella signora, sulla <desc xml:id="nc2" synch="#tlnc1">parola non compresa</desc> sul momento stavo già pensando prima, 
+                Eravamo in <pause dur="pt1s"/> <q type="spoken" who="#GB" toWhom="#RB">Sai da chi? Da quella signora, sulla <gap reason="inaudible"/> sul momento stavo già pensando prima, 
                 <vocal><desc>Ehm</desc></vocal>, quella che non ha figli ma ha delle nipoti</q></u>
                 <u who="#RB" xml:id="rb1" synch="#tlp8"><q type="spoken" who="#RB" toWhom="#GB">ah dalla</q></u>
                 <anchor synch="#tls5"/><desc>Sovrapposizione tra Goti e Rosanna Bauer</desc><anchor synch="#tls6"/>
@@ -1926,8 +1799,8 @@
                 che in casa della quale
                 <anchor synch="#tls19"/>Ah, non <del type="correction">mi</del> lei non ricordava il nome?<anchor synch="#tls20"/>
                 No, non mi ricordavo, no</u>
-                <u who="#GB" xml:id="b16" synch="#tlp17">Gianna Pavia si chiama</u>
-                <u who="#MR" xml:id="r14" synch="#tlp18">Gianna Pavia<pause dur="pt1s"/></u>
+                <u who="#GB" xml:id="b16" synch="#tlp17"><persName ref="#GP">Gianna Pavia</persName> si chiama</u>
+                <u who="#MR" xml:id="r14" synch="#tlp18"><persName ref="#GP">Gianna Pavia</persName><pause dur="pt1s"/></u>
                 <u who="#RB" xml:id="rb4" synch="#tlp19">Rosenfelte Pavia</u>
                 <u who="#GB" xml:id="b17" synch="#tlp20"><vocal><desc>Eh?</desc></vocal></u>
                 <u who="#RB" xml:id="rb5" synch="#tlp21">Rosenfelte Pavia</u>
@@ -1946,7 +1819,7 @@
                 Però poi non mi ricordo, forse alla <orgName ref="#ADEI">ADEI</orgName>. All'<orgName ref="#ADEI">ADEI</orgName>, forse           
                 <anchor synch="#tls25"/><desc>Sovrapposizione con altri parlanti</desc>L'associazione femminile<anchor synch="#tls26"/>
                 <anchor synch="#tls27"/><desc>Voci di sottofondo</desc><anchor synch="#tls28"/>
-                Sì una sera, che hanno voluto sentire, anche <desc xml:id="nc3" synch="#tlnc2">nome non compreso</desc> aveva parlato quella notte, che era, come dire, l'uomo, amico nostro, purtroppo adesso non riesce più a parlare e ha parlato anche lui quella volta</u>
+                Sì una sera, che hanno voluto sentire, anche <gap reason="inaudible"/> aveva parlato quella notte, che era, come dire, l'uomo, amico nostro, purtroppo adesso non riesce più a parlare e ha parlato anche lui quella volta</u>
                 <u who="#MR" xml:id="r15" synch="#tlp29">Sì, a noi risulta che fu nel <date when="1999">'99</date>, all'<placeName ref="#AMI">Auditorium</placeName> di <vocal><desc>mhm</desc></vocal> <placeName ref="#MI">Milano</placeName>, può darsi, <del type="correction">s</del> proprio voi per insieme. Addirittura c'è un</u>
                 <anchor synch="#tls29"/><u who="#GB" xml:id="b22" synch="#tlp30">No, questo me lo ricordo all'<orgName ref="#ADEI">ADEI</orgName></u><anchor synch="#tls30"/>
                 <u who="#RB" xml:id="rb7" synch="#tlp31">No, non può essere, che all'Auditorium che eravate tutti e tre insieme</u>
@@ -2016,7 +1889,7 @@
                 Allora, quello di cui, e forse te l'ho anche detto, perché ogni tanto mi torna in mente, che una volta mio marito aveva bisogno di visitare alcuni paesi dell'<placeName ref="#EUO">Europa Orientale</placeName>,
                 e non mi ricordo più quali, la <placeName ref="#CECO">Cecoslovacchia</placeName>, e la <placeName ref="#POLONIA">Polonia</placeName>, e non mi ricordo che. E poi al ritorno si può passare da <placeName ref="#AUSCH">Auschwitz</placeName> e lui mi ha detto, <vocal><desc>Ehm</desc></vocal> <del type="repetition">lui mi ha detto</del>, se volevo venire anche io. 
                 E adesso non mi ricordo se questo è successo due volte, per cui una volta ci sono andata e una no, 
-                ma <desc xml:id="nc4" synch="#tlnc3">parola non compresa</desc> bene che ho detto <cit><quote>Non ci voglio tornare, perché non è più l'<placeName ref="#AUSCH">Auschwitz</placeName> di cui mi ricordo io</quote></cit>, perché nel frattempo avevano costruito lì delle casette, delle villette, e quello non mi apparteneva più. E quella volta non sono andata.
+                ma <gap reason="inaudible"/> bene che ho detto <cit><quote>Non ci voglio tornare, perché non è più l'<placeName ref="#AUSCH">Auschwitz</placeName> di cui mi ricordo io</quote></cit>, perché nel frattempo avevano costruito lì delle casette, delle villette, e quello non mi apparteneva più. E quella volta non sono andata.
                 Può darsi che in una volta precedente ci sia andata, adesso francamente non mi ricordo. Ci sono <del type="correction">i-</del>, gli anni in cui sono andata lì, in quello che mi ha detto adesso, in che anno, ci sono <del type="correction">due</del> che io ci sono andata due volte
                 </u>
                 <u who="#MR" xml:id="r39" synch="#tlp59">No, lei ha <del type="correction">dett</del>, ha precisato solo, <vocal><desc>ehm</desc></vocal>, il <date when="2009">2009</date>, in, <del type="correction">pres-</del> insomma, in compagnia di Veltroni, però non ci ha dato</u>
@@ -2282,7 +2155,7 @@
                 l'avevamo lasciata in terza media e l'avevamo ritrovata iscritta all'università, ci mancava questo passaggio</u>
                 <anchor synch="#tls161"/><desc>Sovrapposizione</desc><anchor synch="#tls162"/>
                 <u who="#GB" xml:id="b114" synch="#tlp236">Ho fatto tutti gli anni, si andava all'esame e il professore, sempre, <vocal><desc>ohm</desc></vocal> prima alle medie e poi al liceo scientifico 
-                <desc xml:id="nc7" synch="#tlnc6">nome del liceo non compreso</desc>, si chiamava <desc xml:id="nc8" synch="#tlnc7">nome del liceo non compreso</desc>, il liceo scientifico, e lì si davano gli esami
+                <gap reason="inaudible"/>, si chiamava <gap reason="inaudible"/>, il liceo scientifico, e lì si davano gli esami
                 <anchor synch="#tls163"/><desc>Voce di sottofondo</desc><anchor synch="#tls164"/>
                 con tutti i professori della scuola, ci si presentava da privatisti e <vocal><desc>ehm</desc></vocal> via via, c'era un unico professore. Tutti molto, come dire, molto <vocal><desc>mh</desc></vocal> rispettosi <del type="repetition">e anche</del> e anche compiaciuti, del fatto che non avessimo voluto interrompere gli studi. 
                 Ascoltavano, facevano le domande e poi alla fine ti salutavano anche con una stretta di mano, come dire <cit><quote>brava, che hai studiato</quote></cit>. 
@@ -2526,7 +2399,7 @@
                 <u who="#GB" xml:id="b148" synch="#tlp312">Certo, eravamo amici. Ero amica di sua moglie
                 <anchor synch="#tls249"/><shift feature="pitch" new="monot"/>di Gisella?<anchor synch="#tls250"/>
                 <shift feature="pitch" new="normal"/>Sì, sì. <persName ref="#GK">Kugler</persName>. Sì, ero amica della sorella di <del type="correction">Ge</del> <persName ref="#GK">Gisella Kugler</persName></u>
-                <u who="#MR" xml:id="r128" synch="#tlp315">Certo, <desc xml:id="nc5" synch="#tlnc4">parole a voce bassa irriconoscibili</desc>
+                <u who="#MR" xml:id="r128" synch="#tlp315">Certo, <gap reason="inaudible"/>
                 <anchor synch="#tls251"/>Sì, sì<anchor synch="#tls252"/>
                 arriviamo anche lì. <vocal><desc>ehm</desc></vocal> Lei conosce <persName ref="#AS">Arianna</persName>
                 <anchor synch="#tls253"/><persName ref="#AS">Szörényi</persName>?<anchor synch="#tls254"/>
@@ -2682,7 +2555,7 @@
                 <persName ref="#NV">Nelly Vamos</persName></u>
                 <u who="#GB" xml:id="b182" synch="#tlp382">Sì, <persName ref="#NV">Vamos</persName> era un nome di una famiglia fiumana e lei era appunto</u>
                 <u who="#MR" xml:id="r156" synch="#tlp383"><shift feature="pitch" new="monot"/>Lei si è salvata
-                <desc xml:id="nc6" synch="#tlnc5">Parole incomprensibili</desc>
+                <gap reason="inaudible"/>
                 Dunque, lei ha detto che con voi c'era anche la famiglia <persName ref="#BERGER">Berger</persName></u>
                 <u who="#GB" xml:id="b183" synch="#tlp384">Sì</u>
                 <u who="#MR" xml:id="r157" synch="#tlp385">
@@ -2788,8 +2661,8 @@
                 <u who="#GB" xml:id="b199" synch="#tlp416">
                 No, poi non ci siamo andati. Questa signora ce l'aveva proposto e consigliato perché eravamo disperati. 
                 <anchor synch="#tls387"/><vocal><desc>eh</desc></vocal><anchor synch="#tls388"/> 
-                Però il <desc xml:id="nc9" synch="#tlnc8">parola non compresa</desc> mi fa pensare, per, <vocal><desc>ehm</desc></vocal>, noi siamo partiti poi la sera. 
-                Abbiamo preso alle <desc xml:id="nc10" synch="#tlnc9">parola non compreso</desc> un treno alla sera, e siamo arrivati fino a <placeName ref="#VARESE">Varese</placeName> in treno. Poi con un tram siamo arrivati
+                Però il <gap reason="inaudible"/> mi fa pensare, per, <vocal><desc>ehm</desc></vocal>, noi siamo partiti poi la sera. 
+                Abbiamo preso alle <gap reason="inaudible"/> un treno alla sera, e siamo arrivati fino a <placeName ref="#VARESE">Varese</placeName> in treno. Poi con un tram siamo arrivati
                 <anchor synch="#tls389"/>Quello sì, fino a <placeName ref="#GHIRLA">Ghirla</placeName><anchor synch="#tls390"/>
                 Sì.</u>
                 <u who="#MR" xml:id="r174" synch="#tlp419">Però da <placeName ref="#VISERBA">Viserba</placeName> a <placeName ref="#MI">Milano</placeName>, 
@@ -2921,7 +2794,7 @@
                 <anchor synch="#tls465"/><desc>Voce di sottofondo</desc><anchor synch="#tls466"/>
                 Noi non siamo riusciti a ritrovare la storia di questo giovane. Dice "<cit><quote>c'era un giovane lì con noi</quote></cit>"</u>
                 <u who="#GB" xml:id="b217" synch="#tlp453">E dove si può chiedere, <del type="repetition">al</del> <del type="correction">al</del> nel carcere? 
-                Forse <desc xml:id="nc11" synch="#tlnc10">parole non comprensibili</desc>
+                Forse <gap reason="inaudible"/>
                 <anchor synch="#tls467"/>Sì, forse, forse<anchor synch="#tls468"/></u>
                 <u who="#MR" xml:id="r191" synch="#tlp454">lei dice</u>
                 <anchor synch="#tls469"/><desc>Sovrapposizione</desc><anchor synch="#tls470"/>
@@ -3062,7 +2935,7 @@
                 <vocal><desc>Ehh</desc></vocal> E l'hanno fatto la mattina dopo entrando nelle, come dire, nel lager, nella.. com'era..
                 <anchor synch="#tls535"/>Nella baracca 31 della quarantena<anchor synch="#tls536"/>
                 Nella baracca 31 della quarantena</u>
-                <u who="#MR" xml:id="r205" synch="#tlp492">Ecco, ma quella <desc xml:id="nc12" synch="#tlnc11">parola non compresa</desc>.
+                <u who="#MR" xml:id="r205" synch="#tlp492">Ecco, ma quella <gap reason="inaudible"/>.
                 Quindi voi avete <vocal><desc>mh</desc></vocal>.. 
                 E' l'alba, no. Quindi c'è prima questa terribile selezione, <del type="rephrasing">sul</del><del type="correction">sulla</del> sul binario. 
                 <anchor synch="#tls537"/>Sì, sì <anchor synch="#tls538"/> 
@@ -3199,7 +3072,7 @@
                 <u who="#GB" xml:id="b248" synch="#tlp522">Non è che fosse, che ci fosse una regola, 
                 <anchor synch="#tls603"/>Ecco <anchor synch="#tls604"/>
                 come '<del type="repetition">una volta</del> una volta al mese c'è una selezione', ma come secondo l'umore <del type="repetition">dei</del> dei capi tedeschi, se avevano la luna di traverso oppure se avevano messo in punizione qualcuno perché, non so, non aveva fatto il lavoro com'era stato obbligato a fare, si inventavano la selezione. 
-                Tanto <del type="repetition">avevano</del> avevano, come dire, <del type="repetition">diritto</del> diritto di vita o di morte su di noi. Nessuno se ammazzavano di più persone li avrebbe fatto <desc xml:id="nc13" synch="#tlnc12">parole non comprese</desc>. 
+                Tanto <del type="repetition">avevano</del> avevano, come dire, <del type="repetition">diritto</del> diritto di vita o di morte su di noi. Nessuno se ammazzavano di più persone li avrebbe fatto <gap reason="inaudible"/>. 
                 Tanto eravamo tutti destinati alla fine lì. Se qualcuno <incident xml:id="n66" synch="#tln65" dur="pt2s"><desc>rumore di sottofondo</desc></incident> si è salvato, un certo numero di persone si è salvato, è perché i russi incombevano. E stavano occupando il campo. Allora a un certo punto hanno deciso di non fare una strage totale e se ne sono scappati</u>
                 <pause dur="pt9s"/>
                 <incident xml:id="n67" synch="#tln66"><desc>Rumore dello stop di registrazione</desc></incident>
@@ -3216,7 +3089,7 @@
                 <u who="#GB" xml:id="b251" synch="#tlp528">Perché loro, ne ho vista una, <vocal><desc>ehm</desc></vocal> così di passaggio, perché lì..</u>
                 <u who="#MR" xml:id="r221" synch="#tlp529">Perché mi ha detto, ha detto 
                 <anchor synch="#tls609"/><desc>Sovrapposizione tra Bauer e Riccucci</desc><anchor synch="#tls610"/>
-                ci ha detto insomma, non a noi, credo alla Daniela <desc xml:id="nc14" synch="#tlnc13">cognome non compreso</desc> "<cit><quote>Mi ricordo le due sorelle <persName ref="#LANDAU">Landau</persName>"</quote></cit></u>
+                ci ha detto insomma, non a noi, credo alla Daniela <gap reason="inaudible"/> "<cit><quote>Mi ricordo le due sorelle <persName ref="#LANDAU">Landau</persName>"</quote></cit></u>
                 <u who="#GB" xml:id="b252" synch="#tlp530">Che me la ricordi certo. 
                 <anchor synch="#tls611"/><desc>Sovrapposizione tra i due parlanti</desc><anchor synch="#tls612"/>
                 C'è una lontana parentela tra di noi. Non mi ricordo. La città d'origine era la stessa, però io francamente non mi ricordo</u>
@@ -3270,7 +3143,7 @@
                 <anchor synch="#tls621"/>No, io no<anchor synch="#tls622"/>
                 non è passata</u>
                 <pause dur="pt7s"/>
-                <u who="#GB" xml:id="b259" synch="#tlp544">Era per <desc xml:id="nc25" synch="#tlnc14">parola non compresa</desc> sa, lì. Perché un po' ti curavano, perché.. e poi ti mandavano qualche volta</u>
+                <u who="#GB" xml:id="b259" synch="#tlp544">Era per <gap reason="inaudible"/> sa, lì. Perché un po' ti curavano, perché.. e poi ti mandavano qualche volta</u>
                 <pause dur="pt9s"/>          
             </div>
             <div type="intervista29">
@@ -3344,7 +3217,7 @@
                 E allora..
                 <q type="spoken" who="#GB" toWhom="#LR">Salute!</q>
                 <anchor synch="#tls647"/><q type="#spoken" who="#LR" toWhom="#GB">Grazie!</q><anchor synch="#tls648"/>
-                Perché le sentivo parlare in ungherese, e allora mi sono avvicinata "<cit><quote>di dove siete</quote></cit>", "<cit><quote>siamo di <desc xml:id="nc16" synch="#tlnc15">Nome città non compresa</desc></quote></cit>", e allora quando hanno sentito che io conoscevo questa città perché tutte le estati andavamo a trovar la nonna, 
+                Perché le sentivo parlare in ungherese, e allora mi sono avvicinata "<cit><quote>di dove siete</quote></cit>", "<cit><quote>siamo di <gap reason="inaudible"/></quote></cit>", e allora quando hanno sentito che io conoscevo questa città perché tutte le estati andavamo a trovar la nonna, 
                 <anchor synch="#tls649"/><shift feature="pitch" new="monot"/><vocal><desc>Ah</desc></vocal> ecco <anchor synch="#tls650"/>
                 <shift feature="pitch" new="normal"/>o le zie, e allora "<cit><quote>vieni con noi, vieni con noi</quote></cit>", e hanno fatto di tutto. E io avevo già il piede sul, come dire, sul predilino del vagone, ho detto "<cit><quote>no, io non devo andare</quote></cit>", perché se io prendo questa decisione, io influisco sul mio futuro. 
                 Perché lì non mi avrebbero più <vocal><desc>ehm</desc></vocal> lasciato andar via e io in <placeName ref="#ITA">Italia</placeName> non ci sarei più tornata, perché la mia famiglia non c'era più. E ho detto "<cit><quote>no, mi dispiace</quote></cit>"</u>
@@ -3534,8 +3407,8 @@
                     </persName>
                     <note>Amica in comune di Goti Bauer e Liliana Segre</note>
                 </person>
-                <person xml:id="RB">
-                    <persName>
+                <person>
+                    <persName ref="#RB">
                         <forename>Rosanna</forename>
                         <surname>Bauer</surname>
                     </persName>
@@ -4121,23 +3994,20 @@
                     <author>Dante Alighieri</author>
                     <note>Dante e Virgilio sono due personaggi della Divina Commedia, i quali vengono citati nell'intervista</note>
                 </bibl>
-                <biblStruct>
-                    <analytic>
-                        <title xml:id="UVS">Una vita segnata</title>
-                        <author ref="#GB">Goti Bauer</author>
-                    </analytic>
-                    <monogr>
-                        <title xml:id="VDS" ref="https://www.gasparieditore.it/voci-dalla-shoah">Voci dalla Shoah</title>
-                        <author ref="#GB">Goti Bauer</author>
-                        <author ref="#LS">Liliana Segre</author>
-                        <author>Ytzhak Katzenelson</author>
-                        <author ref="NF">Nedo Fiano</author>
-                        <author>Oliver Lustig</author>
-                        <imprint>
-                            <date when="2020">2020</date>
-                        </imprint> 
-                    </monogr>
-                </biblStruct>
+                <bibl>
+                    <title xml:id="UVS">Una vita segnata</title>
+                    <author ref="#GB">Goti Bauer</author>
+                    <note>Saggio contenuto nell'opera <title ref="VDS">Voci dalla Shoah</title></note>
+                </bibl>
+                <bibl>
+                    <title xml:id="VDS" source="https://www.gasparieditore.it/voci-dalla-shoah">Voci dalla Shoah</title>
+                    <author ref="#GB">Goti Bauer</author>
+                    <author ref="#LS">Liliana Segre</author>
+                    <author>Ytzhak Katzenelson</author>
+                    <author ref="NF">Nedo Fiano</author>
+                    <author>Oliver Lustig</author>
+                    <date when="2020">2020</date>
+                </bibl>
                 <bibl>
                     <title xml:id="quarantanni">Quarant'anni dopo</title>
                     <author ref="TM">Teodoro Morgani</author>
