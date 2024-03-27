@@ -34,7 +34,7 @@
 
             <extent> 
                 Si tratta di una registrazione audio in file Mp4 con una durata di 2 ore e 4 minuti, trascritta poi in un file text.
-                <measure unit="pages" quantity="33">33 pagine di trascrizione</measure>
+                <measure unit="pages" quantity="33">33 pagine di trascrizione</measure>.
             </extent>
 
             <publicationStmt>
@@ -1752,7 +1752,7 @@
             <!-- corpo del testo trascritto, diviso nei vari blocchi -->
             <div type="intervista1">
                 <incident xml:id="n1" synch="#tln0"><desc>Rumore di auto</desc></incident>
-                <u who="#MR" xml:id="r1" synch="#tlp0"><shift feature="pitch" new="monot"/>Dunque, <shift feature="pitch" new="normal"/>il <del type="correction">quando</del> siamo andate a <del type="repetition">Siamo andate a</del> incontrare <persName ref="#LG">Liliana Segre</persName>, 
+                <u who="#MR" xml:id="r1" synch="#tlp0"><shift feature="pitch" new="monot"/>Dunque, <shift feature="pitch" new="normal"/><del type="correction">il</del> quando siamo andate a <del type="repetition">Siamo andate a</del> incontrare <persName ref="#LG">Liliana Segre</persName>, 
                 Liliana ha detto "<cit><quote>Per me Goti è come <bibl><title ref="#DC">Virgilio</title></bibl> per <bibl><title ref="#DC">Dante</title></bibl></quote></cit>". 
                 <vocal xml:id="n2" synch="#tln1"><desc>Goti ride</desc></vocal>
                 e ha iniziato il racconto di come, e di quando, abbia lei stessa iniziato a testimoniare. E ci ha raccontato il <gap reason="inaudible"/> di Bauer. <vocal><desc>Ehmm</desc></vocal>, ci farebbe.. </u>
