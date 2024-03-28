@@ -95,8 +95,9 @@
                     <p>Eventuali rumori esterni sono stati segnati con il tag <gi>Incident</gi></p>
                     <p>Eventuali rumori come starnuti, risate o brusio di voci sono stati segnati con il tag <gi>Vocal</gi></p>
                     <p>Eventuali parole non riconosciute (perché straniere o perché inaudibili) sono state segnate con il tag <gi>gap</gi></p> 
-                    <p>Eventuali correzioni, riformulazioni, ripetizioni, sono state segnate con il tag <gi>del</gi> e differenziati con l'attributo <att>type</att> con il rispettivo valore</p>
+                    <p>Eventuali correzioni, riformulazioni, ripetizioni, frasi troncate, sono state segnate con il tag <gi>del</gi> e differenziati con l'attributo <att>type</att> con il rispettivo valore</p>
                     <p>In caso di parole inaudibili dentro frasi incomplete, ho utilizzato il tag <gi>del</gi> e l'attributo <att>type</att> e il valore <val>incomplete</val></p>
+                    <p>I gesti sono stati segnati con il tag <gi>kinesic</gi></p>
                 </interpretation>
             </editorialDecl>
         </encodingDesc>
@@ -1757,7 +1758,7 @@
                 <u who="#MR" xml:id="r1" synch="#tlp0"><shift feature="pitch" new="monot"/>Dunque, <shift feature="pitch" new="normal"/><del type="correction">il</del> quando siamo andate a <del type="repetition">Siamo andate a</del> incontrare <persName ref="#LG">Liliana Segre</persName>, 
                 Liliana ha detto "<cit><quote>Per me Goti è come <bibl><title ref="#DC">Virgilio</title></bibl> per <bibl><title ref="#DC">Dante</title></bibl></quote></cit>". 
                 <vocal xml:id="n2" synch="#tln1"><desc>Goti ride</desc></vocal>
-                E ha iniziato il racconto di come, e di quando, abbia lei stessa iniziato a testimoniare. <del type="incomplete">E ci ha raccontato il <gap reason="inaudible"/> di Bauer</del> <vocal><desc>Ehmm</desc></vocal> <del type="troncate">ci farebbe..</del> </u>
+                E ha iniziato il racconto di come, e di quando, abbia lei stessa iniziato a testimoniare. <del type="incomplete">E ci ha raccontato il <gap reason="inaudible"/> di Bauer</del> <vocal><desc>Ehmm</desc></vocal> <del type="truncate">ci farebbe..</del> </u>
                 <u who="#GB" xml:id="b1" synch="#tlp1">Me la ricordo, perché lei per la verità era restia. E sono stata io a convincerla.</u>
                 <u who="#MR" xml:id="r2" synch="#tlp2">Ce la racconta.</u>
                 <u who="#GB" xml:id="b2" synch="#tlp3">Sì<anchor synch="#tls1"/><desc>Sovrapposizione</desc></u><anchor synch="#tls2"/>
@@ -1814,7 +1815,7 @@
             <div type="intervista2">
                 <u who="#LR" xml:id="l1" synch="#tlp25">Ecco poi, <vocal><desc>ehm</desc></vocal> le è capitato sicuramente, lo sappiamo, di testimoniare insieme a Liliana, a <persName ref="#LS">Liliana Segre</persName>?</u>
                 <pause dur="pt3s"/>
-                <u who="#GB" xml:id="b20" synch="#tlp26">Mah, può darsi, qualche volta, ma</u>
+                <u who="#GB" xml:id="b20" synch="#tlp26"><vocal><desc>Mah</desc></vocal> Può darsi, qualche volta. <del type="truncate">ma</del></u>
                 <anchor synch="#tls23"/><desc>Sovrapposizione tra Goti Bauer e Laura Ricotti</desc><anchor synch="#tls24"/>
                 <u who="#LR" xml:id="l2" synch="#tlp27">Si ricorda qualche situazione specifica?</u>
                 <u who="#GB" xml:id="b21" synch="#tlp28">Appunto, in casa di questa <persName ref="#GP">Gianna Pavia</persName>, abbiamo parlato insieme. Cioè io prima e lei ha aggiunto dei particolari che poi qua alla volta si è molto familiarizzata col racconto. 
@@ -1822,11 +1823,11 @@
                 <anchor synch="#tls25"/><desc>Sovrapposizione con altri parlanti</desc>L'associazione femminile<anchor synch="#tls26"/>
                 <anchor synch="#tls27"/><desc>Voci di sottofondo</desc><anchor synch="#tls28"/>
                 Sì una sera, che hanno voluto sentire, anche <gap reason="inaudible"/> aveva parlato quella notte, che era, come dire, l'uomo, amico nostro, purtroppo adesso non riesce più a parlare e ha parlato anche lui quella volta</u>
-                <u who="#MR" xml:id="r15" synch="#tlp29">Sì, a noi risulta che fu nel <date when="1999">'99</date>, all'<placeName ref="#AMI">Auditorium</placeName> di <vocal><desc>mhm</desc></vocal> <placeName ref="#MI">Milano</placeName>, può darsi, <del type="correction">s</del> proprio voi per insieme. Addirittura c'è un</u>
+                <u who="#MR" xml:id="r15" synch="#tlp29">Sì, a noi risulta che fu nel <date when="1999">'99</date>, all'<placeName ref="#AMI">Auditorium</placeName> di <vocal><desc>mhm</desc></vocal> <placeName ref="#MI">Milano</placeName>, può darsi, <del type="correction">s</del> proprio voi per insieme. <del type="truncate">Addirittura c'è un</del></u>
                 <anchor synch="#tls29"/><u who="#GB" xml:id="b22" synch="#tlp30">No, questo me lo ricordo all'<orgName ref="#ADEI">ADEI</orgName></u><anchor synch="#tls30"/>
                 <u who="#RB" xml:id="rb7" synch="#tlp31">No, non può essere, che all'Auditorium che eravate tutti e tre insieme</u>
                 <anchor synch="#tls31"/><desc>Riccucci parla di sottofondo</desc><anchor synch="#tls32"/>
-                <u who="#GB" xml:id="b23" synch="#tlp32">Io non me lo ricordo, all'Auditorium</u>
+                <u who="#GB" xml:id="b23" synch="#tlp32">Io non me lo ricordo, all'<placeName ref="#AMI">Auditorium</placeName></u>
                 <u who="#MR" xml:id="r17" synch="#tlp33">Noi abbiamo trovato una notizia che dice questo
                 <anchor synch="#tls33"/>Può essere<anchor synch="#tls34"/>
                 e poi abbiamo visto un video registrato per la rai, in cui siete proprio lei e Liliana <vocal><desc>ehm</desc></vocal> a spazioscuola</u>
@@ -1860,7 +1861,7 @@
                 <u who="#MR" xml:id="r31" synch="#tlp44"><vocal><desc>Eh</desc></vocal></u>
                 <u who="#GB" xml:id="b37" synch="#tlp45">
                 Avevamo in comune la provenienza da <placeName ref="#FIUME">Fiume</placeName>. Ed era un signore molto interessato alla storia, e mi aveva fatto delle domande. Dopodiché mi ha detto 
-                <cit cert="low"><quote>Devi scrivere qualcosa, perché questi ricordi proprio <vocal><desc>ehm</desc></vocal> di una, come dire, di una situazione vissuta proprio a Fiume, altri non la potranno scrivere e allora scrivila tu</quote></cit>, questo me lo ricordo</u>
+                <cit cert="low"><quote>Devi scrivere qualcosa, perché questi ricordi proprio <vocal><desc>ehm</desc></vocal> di una, come dire, di una situazione vissuta proprio a <placeName ref="#FIUME">Fiume</placeName>, altri non la potranno scrivere e allora scrivila tu</quote></cit>, questo me lo ricordo</u>
                 <pause dur="pt4s"/>
             </div>
             <div type="intervista3">
@@ -1879,9 +1880,9 @@
                 <pause dur="pt1s"/> 
                 <u who="#GB" xml:id="b41" synch="#tlp54">Questo non me lo ricordo, se era la prima volta, così da quello che mi ricordo. O può,<pause dur="pt1s"/> può anche darsi. 
                 Però una volta, <pause dur="pt1s"/> sono<pause dur="pt1s"/> <del type="repetition">sono</del> andata con, credo, 
-                <choice><orig>Bezzetti</orig><reg>Pezzetti</reg></choice> sai, no dopo sono andata con<pause dur="pt1s"/> Sai chi è <choice><orig>Bezzetti</orig><reg>Pezzetti</reg></choice>?</u>
+                <choice><orig>Bezzetti</orig><reg>Pezzetti</reg></choice> sai, no dopo sono andata con..<pause dur="pt1s"/> Sai chi è <choice><orig>Bezzetti</orig><reg>Pezzetti</reg></choice>?</u>
                 <u who="#MR" xml:id="r36" synch="#tlp55"><shift feature="pitch" new="high"/>Sì</u>
-                <u who="#GB" xml:id="b42" synch="#tlp56"><shift feature="pitch" new="normal"/>Ecco, con <persName ref="#MP">Marcello Pezzetti</persName>. Una volta, con tutto un gruppo. Sì, con un</u>
+                <u who="#GB" xml:id="b42" synch="#tlp56"><shift feature="pitch" new="normal"/>Ecco, con <persName ref="#MP">Marcello Pezzetti</persName>. Una volta, con tutto un gruppo. Sì <del type="truncate">con un</del></u>
                 <anchor synch="#tls53"/><desc>Sovrapposizione fra più parlanti, viene menzionato Veltroni</desc><anchor synch="#tls54"/>
                 <u who="#MR" xml:id="r37" synch="#tlp57">E poi ci ha detto che nel <date when="2009">2009</date> è tornata ad <placeName ref="#AUSCH">Auschwitz</placeName> e che in quella occasione l'ha accompagnata l'ufficiale, era stato appunto <persName ref="#WV">Walter Veltroni</persName>.
                 <anchor synch="#tls55"/>Sì<anchor synch="#tls56"/>
@@ -1894,9 +1895,9 @@
                 ma <gap reason="inaudible"/> bene che ho detto <cit><quote>Non ci voglio tornare, perché non è più l'<placeName ref="#AUSCH">Auschwitz</placeName> di cui mi ricordo io</quote></cit>, perché nel frattempo avevano costruito lì delle casette, delle villette, e quello non mi apparteneva più. E quella volta non sono andata.
                 Può darsi che in una volta precedente ci sia andata, adesso francamente non mi ricordo. Ci sono <del type="correction">i-</del>, gli anni in cui sono andata lì, in quello che mi ha detto adesso, in che anno, ci sono <del type="correction">due</del> che io ci sono andata due volte
                 </u>
-                <u who="#MR" xml:id="r39" synch="#tlp59">No, lei ha <del type="correction">dett</del>, ha precisato solo, <vocal><desc>ehm</desc></vocal>, il <date when="2009">2009</date>, in, <del type="correction">pres-</del> insomma, in compagnia di Veltroni, però non ci ha dato</u>
+                <u who="#MR" xml:id="r39" synch="#tlp59">No, lei ha <del type="correction">dett</del> ha precisato solo <vocal><desc>ehm</desc></vocal>, il <date when="2009">2009</date>, <del type="correction">in</del><del type="correction">pres-</del> insomma, in compagnia di Veltroni <del type="truncate">però non ci ha dato</del></u>
                 <u who="#GB" xml:id="b45" synch="#tlp60">No, quella volta non c'era mio marito, io sono andata da sola con lui</u>
-                <u who="#MR" xml:id="r40" synch="#tlp61">Sì, non ci ha detto la data. Volevo sapere se, se ve la ricordavate, se<pause dur="pt1s"/></u>
+                <u who="#MR" xml:id="r40" synch="#tlp61">Sì, non ci ha detto la data. Volevo sapere se, se ve la ricordavate, <del type="truncate">se</del><pause dur="pt1s"/></u>
                 <anchor synch="#tls57"/><desc>Sovrapposizione con Bauer</desc><anchor synch="#tls58"/>
                 <u who="#GB" xml:id="b46" synch="#tlp62">Non mi ricordo. Con Veltroni me lo ricordo e non mi ricordo l'anno. In che anno era?</u>
                 <anchor synch="#tls59"/><desc>Sia Riccucci che Rosanna Bauer</desc>
@@ -1913,7 +1914,7 @@
                 <anchor synch="#tls61"/>Sfocata<anchor synch="#tls62"/>
                 è molto sfocata, e noi abbiamo trovato solo una foto della tua mamma, che è sul sito del <orgName ref="CDEC">CDEC</orgName>
                 </u>
-                <desc>In questo frangente sembra che Riccucci stia facendo vedere una foto a Goti Bauer</desc>
+                <kinesic><desc>In questo frangente sembra che Riccucci stia facendo vedere una foto a Goti Bauer</desc></kinesic>
                 <u who="#GB" xml:id="b48" synch="#tlp67">Ma questa è una foto, <vocal><desc>Ehm</desc></vocal>, io ce l'ho a casa con tutta intera e lei guarda me che ero un bebè</u>
                 <u who="#MR" xml:id="r43" synch="#tlp68">Era piccola</u>
                 <u who="#GB" xml:id="b49" synch="#tlp69">Sì, appena nata, avrò avuto due mesi</u>
@@ -1945,7 +1946,7 @@
             </div>
             <div type="intervista6">
                 <pause dur="pt1s"/>
-                <u who="#MR" xml:id="r50" synch="#tlp82">Allora, sì. Lei in un passaggio ha ricordato che aveva una sorella più grande, che anche lei
+                <u who="#MR" xml:id="r50" synch="#tlp82">Allora, sì. Lei in un passaggio ha ricordato che aveva una sorella più grande. <del type="truncate">che anche lei</del>
                 <anchor synch="#tls77"/>Del primo matrimonio di mio papà<anchor synch="#tls78"/>
                 Ecco, che anche lei con la sua famiglia
                 <anchor synch="#tls79"/>Sì<anchor synch="#tls80"/>
@@ -1967,7 +1968,7 @@
                 <u who="#MR" xml:id="r59" synch="#tlp92">Ecco, quindi, <vocal><desc>ehm</desc></vocal> suo padre, aveva avuto solo un figlio dal primo matrimonio, <persName ref="#GIULIO">Giulio</persName></u>
                 <u who="#GB" xml:id="b66" synch="#tlp93">Nono. Nono. Mio padre ha avuto <del type="correction">tre</del> due figli e una figlia</u>
                 <u who="#MR" xml:id="r60" synch="#tlp94">Ecco, perché lei, nella precedente intervista ci aveva poi fatto riferimento a un altro dei tre figli</u>
-                <u who="#GB" xml:id="b67" synch="#tlp95">he era <persName ref="#GIULIO">Giulio</persName>, che viveva a Milano ma è morto qua.
+                <u who="#GB" xml:id="b67" synch="#tlp95">Che era <persName ref="#GIULIO">Giulio</persName>, che viveva a <placeName ref="#MI">Milano</placeName> ma è morto qua.
                 <anchor synch="#tls85"/>Ecco<anchor synch="#tls86"/>
                 Lui viveva, aveva la sua famiglia</u>
                 <u who="#MR" xml:id="r62" synch="#tlp96">Quindi: Giulio, Lilli..</u>
@@ -1979,7 +1980,7 @@
                 questo grande lavoro. E, e niente, aveva presieduto questa situazione di grande importanza lì a <placeName ref="#TR">Tirana</placeName>. Perché <placeName ref="#TR">Tirana</placeName> era una città molto retrograda in <placeName ref="#ALBANIA">Albania</placeName> , tanti anni fa, e poi qua alla volta con queste innovazioni si è sviluppata. E mio fratello proprio che ha creato questa posizione grande, si è ammalato di tifo ed è morto. 
                 Morto giovane, nell'anno, nel <date when="1940">1940</date>.
                 <pause dur="pt1s"/>
-                Lui aveva 32 anni, era nato nel millenovent<pause dur="pt5s"/> ma questo non c'entra, credo, è una cosa che vi racconto, ma che
+                Lui aveva 32 anni, era nato nel millenovento.. <pause dur="pt5s"/> ma questo non c'entra, credo, è una cosa che vi racconto. <del type="truncate">ma che</del>
                 </u>
             </div>
             <div type="intervista6">
