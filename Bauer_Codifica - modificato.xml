@@ -95,6 +95,8 @@
                     <p>Eventuali rumori esterni sono stati segnati con il tag <gi>Incident</gi></p>
                     <p>Eventuali rumori come starnuti, risate o brusio di voci sono stati segnati con il tag <gi>Vocal</gi></p>
                     <p>Eventuali parole non riconosciute (perché straniere o perché inaudibili) sono state segnate con il tag <gi>gap</gi></p> 
+                    <p>Eventuali correzioni, riformulazioni, ripetizioni, sono state segnate con il tag <gi>del</gi> e differenziati con l'attributo <att>type</att> con il rispettivo valore</p>
+                    <p>In caso di parole inaudibili dentro frasi incomplete, ho utilizzato il tag <gi>del</gi> e l'attributo <att>type</att> e il valore <val>incomplete</val></p>
                 </interpretation>
             </editorialDecl>
         </encodingDesc>
@@ -1755,7 +1757,7 @@
                 <u who="#MR" xml:id="r1" synch="#tlp0"><shift feature="pitch" new="monot"/>Dunque, <shift feature="pitch" new="normal"/><del type="correction">il</del> quando siamo andate a <del type="repetition">Siamo andate a</del> incontrare <persName ref="#LG">Liliana Segre</persName>, 
                 Liliana ha detto "<cit><quote>Per me Goti è come <bibl><title ref="#DC">Virgilio</title></bibl> per <bibl><title ref="#DC">Dante</title></bibl></quote></cit>". 
                 <vocal xml:id="n2" synch="#tln1"><desc>Goti ride</desc></vocal>
-                e ha iniziato il racconto di come, e di quando, abbia lei stessa iniziato a testimoniare. E ci ha raccontato il <gap reason="inaudible"/> di Bauer. <vocal><desc>Ehmm</desc></vocal>, ci farebbe.. </u>
+                E ha iniziato il racconto di come, e di quando, abbia lei stessa iniziato a testimoniare. <del type="incomplete">E ci ha raccontato il <gap reason="inaudible"/> di Bauer</del> <vocal><desc>Ehmm</desc></vocal> <del type="troncate">ci farebbe..</del> </u>
                 <u who="#GB" xml:id="b1" synch="#tlp1">Me la ricordo, perché lei per la verità era restia. E sono stata io a convincerla.</u>
                 <u who="#MR" xml:id="r2" synch="#tlp2">Ce la racconta.</u>
                 <u who="#GB" xml:id="b2" synch="#tlp3">Sì<anchor synch="#tls1"/><desc>Sovrapposizione</desc></u><anchor synch="#tls2"/>
@@ -1765,25 +1767,25 @@
                 Allora io le ho detto che anche per me era stato difficile all'inizio, ma lo ritenevo un dovere. Perché questo dovere era tale per cui nessuno ci poteva sostituire, perché eravamo tra i pochissimi che questa storia la potevo- <del type="correction">potevano</del> raccontare.
                 E allora a furia di parlarle, lei ci ha pensato e ha accettato. Poi ha cominciato a parlare ma come spesso succede, che l'allievo diventa migliore del maestro 
                 <vocal xml:id="n3" synch="#tln2"><desc>Goti ride</desc></vocal>, allora è andata così. Che ovviamente abbiamo gli stessi ricordi ma molto diversi.
-                Lei era molto più giovane di me, ha avuto una situazione diversa dalla mia. Lì, e allora ha delle cose <del type="correction">abbiamo</del> delle cose in comune <del type="repetion">in comune</del> da raccontare, ma altri che sono molto specifiche, molto individuali.
+                Lei era molto più giovane di me, ha avuto una situazione diversa dalla mia. Lì, e allora <del type="rephrasing">ha delle cose</del> abbiamo delle cose in comune <del type="repetion">in comune</del> da raccontare, ma altri che sono molto specifiche, molto individuali.
                 E infatti lei è diventata bravissima e negli anni ovviamente si è abituata a parlare. E ogni volta che parla, le viene fuori ancora meglio tutto quello che ha da dire.</u>  
                 <u who="#MR" xml:id="r4" synch="#tlp6">Se la ricorda questa amica comune?</u> 
                 <u who="#GB" xml:id="b4" synch="#tlp7">
-                Eravamo in <pause dur="pt1s"/> <q type="spoken" who="#GB" toWhom="#RB">Sai da chi? Da quella signora, sulla <gap reason="inaudible"/> sul momento stavo già pensando prima, 
+                Eravamo in.. <pause dur="pt1s"/> <q type="spoken" who="#GB" toWhom="#RB">Sai da chi? Da quella signora, <del type="incomplete">sulla <gap reason="inaudible"/></del> sul momento stavo già pensando prima, 
                 <vocal><desc>Ehm</desc></vocal>, quella che non ha figli ma ha delle nipoti</q></u>
                 <u who="#RB" xml:id="rb1" synch="#tlp8"><q type="spoken" who="#RB" toWhom="#GB">ah dalla</q></u>
                 <anchor synch="#tls5"/><desc>Sovrapposizione tra Goti e Rosanna Bauer</desc><anchor synch="#tls6"/>
                 <u who="#GB" xml:id="b5" synch="#tlp9"><q type="spoken" who="#GB" toWhom="#GB">Dalla? Lo sai chi?</q></u>
                 <u who="#RB" xml:id="rb2" synch="#tlp10"><persName ref="#GP">Gianna Pavia</persName></u>
-                <u who="#GB" xml:id="b6" synch="#tlp11">Gia <del type="repetition">Gia</del>nna Pavia, in casa di Gianna Pavia, che era un'amica in comune e era un'amica mia, <vocal><desc>Ehm</desc></vocal> si lavorava insieme alla 
+                <u who="#GB" xml:id="b6" synch="#tlp11"><del type="repetition">Gia</del> Gianna Pavia, in casa di Gianna Pavia, che era un'amica in comune e era un'amica mia, <vocal><desc>Ehm</desc></vocal> si lavorava insieme alla 
                 <choice><orig>Delale</orig><reg><orgName ref="#ADEI">ADEI</orgName></reg></choice><!-- nell'audio dice Delale, ma si riferisce all'associazione ADEI -->, un'associazione femminile
                 <anchor synch="#tls7"/>delle ebree femminili<anchor synch="#tls8"/>
                 delle donne ebree, qui a <placeName ref="#MI">Milano</placeName>, ma c'è in giro anche in altre città. <vocal><desc>Ehm</desc></vocal> 
-                E allora appunto mi era venuta in mente questo. Un giorno in casa di questa Gianna Pavia, io ho invitato anche Liliana. E lì le ho spiegato, lei ha capito. E all'inizio con un po' di timore, con un po' di incertezza. Ma poi sa, è diventata molto in gamba e sono molto contenta. Perché lei davvero ha ancora molta energia e può parlare a lungo e raccontare a gente che non lo sa, ecco</u>
+                E allora appunto mi era venuta in mente questo. Un giorno in casa di questa <persName ref="#GP">Gianna Pavia</persName>, io ho invitato anche Liliana. E lì le ho spiegato, lei ha capito. E all'inizio con un po' di timore, con un po' di incertezza. Ma poi sa, è diventata molto in gamba e sono molto contenta. Perché lei davvero ha ancora molta energia e può parlare a lungo e raccontare a gente che non lo sa, ecco</u>
                 <u who="#MR" xml:id="r5" synch="#tlp12">
-                Liliana ci ha detto che l'ha conosciuta, che ha conosciuto lei, <vocal><desc>ehm</desc></vocal> cui riconosce e ha ripetuto molte volte il titolo di <persName ref="#DC">Virgilio</persName>, <vocal><desc>ehm</desc></vocal> attraverso <persName ref="#GD">Giuliana Donati</persName>. E' vero?</u>
+                <persName ref="#LS">Liliana</persName> ci ha detto che l'ha conosciuta, che ha conosciuto lei, <vocal><desc>ehm</desc></vocal> cui riconosce e ha ripetuto molte volte il titolo di <persName ref="#DC">Virgilio</persName>, <vocal><desc>ehm</desc></vocal> attraverso <persName ref="#GD">Giuliana Donati</persName>. E' vero?</u>
                 <u who="#GB" xml:id="b8" synch="#tlp13">
-                Noi avevamo <persName ref="#GD">Giuliana Donati</persName> come un, un-<del type="correction">amica</del> comune, ma noi due non ci conoscevamo</u>
+                Noi avevamo <persName ref="#GD">Giuliana Donati</persName> come <del type="correction">uno</del> un'amica comune, ma noi due non ci conoscevamo</u>
                 <u who="#MR" xml:id="r6" synch="#tlp14">Voi non vi conoscevate?
                 <anchor synch="#tls9"/>Assolutamente<anchor synch="#tls10"/>
                 E quindi <del type="correction">vi siet-</del> voi due vi siete conosciute attraverso <persName ref="#GD">Giuliana Donati</persName></u>
