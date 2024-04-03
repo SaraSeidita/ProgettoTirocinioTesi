@@ -1761,8 +1761,8 @@
                 E ha iniziato il racconto di come, e di quando, abbia lei stessa iniziato a testimoniare. <del type="incomplete">E ci ha raccontato il <gap reason="inaudible"/> di Bauer</del> <vocal><desc>Ehmm</desc></vocal> <del type="truncation">ci farebbe..</del> </u>
                 <u who="#GB" xml:id="b1" synch="#tlp1">Me la ricordo, perché lei per la verità era restia. E sono stata io a convincerla.</u>
                 <u who="#MR" xml:id="r2" synch="#tlp2">Ce la racconta.</u>
-                <u who="#GB" xml:id="b2" synch="#tlp3">Sì<anchor synch="#tls1"/><desc>Sovrapposizione</desc></u><anchor synch="#tls2"/>
-                <u who="#MR" xml:id="r3" synch="#tlp4">Questo incontro <anchor synch="#tls3"/><desc>Sovrapposizione tra Riccucci e Bauer, non si capisce cosa dicono</desc><anchor synch="#tls4"/> con <persName ref="LS">Liliana</persName> e il modo in cui l'ha convinta <pause type="short" dur="pt1s"/>a testimoniare</u>
+                <u who="#GB" xml:id="b2" synch="#tlp3">Sì<anchor synch="#tls1"/><gap reason="inaudible"/></u><anchor synch="#tls2"/>
+                <u who="#MR" xml:id="r3" synch="#tlp4">Questo incontro <anchor synch="#tls3"/><gap reason="inaudible"/><anchor synch="#tls4"/> con <persName ref="LS">Liliana</persName> e il modo in cui l'ha convinta <pause type="short" dur="pt1s"/>a testimoniare</u>
                 <u who="#GB" xml:id="b3" synch="#tlp5">Adesso dovrei ripensare bene a quello che ho adesso. Adesso esattamente non mi ricordo. Mi ricordo che mentre <pause type="short" dur="pt2s"/> i testimoni che c'erano, erano <persName ref="NF">Nedo Fiano</persName>, io e ancora una terza persona che però ne ha parlato poco. E poi forse era anche partita.
                 E io ho pensato che c'era Liliana che era però parecchio più giovane e che non aveva ancora iniziato a parlare. <pause type="short" dur="pt1s"/> E io la conoscevo, ma da poco tempo. E allora un giorno ci siamo incontrate in casa <del type="falseStart">nos</del>, di un'amica comune e a un certo punto le ho detto "<cit><quote>Guarda ti voglio dire una cosa</quote></cit>", perché lei ascoltava me e approvava quello che dicevo. Ma allo stesso tempo, lei non parlava.
                 Allora io le ho detto che anche per me era stato difficile all'inizio, ma lo ritenevo un dovere. Perché questo dovere era tale per cui nessuno ci poteva sostituire, perché eravamo tra i pochissimi che questa storia la potevo- <del type="falseStart">potevano</del> raccontare.
@@ -1775,7 +1775,7 @@
                 Eravamo in.. <pause type="short" dur="pt1s"/> <q type="spoken" who="#GB" toWhom="#RB">Sai da chi? Da quella signora, <del type="incomplete">sulla <gap reason="inaudible"/></del> sul momento stavo già pensando prima, 
                 <vocal><desc>Ehm</desc></vocal>, quella che non ha figli ma ha delle nipoti</q></u>
                 <u who="#RB" xml:id="rb1" synch="#tlp8"><q type="spoken" who="#RB" toWhom="#GB"><vocal><desc>Ah</desc></vocal> <del type="truncation">dalla</del></q></u>
-                <anchor synch="#tls5"/><desc>Sovrapposizione tra Goti e Rosanna Bauer</desc><anchor synch="#tls6"/>
+                <anchor synch="#tls5"/><gap reason="inaudible"/><anchor synch="#tls6"/>
                 <u who="#GB" xml:id="b5" synch="#tlp9"><q type="spoken" who="#GB" toWhom="#GB">Dalla? Lo sai chi?</q></u>
                 <u who="#RB" xml:id="rb2" synch="#tlp10"><persName ref="#GP">Gianna Pavia</persName></u>
                 <u who="#GB" xml:id="b6" synch="#tlp11"><del type="repetition">Gia</del> Gianna Pavia, in casa di Gianna Pavia, che era un'amica in comune e era un'amica mia, <vocal><desc>Ehm</desc></vocal> si lavorava insieme alla 
@@ -1793,7 +1793,7 @@
                 <u who="#GB" xml:id="b10" synch="#tlp15">La Donati io l'avevo conosciuto prima
                 <anchor synch="#tls11"/><desc>Riccucci di sottofondo</desc><anchor synch="#tls12"/>
                 frequentava casa mia, <del type="truncation">ci si</del>
-                <anchor synch="#tls13"/><desc>Sovrapposizione con Riccucci</desc><anchor synch="#tls14"/>
+                <anchor synch="#tls13"/><gap reason="inaudible"/><anchor synch="#tls14"/>
                 lei era una donna molto in gamba, lavorava al centro di documentazione
                 <anchor synch="#tls15"/>Sì<anchor synch="#tls16"/>
                 Era una donna molto informata. E <del type="falseStart">di</del> prima di me e poi di Liliana, oltre all'amicizia, voleva anche ottenere il racconto di quello che avevamo vissuto. Poi a un certo punto ci siamo incontrate insieme e lei mi ha presentato Liliana e così è nata l'amicizia. <vocal><desc>eh</desc></vocal></u>
@@ -1816,11 +1816,11 @@
                 <u who="#LR" xml:id="l1" synch="#tlp25">Ecco poi, <vocal><desc>ehm</desc></vocal> le è capitato sicuramente, lo sappiamo, di testimoniare insieme a Liliana, a <persName ref="#LS">Liliana Segre</persName>?</u>
                 <pause type="short" dur="pt3s"/>
                 <u who="#GB" xml:id="b20" synch="#tlp26"><vocal><desc>Mah</desc></vocal> Può darsi, qualche volta. <del type="truncation">ma</del></u>
-                <anchor synch="#tls23"/><desc>Sovrapposizione tra Goti Bauer e Laura Ricotti</desc><anchor synch="#tls24"/>
+                <anchor synch="#tls23"/><gap reason="inaudible"/><anchor synch="#tls24"/>
                 <u who="#LR" xml:id="l2" synch="#tlp27">Si ricorda qualche situazione specifica?</u>
                 <u who="#GB" xml:id="b21" synch="#tlp28">Appunto, in casa di questa <persName ref="#GP">Gianna Pavia</persName>, abbiamo parlato insieme. Cioè io prima e lei ha aggiunto dei particolari che poi qua alla volta si è molto familiarizzata col racconto. 
                 Però poi non mi ricordo, forse alla <orgName ref="#ADEI">ADEI</orgName>. All'<orgName ref="#ADEI">ADEI</orgName>, forse           
-                <anchor synch="#tls25"/><desc>Sovrapposizione con altri parlanti</desc>L'associazione femminile<anchor synch="#tls26"/>
+                <anchor synch="#tls25"/><gap reason="inaudible"/>L'associazione femminile<anchor synch="#tls26"/>
                 <anchor synch="#tls27"/><desc>Voci di sottofondo</desc><anchor synch="#tls28"/>
                 Sì una sera, che hanno voluto sentire. <del type="incomplete">Anche <gap reason="inaudible"/> aveva parlato quella notte</del>, che era, come dire, l'uomo, amico nostro, purtroppo adesso non riesce più a parlare e ha parlato anche lui quella volta</u>
                 <u who="#MR" xml:id="r15" synch="#tlp29">Sì, a noi risulta che fu nel <date when="1999">'99</date>, all'<placeName ref="#AMI">Auditorium</placeName> di <vocal><desc>mhm</desc></vocal> <placeName ref="#MI">Milano</placeName>, può darsi, <del type="falseStart">s</del> proprio voi per insieme. <del type="truncation">Addirittura c'è un</del></u>
@@ -1833,11 +1833,11 @@
                 e poi abbiamo visto un video registrato per la rai, in cui siete proprio lei e Liliana <vocal><desc>ehm</desc></vocal> a spazioscuola</u>
                 <u who="#GB" xml:id="b25" synch="#tlp34">Questo era un pomeriggio, credo, sì, molti anni fa</u>
                 <u who="#MR" xml:id="r19" synch="#tlp35">Molti anni fa
-                <anchor synch="#tls35"/>Sì, sì<anchor synch="#tls36"/>
+                <anchor synch="#tls35"/>Sì, <del type="repetition">sì</del><anchor synch="#tls36"/>
                 molti anni fa e non, credo fosse proprio anche quella volta il <date when="1999">1999</date>
-                <anchor synch="#tls37"/>Sì, sì<anchor synch="#tls38"/>
+                <anchor synch="#tls37"/>Sì, <del type="repetition">sì</del><anchor synch="#tls38"/>
                 quindi 
-                <anchor synch="#tls39"/><desc>sovrapposizione tra parlanti di 5 secondi</desc><anchor synch="#tls40"/> 
+                <anchor synch="#tls39"/><gap reason="inaudible"/><anchor synch="#tls40"/> 
                 abbiamo trovato questo video in cui lei e Liliana siete insieme e
                 <anchor synch="#tls41"/>Sisisì<anchor synch="#tls42"/>
                 davanti alle telecamere della rai</u>
@@ -1881,9 +1881,9 @@
                 <u who="#GB" xml:id="b41" synch="#tlp54">Questo non me lo ricordo, se era la prima volta, così da quello che mi ricordo. O può,<pause type="short" dur="pt1s"/> può anche darsi. 
                 Però una volta, <pause type="short" dur="pt1s"/> sono<pause type="short" dur="pt1s"/> <del type="repetition">sono</del> andata con, credo, 
                 <choice><orig>Bezzetti</orig><reg>Pezzetti</reg></choice> sai, no dopo sono andata con..<pause type="short" dur="pt1s"/> Sai chi è <choice><orig>Bezzetti</orig><reg>Pezzetti</reg></choice>?</u>
-                <u who="#MR" xml:id="r36" synch="#tlp55"><shift feature="loud" new="f"/>Sì</u>
-                <u who="#GB" xml:id="b42" synch="#tlp56"><shift feature="loud" new="normal"/>Ecco, con <persName ref="#MP">Marcello Pezzetti</persName>. Una volta, con tutto un gruppo. Sì <del type="truncation">con un</del></u>
-                <anchor synch="#tls53"/><desc>Sovrapposizione fra più parlanti, viene menzionato Veltroni</desc><anchor synch="#tls54"/>
+                <u who="#MR" xml:id="r36" synch="#tlp55"><shift feature="loud" new="f"/><emph>Sì</emph></u>
+                <u who="#GB" xml:id="b42" synch="#tlp56"><shift feature="loud" new="normal"/>Ecco, con <persName ref="#MP">Marcello Pezzetti</persName>. Una volta, con tutto un gruppo. Sì, <del type="truncation">con un</del></u>
+                <anchor synch="#tls53"/><gap reason="inaudible"/><anchor synch="#tls54"/>
                 <u who="#MR" xml:id="r37" synch="#tlp57">E poi ci ha detto che nel <date when="2009">2009</date> è tornata ad <placeName ref="#AUSCH">Auschwitz</placeName> e che in quella occasione l'ha accompagnata l'ufficiale, era stato appunto <persName ref="#WV">Walter Veltroni</persName>.
                 <anchor synch="#tls55"/>Sì<anchor synch="#tls56"/>
                 Questo nel <date when="2009">2009</date>. Però lei ha fatto un accenno, un passaggio, del nostro incontro. E ci ha detto che <cit><quote>ci sono stata una volta, ci sono tornata una volta, insieme a mio marito</quote></cit></u>
@@ -1898,7 +1898,7 @@
                 <u who="#MR" xml:id="r39" synch="#tlp59">No, lei ha <del type="falseStart">dett</del> ha precisato solo <vocal><desc>ehm</desc></vocal>, il <date when="2009">2009</date>, <del type="falseStart">in</del><del type="falseStart">pres-</del> insomma, in compagnia di Veltroni <del type="truncation">però non ci ha dato</del></u>
                 <u who="#GB" xml:id="b45" synch="#tlp60">No, quella volta non c'era mio marito, io sono andata da sola con lui</u>
                 <u who="#MR" xml:id="r40" synch="#tlp61">Sì, non ci ha detto la data. Volevo sapere se, se ve la ricordavate, <del type="truncation">se</del><pause type="short" dur="pt1s"/></u>
-                <anchor synch="#tls57"/><desc>Sovrapposizione con Bauer</desc><anchor synch="#tls58"/>
+                <anchor synch="#tls57"/><gap reason="inaudible"/><anchor synch="#tls58"/>
                 <u who="#GB" xml:id="b46" synch="#tlp62">Non mi ricordo. Con Veltroni me lo ricordo e non mi ricordo l'anno. In che anno era?</u>
                 <anchor synch="#tls59"/><desc>Sia Riccucci che Rosanna Bauer</desc>
                 <u who="#MR" xml:id="r41" synch="#tlp63">Nel <date when="2009">2009</date></u>
@@ -1925,23 +1925,23 @@
             <div type="extraIntervista1">
                 <u who="#GB" xml:id="b51" synch="#tlp73">Allora questa la potete mettere. Ce ne ho di migliori, ma non</u>
                 <u who="#MR" xml:id="r46" synch="#tlp74">Se ce l'ha, e qualcuna ci potesse, se ne sceglie una e ce la manda</u>
-                <anchor synch="#tls63"/><desc>Sovrapposizione di 1 secondo</desc><anchor synch="#tls64"/>
+                <anchor synch="#tls63"/><gap reason="inaudible"/><anchor synch="#tls64"/>
                 <u who="#GB" xml:id="b52" synch="#tlp75">Devo venire a casa</u>
-                <anchor synch="#tls65"/><desc>Sovrapposizione con parole non comprensibili per 4 secondi</desc><anchor synch="#tls66"/>
-                <u who="#RB" xml:id="rb10" synch="tlp76">Nel cassetto</u>
+                <anchor synch="#tls65"/><gap reason="inaudible"/><anchor synch="#tls66"/>
+                <u who="#RB" xml:id="rb10" synch="tlp76"><gap reason="inaudible"/>Nel cassetto</u>
                 <u who="#GB" xml:id="b53" synch="#tlp77"><vocal><desc>Ehm</desc></vocal>, <shift feature="loud" new="p"/>Nono, è quella, non facciamo più tanta confusione, nono, perché c'è tutto un insieme di fotografie, però adesso dovrei ricordarmi dove sono.
-                <shift feature="loud" new="normal"/>Tante cose si fa ordine nelle case, e poi non si trova più niente</u>
-                <anchor synch="#tls67"/><desc>Sovrapposizione di 1 secondo</desc><anchor synch="#tls68"/>
-                <anchor synch="#tls69"/><desc>Sovrapposizione tra più parlanti per 5 secondi, Riccucci dice 'Talmente bene che poi le cose si nascondono'</desc><anchor synch="#tls70"/>
+                <shift feature="loud" new="normal"/>Tante cose si fa ordine nelle case, e poi non si trova più niente
+                <anchor synch="#tls67"/><gap reason="inaudible"/><anchor synch="#tls68"/>
+                <anchor synch="#tls69"/><gap reason="inaudible"/> Talmente bene che poi le cose si nascondono <gap reason="inaudible"/><anchor synch="#tls70"/></u>
             </div>
             <div type="intervista5">
                 <u who="#MR" xml:id="r47" synch="#tlp78"> Allora, dunque, <pause type="short" dur="pt1s"/> il suo babbo.<pause type="short" dur="pt1s"/> Dunque, noi abbiamo, no, letto le sue testimonianze
                 <anchor synch="#tls71"/>Sì<anchor synch="#tls72"/>
                 e però volevamo essere precisi</u>
-                <u who="#GB" xml:id="b55" synch="#tlp79"><shift feature="loud" new="f"/>Certo</u>
+                <u who="#GB" xml:id="b55" synch="#tlp79"><shift feature="loud" new="f"/><emph>Certo</emph></u>
                 <u who="#MR" xml:id="r49" synch="#tlp80"><shift feature="loud" new="normal"/>Dunque, allora, <vocal><desc>ehm</desc></vocal> abbiamo trovato che suo padre <vocal><desc>ehm</desc></vocal>, <del type="falseStart">aveva</del> era vedovo quando ha conosciuto sua mamma, e che</u>
                 <anchor synch="#tls73"/><u who="#GB" xml:id="b56" synch="#tlp81">Certo</u><anchor synch="#tls74"/>
-                <anchor synch="#tls75"/><desc>Sovrapposizione di 3 secondi tra Riccucci e Goti</desc><anchor synch="#tls76"/>
+                <anchor synch="#tls75"/><gap reason="inaudible"/><anchor synch="#tls76"/>
                 <anchor synch="#tlc1"/><desc>Omissione della trascrizione dell'audio per motivi di privacy</desc><anchor synch="#tlc2"/>
             </div>
             <div type="intervista6">
@@ -1963,7 +1963,7 @@
                 <u who="#GB" xml:id="b63" synch="#tlp89">Sisì, è morta. E' morto il marito. Ma, <vocal><desc>ehm</desc></vocal> si è salvato il fratello del marito che era medico e aveva una posizione</u>
                 <u who="#MR" xml:id="r57" synch="#tlp90">Particolare</u>
                 <u who="#GB" xml:id="b64" synch="#tlp91">Dirigenziale
-                <anchor synch="#tls83"/><desc>Sovrapposizione con Riccucci, ma non si capisce cosa dice</desc><anchor synch="#tls84"/>
+                <anchor synch="#tls83"/><gap reason="inaudible"/><anchor synch="#tls84"/>
                 lì, e così ha potuto salvare il loro figlio. Che adesso vive in <placeName ref="#AUST">Australia</placeName>. E' un uomo anziano</u>
                 <u who="#MR" xml:id="r59" synch="#tlp92">Ecco, quindi, <vocal><desc>ehm</desc></vocal> suo padre, aveva avuto solo un figlio dal primo matrimonio, <persName ref="#GIULIO">Giulio</persName></u>
                 <u who="#GB" xml:id="b66" synch="#tlp93">Nono. Nono. Mio padre ha avuto <del type="falseStart">tre</del> due figli e una figlia</u>
@@ -1984,7 +1984,7 @@
                 </u>
             </div>
             <div type="intervista6">
-                <anchor synch="#tls87"/><desc>Sovrapposizione di 5 secondi</desc><anchor synch="#tls88"/>
+                <anchor synch="#tls87"/><gap reason="inaudible"/><anchor synch="#tls88"/>
                 <u who="#MR" xml:id="r63" synch="#tlp98">Però questo noi non l'avevamo capito. 
                 <anchor synch="#tls89"/><desc>Voce di sottofondo</desc><anchor synch="#tls90"/>
                 Non avevamo la sorte di <persName ref="LLY">Lilly</persName>, come ce l'ha raccontata, non avevamo associato <persName ref="#GIULIO">Giulio</persName> e neppure l'altro fratello, <del type="truncation">quindi questa parte</del></u>
@@ -2010,12 +2010,12 @@
             </div>
             <div type="extraIntervista3">
                 <u who="#GB" xml:id="b78" synch="#tlp113">Scusi un poco. Qualcuno ha una sedia per il signore? No?
-                <anchor synch="#tls93"/><desc>Sovrapposizione tra parlanti, non si capisce cosa dicono</desc><anchor synch="#tls94"/>
+                <anchor synch="#tls93"/><gap reason="inaudible"/><anchor synch="#tls94"/>
                 Ma mi dispiace vederla in piedi</u>
                 <u who="#RB" xml:id="rb11" synch="#tlp114">Forse deve evidentemente stare in piedi</u>
                 <u who="#DQ" xml:id="d1" synch="#tlp115">Io devo stare in piedi. La ringrazio signora per la gentilezza e per il pensiero, ma devo stare in piedi <del type="truncation">per</del></u>
                 <vocal xml:id="n4" synch="#tln3"><desc>Ridono</desc></vocal>
-                <anchor synch="#tls95"/><desc>Sovrapposizione tra parlanti</desc><anchor synch="#tls96"/>
+                <anchor synch="#tls95"/><gap reason="inaudible"/><anchor synch="#tls96"/>
             </div>
             <div type="intervista7">
                 <u who="#MR" xml:id="r72" synch="#tlp164">Quindi questo signore ha ricostruito le storie di alcuni ebrei.
@@ -2026,17 +2026,16 @@
                 <kinesic><desc>Riccucci sembra stia mostrando una foto</desc></kinesic>. Nella sua classe, sì</u>
                 <u who="#GB" xml:id="b81" synch="#tlp169">Aspetta, in che anno è nato?</u>
                 <u who="#MR" xml:id="r75" synch="#tlp170">Dunque, era nato, <vocal><desc>ohm</desc></vocal> nel <date when="1938">'38</date> faceva la terza elementare, quindi aiutatemi</u>
-                <anchor synch="#tls99"/><desc>Sovrapposizione tra più parlanti sulla questione dell'età</desc>
-                <u who="#GB" xml:id="b82" synch="#tlp171">Aveva 8 anni</u><anchor synch="#tls100"/>
+                <anchor synch="#tls99"/><gap reason="inaudible"/><u who="#GB" xml:id="b82" synch="#tlp171">Aveva 8 anni</u><anchor synch="#tls100"/>
                 <u who="#MR" xml:id="r76" synch="#tlp172">No, le volevo chiedere. Suo fratello era più piccolo di lei, Tiberio. Suo fratello. 
-                <anchor synch="#tls101"/><desc>Sovrapposizione tra i due parlanti per 3 secondi</desc><anchor synch="#tls102"/>
+                <anchor synch="#tls101"/><gap reason="inaudible"/><anchor synch="#tls102"/>
                 Lei si ricorda dove avete fatto la scuola elementare?</u>
                 <u who="#GB" xml:id="b83" synch="#tlp173">Sì, certo che mi ricordo</u>
                 <vocal xml:id="n5" synch="#tln4"><desc>Ridono</desc></vocal>
                 <u who="#MR" xml:id="r77" synch="#tlp174">Quindi, ci dice: o la <orgName ref="#DM">Daniele Manin</orgName>
                 <anchor synch="#tls103"/>Sì<anchor synch="#tls104"/>
                 o la <orgName ref="#CB">Cesare Battisti</orgName></u>
-                <u who="#GB" xml:id="b85" synch="#tlp177">Beh, sa che non mi ricordo il nome della scuola. Ma siccome Fiume era piccola, ma abbastanza grande per avere due scuole, questa</u>
+                <u who="#GB" xml:id="b85" synch="#tlp177"><vocal><desc>beh</desc></vocal>, sa che non mi ricordo il nome della scuola. Ma siccome Fiume era piccola, ma abbastanza grande per avere due scuole, questa</u>
                 <u who="#MR" xml:id="r79" synch="#tlp178">Dunque, la <orgName ref="#DM">Daniele Manin</orgName>, se questo può aiutare il ricordo, era vicina a <placeName type="street">Via Gomerio</placeName>. Era una</u>
                 <u who="#GB" xml:id="b86" synch="#tlp179">Sì, anche questa non era lontana</u>
                 <u who="#MR" xml:id="r80" synch="#tlp180">Mentre la <orgName ref="#CB">Cesare Battisti</orgName> era piuttosto decentrata rispetto alla zona della <placeName ref="#SINAGOGA">Sinagoga</placeName></u>
@@ -2075,20 +2074,20 @@
                 <shift feature="loud" new="p"/>E quindi avendo fatto questo lavoro un anno fa, io ho ritrovato i cognomi
                 <anchor synch="#tls121"/>Sisì<anchor synch="#tls122"/>
                 E a quel punto ho trovato la sua famiglia e anche la famiglia Bauer, che viveva proprio lì</u>
-                <anchor synch="#tls123"/><desc>Sovrapposizione</desc><anchor synch="#tls124"/>
+                <anchor synch="#tls123"/><gap reason="inaudible"/><anchor synch="#tls124"/>
                 <u who="#GB" xml:id="b100" synch="#tlp207">Non erano neanche conoscenti, per niente</u>
             </div>
             <div type="extraIntervista4">
-                <anchor synch="#tls125"/><desc>Sovrapposizione tra parlanti</desc><anchor synch="#tls126"/>
+                <anchor synch="#tls125"/><gap reason="inaudible"/><anchor synch="#tls126"/>
                 <vocal xml:id="n6" synch="#tln5"><desc>Ridono</desc></vocal>
                 <u who="#RB" xml:id="rb12" synch="#tlp208">Ce le ho le foto della casa se le interessa</u>
-                <anchor synch="#tls127"/><desc>Sovrapposizione tra parlanti</desc><anchor synch="#tls128"/>
+                <anchor synch="#tls127"/><gap reason="inaudible"/><anchor synch="#tls128"/>
                 <u who="#GB" xml:id="b101" synch="#tlp209">Casa quale, quella dove vivevamo?</u>
-                <anchor synch="#tls129"/><desc>Sovrapposizione tra parlanti diversi</desc><anchor synch="#tls130"/>
+                <anchor synch="#tls129"/><gap reason="inaudible"/><anchor synch="#tls130"/>
             </div>
             <div type="intervista7">
                 <u who="#MR" xml:id="r94" synch="#tlp210"><vocal><desc>Ah</desc></vocal> non si chiama più <placeName type="street">Via Goldoni</placeName></u>
-                <anchor synch="#tls131"/><desc>Sovrapposizione</desc><anchor synch="#tls132"/>
+                <anchor synch="#tls131"/><gap reason="inaudible"/><anchor synch="#tls132"/>
                 <u who="#GB" xml:id="b102" synch="#tlp211"><vocal><desc>Eh</desc></vocal> no, perché adesso è <placeName ref="#JUGO">Jugoslavia</placeName>, è <placeName ref="#CROAZIA">Croazia</placeName></u>
                 <u who="#MR" xml:id="r95" synch="#tlp212">Certo, certo. Anche per avere proprio un'idea, perché comunque anche le persone che sentono raccontare hanno bisogno di visualizzare, no? Di dire che queste persone che raccontano vivevano lì</u>
                 <u who="#RB" xml:id="rb13" synch="#tlp213"><q type="spoken" who="#RB" toWhom="#GB">Cos'era, era secondo piano, vero?</q></u> 
@@ -2096,22 +2095,22 @@
                 Non so se quella casa e quella via facesse ancora parte del rione molto popolare e molto conosciuto a <placeName ref="#FIUME">Fiume</placeName> che si chiamava Braida, che era abbastanza esteso, 
                 però non so se la via dove abitavamo noi appartenesse ancora a quella zona. Comunque questa <placeName type="street">Via Goldoni</placeName> era esattamente di fronte a un viale, non molto lungo, che al tempo del <del type="falseStart">fascisto</del> fascismo, si chiamava <placeName type="street">Viale Delittorio</placeName>, e finiva alla stazione, esattamente alla stazione. 
                 Allora dalla stazione <placeName ref="#FIUME">Fiume</placeName> su questo breve viale si arrivava in <placeName type="street">Via Goldoni</placeName>. Per cui se uno può, procura una carta geografica di Fiume <del type="truncation">lo può</del><pause type="short" dur="pt1s"/>
-                <anchor synch="#tls133"/><desc>sovrapposizione tra più parlanti di due secondi</desc><anchor synch="#tls134"/>
+                <anchor synch="#tls133"/><gap reason="inaudible"/><anchor synch="#tls134"/>
                 è molto facilmente.. Chi è che aveva una carta geografica?</u>
                 <u who="#RB" xml:id="rb14" synch="#tlp215"><q type="spoken" who="#RB" toWhom="#GB">No ma, <del type="falseStart">Sono stata i</del> siamo stati noi, due o tre anni fa non mi ricordo, abbiamo fatto le foto della casa, che abbiamo ritrovato con difficoltà perché la via nessuno sapeva che fosse</q></u>
-                <anchor synch="#tls135"/><desc>Sovrapposizione</desc><anchor synch="#tls136"/>
+                <anchor synch="#tls135"/><gap reason="inaudible"/><anchor synch="#tls136"/>
                 <u who="#GB" xml:id="b104" synch="#tlp216">Ma <placeName type="street">Via Goldoni</placeName>, <del type="reformulation">questa gent-</del> <placeName ref="#FIUME">Fiume</placeName> si è spopolata dagli abitanti italiani. 
                 E' stata ricomposta da gente che veniva dalla <placeName ref="#CROAZIA">Croatia</placeName>, dalla <placeName ref="#SLOVENIA">Slovenia</placeName>, dalla <placeName ref="#SERBIA">Serbia</placeName>. Da tutti i paesi della ex <placeName ref="#JUGO">Jugoslavia</placeName>. 
                 E quelli i nuovi italiani non li ricordano, perché lì hanno cambiato nome. Che non è più <placeName type="street">Via Goldoni</placeName></u>
-                <anchor synch="#tls137"/><desc>Sovrapposizione tra parlanti, non si capisce cosa dicono</desc><anchor synch="#tls138"/>
+                <anchor synch="#tls137"/><gap reason="inaudible"/><anchor synch="#tls138"/>
                 <u who="#MR" xml:id="r96" synch="#tlp217">Ce l'ha ricordato, nel<pause type="short" dur="pt2s"/> nell'intervista del <date when="2018-12">dicembre del 2018</date>, sua mamma. Che c'era stata questa vostra visita alla tomba della mamma di suo padre</u>
                 <u who="#GB" xml:id="b105" synch="#tlp218">E lei come, chi gliel'ha detto?</u>
                 <u who="#MR" xml:id="r97" synch="#tlp219">Me l'ha detto lei
                 <vocal xml:id="n7" synch="#tln6" dur="pt3s"><desc>Ridono</desc></vocal>
                 Quando le farò vedere il video per intero, <del type="truncation">ri</del></u>
-                <anchor synch="#tls139"/><desc>Sovrapposizione tra parlanti</desc><anchor synch="#tls140"/>
+                <anchor synch="#tls139"/><gap reason="inaudible"/><anchor synch="#tls140"/>
                 <u who="#GB" xml:id="b106" synch="#tlp220">La tomba c'è ancora, precisa. Perché sai che lì arriva moltissima gente 
-                <anchor synch="#tls141"/><desc>Sovrapposizione tra più parlanti</desc><anchor synch="#tls142"/>
+                <anchor synch="#tls141"/><gap reason="inaudible"/><anchor synch="#tls142"/>
                 Perché i fiumani sono andati via da <placeName ref="#FIUME">Fiume</placeName> e si sono sparpagliati un po' dappertutto. Però ognuno ha il, come dire, il rimpianto per le tombe abbandonate e ogni tanto arrivano. 
                 Per la tomba, e a fotografarla, e siccome il cimitero è rimasto intatto, tale e quale com'era, e molti ci vanno, anche noi siamo stati lì. 
                 <q type="spoken" who="#GB" toWhom="#RB">Non con te, con qualcuno son stata</q></u>
@@ -2132,14 +2131,14 @@
                 <anchor synch="#tls145"/>Sì<anchor synch="#tls146"/>
                 Ecco</u>
                 <u who="#GB" xml:id="b109" synch="#tlp226">Sì, però non ho fatto poi niente perché mi sono sposata e sono andata a vivere in <placeName ref="#AFRICA">Africa</placeName></u>
-                <anchor synch="#tls147"/><desc>Sovrapposizione tra due parlanti</desc><anchor synch="#tls148"/>
+                <anchor synch="#tls147"/><gap reason="inaudible"/><anchor synch="#tls148"/>
                 <u who="#LR" xml:id="l5" synch="#tlp227">Però prima di fare la scuola media e l'università, che tipo di scuola ha fatto</u>
                 <u who="#GB" xml:id="b110" synch="#tlp228">Ho fatto, studiato tutto privatamente e di anno in anno davo gli esami 
                 <anchor synch="#tls149"/><vocal><desc>Ahh</desc></vocal><anchor synch="#tls150"/>
                 Quindi, a noi avevano permesso di dare gli esami, ma non di frequentare la scuola. Agli ebrei era stato 
                 <anchor synch="#tls151"/><desc>Si sente voce di sottofondo</desc><anchor synch="#tls152"/>
                 tolto il permesso di frequentare le scuole. Però poi avevano dato il permesso di presentarsi agli esami. E noi quelli che hanno avuto il desiderio di continuare a studiare, hanno studiato e tutti gli anni andavano a fare gli esami. E io fino alla maturità ho fatto 
-                <anchor synch="#tls153"/><desc>Piccola sovrapposizione</desc><anchor synch="#tls154"/>
+                <anchor synch="#tls153"/><gap reason="inaudible"/><anchor synch="#tls154"/>
                 gli esami</u>
                 <u who="#MR" xml:id="r98" synch="#tlp229">E che scuola ha fatto?</u>
                 <anchor synch="#tls155"/>
@@ -2152,15 +2151,15 @@
                 scientifico</u>
                 <u who="#GB" xml:id="b113" synch="#tlp234">Sì. Liceo scientifico e le posso dire anche in che anno, perché in genere si finisce a 19 anni, no? con le cinque elementari <vocal><desc>Si sente leggermente un sì di sottofondo</desc></vocal>, e io l'ho fatto a 18 anni. Per cui, sono del <date when="1924">'24</date>, e nel <date when="1942">'42</date> <pause type="short" dur="pt2s"/> ho fatto la maturità, <vocal><desc>ehm</desc></vocal> privatamente al liceo scientifico
                 <vocal xml:id="n10" synch="#tln9"> <desc>Voci di sottofondo</desc></vocal>
-                Perché <vocal xml:id="n11" synch="#tln10"><desc>Qualcuno tossisce</desc></vocal> <del type="repetition">non</del> non le quadra?</u>
+                Perché <vocal xml:id="n11" synch="#tln10"><desc>Qualcuno tossisce</desc></vocal> non <del type="repetition">non</del> le quadra?</u>
                 <u who="#LR" xml:id="l6" synch="#tlp235">Nono, perché noi infatti 
                 <anchor synch="#tls159"/>no<anchor synch="#tls160"/> 
                 l'avevamo lasciata in terza media e l'avevamo ritrovata iscritta all'università, ci mancava questo passaggio</u>
-                <anchor synch="#tls161"/><desc>Sovrapposizione</desc><anchor synch="#tls162"/>
+                <anchor synch="#tls161"/><gap reason="inaudible"/><anchor synch="#tls162"/>
                 <u who="#GB" xml:id="b114" synch="#tlp236">Ho fatto tutti gli anni, si andava all'esame e il professore, sempre, <vocal><desc>ohm</desc></vocal> prima alle medie e poi al liceo scientifico 
                 <gap reason="inaudible"/>, si chiamava <gap reason="inaudible"/>, il liceo scientifico, e lì si davano gli esami
                 <anchor synch="#tls163"/><desc>Voce di sottofondo</desc><anchor synch="#tls164"/>
-                con tutti i professori della scuola, ci si presentava da privatisti e <vocal><desc>ehm</desc></vocal> via via, c'era un unico professore. Tutti molto, come dire, molto <vocal><desc>mh</desc></vocal> rispettosi <del type="repetition">e anche</del> e anche compiaciuti, del fatto che non avessimo voluto interrompere gli studi. 
+                con tutti i professori della scuola, ci si presentava da privatisti e <vocal><desc>ehm</desc></vocal> via via, c'era un unico professore. Tutti molto, come dire, molto <vocal><desc>mh</desc></vocal> rispettosi e anche <del type="repetition">e anche</del> compiaciuti, del fatto che non avessimo voluto interrompere gli studi. 
                 Ascoltavano, facevano le domande e poi alla fine ti salutavano anche con una stretta di mano, come dire <cit><quote>brava, che hai studiato</quote></cit>. 
                 C'era un unico professore di inglese che era un antisemita e faceva delle domande odiose, però ovviamente siccome c'erano anche delle domande normali. Per esempio, mi ricordo una domanda: <cit><quote>il tale libero. Mi dica l'autore e in che anno è stato scritto</quote></cit>. 
                 <vocal xml:id="n12" synch="#tln11"><desc>ride</desc></vocal>.
@@ -2170,7 +2169,7 @@
                 <u who="#RB" xml:id="rb16" synch="#tlp238">Impressa</u>
                 <anchor synch="#tls166"/>
                 <u who="#GB" xml:id="b115" synch="#tlp239">Sì, di tutti gli altri che hanno dato buoni voti, non li risaprei dire. Ma questo è stato così antipatico che uno lo conserva nella memoria
-                <anchor synch="#tls167"/><shift feature="loud" new="f"/><vocal><desc>Eh</desc></vocal> sì!<anchor synch="#tls168"/>
+                <anchor synch="#tls167"/><shift feature="loud" new="f"/><emph><vocal><desc>Eh</desc></vocal> sì!</emph><anchor synch="#tls168"/>
                 <shift feature="loud" new="normal"/>e quindi <vocal xml:id="n14" synch="#tln13" dur="pt2s"><desc>ride</desc></vocal></u>
                 <u who="#RB" xml:id="rb17" synch="#tlp240"><q type="spoken" who="#RB" toWhom="#GB">Però devi dire, che per studiare, ti dava lezioni private</q></u>
                 <u who="#GB" xml:id="b116" synch="#tlp241"><q type="spoken" who="#GB" toWhom="#RB"><vocal><desc>Ah</desc></vocal> sì</q>
@@ -2188,7 +2187,7 @@
                 Allora lì bisognava dare l'esame. 
                 <anchor synch="#tls177"/>Sisisì<anchor synch="#tls178"/>
                 Sennò non si poteva 
-                <anchor synch="#tls179"/><desc>sovrapposizione di 4s, con un "sisì" di sottofondo</desc><anchor synch="#tls180"/>
+                <anchor synch="#tls179"/><gap reason="inaudible"/>Si <del type="repetition">sì</del><anchor synch="#tls180"/>
                 accedere alle superiori</u>
                 <vocal xml:id="n15" synch="#tln14"><desc>Brusio di sottofondo</desc></vocal>
             </div>
@@ -2204,13 +2203,13 @@
                 I padri venivano licenziati dai loro lavori, lì bisognava continuare a vivere e i ragazzi a studiare. Allora, io davo lezioni a ragazzini più piccoli di me e non solo, pensate. 
                 Una cosa che non dimenticherò mai. <placeName ref="#FIUME">Fiume</placeName>, quella volta, confinava con la <placeName ref="#CROAZIA">Croazia</placeName>. La città più vicina, bastava attraversare un ponte, si chiamava <placeName ref="#SUSSAK">Sussak</placeName>, e c'è ancora questa <placeName ref="#SUSSAK">Sussak</placeName>. 
                 Adesso è diventata, mi pare, la capitale della <placeName ref="#CROAZIA">Croazia</placeName>, o una città importante della <placeName ref="#CROAZIA">Croazia</placeName>.
-                E <vocal><desc>tossisce</desc></vocal> quella volta invece il governo fascista <del type="repetition">aveva</del> aveva occupato una parte della <placeName ref="#CROAZIA">Croazia</placeName> e in quella zona c'erano tutti i militari. 
+                E <vocal><desc>tossisce</desc></vocal> quella volta invece il governo fascista aveva <del type="repetition">aveva</del> occupato una parte della <placeName ref="#CROAZIA">Croazia</placeName> e in quella zona c'erano tutti i militari. 
                 Ragazzi giovani militari a presediare quella zona. Questi ragazzi che avevano fatto pochi studi, qualche volta solo la quinta elementare, qualche volta, non so, i primi due anni delle medie, volevano avere un titolo di studio superiore. Qualche soldo lo ricevevano da casa, qualche cosa gli davano anche come militari e loro volevano studiare per dare gli esami.
                 Allora, avevano avuto il mio nome, come nome di altro studente come me, e venivano a studiare da me. 
                 Ma loro erano liberi solo la sera. Allora io fino a mezzanotte, loro arrivavano dopo le otto, fino alle.. non guardavo un'ora, due ore. Finché avevano imparato quella lezione.
                 E loro poi avevano superato tutti gli esami e io avevo guadagnato qualcosa. Non molto, perché <del type="reformulation">immagini</del> si immagini cosa potevano pagare.
                 Ma venivano in diversi e una sera venivano due, un'altra sera altri due, eccetera, e andava bene a loro, e andava bene anche a me.
-                <pause type="short" dur="pt1s"/> E' così. Così sono arrivata, appunto, a <del type="falseStart">fer</del> fare la maturità <del type="repetition">e</del> e ad aiutare in casa, che mio papà non lavorava più.<pause type="short" dur="pt2s"/>
+                <pause type="short" dur="pt1s"/> E' così. Così sono arrivata, appunto, a <del type="falseStart">fer</del> fare la maturità e <del type="repetition">e</del> ad aiutare in casa, che mio papà non lavorava più.<pause type="short" dur="pt2s"/>
                 E poi sarebbe andato anche tutto bene, ma con l'<date when="1943-09-08">8 settembre del 43</date> sono arrivati i tedeschi, è stato il macello. Hanno incominciato a deportare gli ebrei. Allora siamo dovuti scappare</u>
                 <pause type="medium" dur="pt4s"/>
             </div>
@@ -2218,9 +2217,9 @@
                 <u who="#MR" xml:id="r103" synch="#tlp248">Lei ci ha 
                 <anchor synch="#tls183"/><desc>voce di sottofondo</desc><anchor synch="#tls184"/> 
                 detto che, in seguito all'emanazione delle leggi razziali, cito testalmente le sue parole:
-                <anchor synch="#tls185"/><shift feature="loud" new="f"/>Sì!<anchor synch="#tls186"/>
+                <anchor synch="#tls185"/><shift feature="loud" new="f"/><emph>Sì!</emph><anchor synch="#tls186"/>
                 <shift feature="loud" new="normal"/>"<cit><quote>una delle mie amiche più care, mi ha voltato le spalle</quote></cit>"</u>
-                <anchor synch="#tls187"/><desc>Sovrapposizione tra i due parlanti</desc><anchor synch="#tls188"/>
+                <anchor synch="#tls187"/><gap reason="inaudible"/><anchor synch="#tls188"/>
                 <u who="#GB" xml:id="b121" synch="#tlp251">Esattamente, esattamente.
                 Si chiamava <anchor synch="#tlc3"/><desc>Censura per privacy</desc><anchor synch="#tlc4"/>
                 Eravamo compagne di banco e ci volevamo molto bene. E lei a un certo punto, io non andavo più a scuola, però <vocal><desc>tossisce</desc></vocal> non veniva neanche in casa, <del type="reformulation">non ci facevamo</del> non mi telefonava, per cui anche io non potevo chiamarla, 
@@ -2236,18 +2235,18 @@
             <div type="intervista11">
                 <u who="#MR" xml:id="r105" synch="#tlp252">E poi c'è la signora <persName ref="#AB">Angelina</persName></u>
                 <u who="#GB" xml:id="b122" synch="#tlp253"><vocal><desc>Ahhn</desc></vocal>, <pause type="short" dur="tp2s"/>
-                Quella, guardi, ogni volta che la nomino e la penso, mi commuove. Perché lei è stata deliziosa, una persona di cui non posso immaginare un <del type="repetition">altrettanto</del> altrettanto, come dire, angelica, dolce, solidale, desiderosa di dare una mano, di venire incontro a chi soffriva. 
+                Quella, guardi, ogni volta che la nomino e la penso, mi commuove. Perché lei è stata deliziosa, una persona di cui non posso immaginare un altrettanto <del type="repetition">altrettanto</del>, come dire, angelica, dolce, solidale, desiderosa di dare una mano, di venire incontro a chi soffriva. 
                 Lei era la vicina di casa. La signora <persName ref="#AB">Angelina Braida</persName>. Era una deliziosa persona</u>
             </div>
             <div type="extraIntervista6">
                 <u who="#RB" xml:id="rb18" synch="#tlp254"><q type="spoken" who="#RB" toWhom="#GB">Ti ha chiamato il nipote?</q></u>
-                <u who="#GB" xml:id="b123" synch="#tlp255"><q type="spoken" who="#GB" toWhom="#RB"><shift feature="loud" new="f"/><vocal><desc>Eh?</desc></vocal></q></u>
+                <u who="#GB" xml:id="b123" synch="#tlp255"><q type="spoken" who="#GB" toWhom="#RB"><shift feature="loud" new="f"/><emph><vocal><desc>Eh?</desc></vocal></emph></q></u>
                 <u who="#RB" xml:id="rb19" synch="#tlp256"><q type="spoken" who="#RB" toWhom="#GB"><shift feature="loud" new="normal"/>Ti ha chiamato il nipote?</q></u> 
                 <u who="#GB" xml:id="b124" synch="#tlp257"><q type="spoken" who="#GB" toWhom="#RB">No</q>
-                <anchor synch="#tls189"/><desc>Sovrapposizione tra parlanti</desc><anchor synch="#tls190"/>
+                <anchor synch="#tls189"/><gap reason="inaudible"/><anchor synch="#tls190"/>
                 <pause type="short" dur="pt1s"/>
                 <vocal><desc>Eh</desc></vocal> ma scusa, dove sta?</u>
-                <anchor synch="#tls191"/><desc>Sovrapposizione tra parlanti</desc><anchor synch="#tls192"/>
+                <anchor synch="#tls191"/><gap reason="inaudible"/><anchor synch="#tls192"/>
                 <u who="#MR" xml:id="r106" synch="#tlp258"><q type="spoken" who="#MR" toWhom="#GB">A <placeName ref="#GORIZIA">Gorizia</placeName>,<vocal><desc>eh</desc></vocal> perché?</q></u>
             </div>
             <div type="intervista11">
@@ -2261,7 +2260,7 @@
                 E ogni giorno ci vedevamo. Lei usciva, era rimasta vedova, con un unico figlio, che era militare, e lei andava a fare <del type="reformulation">le cos</del> il lavoro di suo marito. Loro avevano un grosso, come si può dire, un grosso stabilimento, dove venivano pulite le divise dei soldati. 
                 E quando è morto il marito, e il figlio è andato al militare, questo è toccato <del type="reformulation">a fa</del> a guidarla lei questo lavoro, che era molto faticoso.
                 Lei usciva di mattina presto e tornava la sera. Allora la invitavamo da noi, perché non stesse sola. E c'era una grande amicizia. E quando poi son successe <del type="falseStart">le</del> la situazione drammatica che abbiamo vissuto lì, a <placeName ref="#FIUME">Fiume</placeName>, allora era stata lei a dire che voleva aiutarci in tutte le maniere, 
-                <del type="repetition">voleva</del> voleva non vederci, sopratutto mia madre disperata, "<cit><quote>cosa facciamo adesso, dove andiamo, non si sa</quote></cit>". Va beh, è una cosa complicata, ma lei è stata veramente straordinaria.
+                voleva <del type="repetition">voleva</del> non vederci, sopratutto mia madre disperata, "<cit><quote>cosa facciamo adesso, dove andiamo, non si sa</quote></cit>". <vocal><desc>Va beh</desc></vocal> è una cosa complicata, ma lei è stata veramente straordinaria.
                 <pause type="medium" dur="pt4s"/>
                 Ogni tanto capitava a <placeName ref="#MI">Milano</placeName> che mi telefonava il figlio "<cit><quote>guarda, aspettati che mia mamma ha già preso il treno, non ti ha detto niente, voleva farti una sorpresa</quote></cit>". 
                 </u>
@@ -2275,15 +2274,15 @@
                 <u who="#GB" xml:id="b126" synch="#tlp261">
                 Certo, quelli che venivano,<del type="reformulation">quelli</del> perché la, come dire.. <pause type="short" dur="pt1s"/>
                 La tragedia è cominciata prima nei paesi centrali dell'<placeName ref="#EU">Europa</placeName>. E' stata scatenata nel <date when="1933">33</date> dalla <placeName ref="#GERMANIA">Germania</placeName>, 
-                e <del type="falseStart">più</del> via via scendeva <del type="falseStart">nel</del> verso gli altri paesi dove i tedeschi con la loro<del type="repetition">con la loro</del> capacità di ammettere tutte le altre lezioni, 
+                e <del type="falseStart">più</del> via via scendeva <del type="falseStart">nel</del> verso gli altri paesi dove i tedeschi con la loro <del type="repetition">con la loro</del> capacità di ammettere tutte le altre lezioni, 
                 erano arrivati e avevano preso quasi tutta l'<placeName ref="#EU">Europa</placeName>. Erano arrivati fino, dunque.. Erano entrati in <placeName ref="#UNGHERIA">Ungheria</placeName>, nei paesi della <placeName ref="#NORVEGIA">Norvegia</placeName>, per cui voglio dire. <del type="reformulation">Hanno</del> 
                 Poi sono arrivati in <placeName ref="#ITA">Italia</placeName> e con loro si scatenava la grande tragedia, soprattutto per gli ebrei. Perché era caccia agli ebrei, sterminarli, deportarli <del type="repetition">e poi</del> e poi farli fuori, come hanno fatto, come avevano tentato di fare con tutti quelli dell'<placeName ref="#EU">Europa</placeName></u>
                 <u who="#MR" xml:id="r108" synch="#tlp262">C'è il rabbino <persName ref="#KARL">Karl Zelikovitz</persName></u>
-                <anchor synch="#tls197"/><desc>Sovrapposizione</desc><anchor synch="#tls198"/>
+                <anchor synch="#tls197"/><gap reason="inaudible"/><anchor synch="#tls198"/>
                 <u who="#GB" xml:id="b127" synch="#tlp263">Sì, come no. Era giovane il rabbino.<pause type="short" dur="pt1s"/> 
                 E lui poi credo che sia tornato in <placeName ref="#UNGHERIA">Ungheria</placeName> e sia morto. 
                 <del type="truncation">Io non</del>
-                <anchor synch="#tls199"/><desc>Sovrapposizione</desc><anchor synch="#tls200"/>
+                <anchor synch="#tls199"/><gap reason="inaudible"/><anchor synch="#tls200"/>
                 No, è stato deportato</u>
                 <u who="#MR" xml:id="r109" synch="#tlp264"><shift feature="loud" new="p"/>ed è morto pure lui</u>
                 <u who="#GB" xml:id="b128" synch="#tlp265"><shift feature="loud" new="normal"/>Ecco, sisisì</u>
@@ -2294,7 +2293,7 @@
                 è unita a quella del rabbino <persName ref="#KARL">Karl</persName>, perché siete insieme a <placeName ref="#VISERBA">Viserba</placeName></u>
                 <u who="#GB" xml:id="b129" synch="#tlp267"><vocal><desc>Ah</desc></vocal> sì. Ma non solo lui, c'era una famiglia <persName ref="#ALTMANN">Altmann</persName></u>
                 <u who="#MR" xml:id="r111" synch="#tlp268">Esatto</u> 
-                <anchor synch="#tls205"/><desc>Sovrapposizione</desc> <anchor synch="#tls206"/>
+                <anchor synch="#tls205"/><gap reason="inaudible"/><anchor synch="#tls206"/>
                 <u who="#GB" xml:id="b130" synch="#tlp269">Lei, questa <persName ref="#ALTMANN">Altmann</persName>, era una cugina di secondo grado</u>
                 <u who="#MR" xml:id="r112" synch="#tlp270">Perché era <persName ref="#MH">Margherita Herskovitz</persName>
                 <anchor synch="#tls207"/>Herskovitz, sì<anchor synch="#tls208"/>
@@ -2327,7 +2326,7 @@
                 <u who="#DQ" xml:id="d7" synch="#tlp287">Se vuole rifare la domanda, la riprende, perché</u>
                 <u who="#MR" xml:id="r116" synch="#tlp288">Io siccome non sono un <del type="truncation">robo</del></u>
                 <incident xml:id="n23" synch="#tln22"><desc>Rumore di stop della registrazione</desc></incident>
-                <anchor synch="#tls217"/><desc>Piccola sovrapposizione</desc><anchor synch="#tls218"/>
+                <anchor synch="#tls217"/><gap reason="inaudible"/><anchor synch="#tls218"/>
                 <u who="#GB" xml:id="b137" synch="#tlp289">Da dove si parte?
                 <anchor synch="#tls219"/>Perfetto<anchor synch="#tls220"/></u>
                 <u who="DQ" xml:id="d8" synch="#tlp290">Perfetto</u>
@@ -2345,9 +2344,9 @@
                 E questo qui aveva anche tante sveglie che gli venivano portate a riparare. Quello era troppo facile e <vocal><desc>mh</desc></vocal> li portava a casa. 
                 Per cui, uno di noi le riparava. Bastava che ce lo spiegasse. 
                 <anchor synch="#tls227"/><desc>Voce di sottofondo</desc><anchor synch="#tls228"/> 
-                E questo era un modo, per esempio per me, per mio fratello quello piccolo, a, come si chiama, a guadagnare tanto per <del type="repetition">poter</del> poter pagare le lezioni da studenti, non da professori. 
+                E questo era un modo, per esempio per me, per mio fratello quello piccolo, a, come si chiama, a guadagnare tanto per poter <del type="repetition">poter</del> pagare le lezioni da studenti, non da professori. 
                 Perché mio padre non guadagnava più.
-                Per cui non so dirle quale fatica, e quale grosso impegno di lavoro, di, come dire, di preoccupazioni che ci si caricava. Perché non avevamo le spiegazioni di un professore, ma dovevamo presentarci agli esami, sennò <del type="repetition">non ci</del> non ci davano la sufficienza.
+                Per cui non so dirle quale fatica, e quale grosso impegno di lavoro, di, come dire, di preoccupazioni che ci si caricava. Perché non avevamo le spiegazioni di un professore, ma dovevamo presentarci agli esami, sennò non ci <del type="repetition">non ci</del> davano la sufficienza.
                 <pause type="short" dur="pt3s"/>
                 Era dura, era dura</u>
                 <pause type="long" dur="pt9s"/>
@@ -2371,7 +2370,7 @@
                 <u who="#GB" xml:id="b143" synch="#tlp302">Per la disperazione, 
                 <anchor synch="#tls233"/>Ecco, sisisì<anchor synch="#tls234"/>
                 perché non si sapeva quello che sarebbe successo. E allora ci sono state, adesso non le dico che sono stati numerosi, ma di alcuni sì 
-                <anchor synch="#tls235"/><desc>Sovrapposizione con altre voci</desc><anchor synch="#tls236"/>
+                <anchor synch="#tls235"/><gap reason="inaudible"/><anchor synch="#tls236"/>
                 Sì</u>
                 <pause type="short" dur="pt2s"/>
             </div>
@@ -2390,26 +2389,26 @@
                 <anchor synch="#tls243"/>Piccolissime
                 <anchor synch="#tls244"/>
                 Erano delle bambine. Praticamente 
-                <anchor synch="#tls245"/><desc>Sovrapposizione con Riccucci</desc><anchor synch="#tls246"/>
+                <anchor synch="#tls245"/><gap reason="inaudible"/><anchor synch="#tls246"/>
                 quello che loro raccontano adesso, di cose avvenute in quel periodo, le hanno sentite per averle, cioè le raccontano per averle sentite, 
-                <anchor synch="#tls247"/><desc>sovrapposizione con Riccucci</desc><anchor synch="#tls248"/>
+                <anchor synch="#tls247"/><gap reason="inaudible"/><anchor synch="#tls248"/>
                 non per averle vissute. Perché erano delle bambine.</u>
                 <vocal xml:id="n25" synch="#tln24"><desc>Voce di sottofondo</desc></vocal>
                 <u who="#MR" xml:id="r126" synch="#tlp311">Lei ha conosciuto anche <persName ref="#MG">Martino Godelli</persName></u>
                 <u who="#GB" xml:id="b148" synch="#tlp312">Certo, eravamo amici. Ero amica di sua moglie
                 <anchor synch="#tls249"/><shift feature="loud" new="p"/>di Gisella?<anchor synch="#tls250"/>
-                <shift feature="loud" new="normal"/>Sì, sì. <persName ref="#GK">Kugler</persName>. Sì, ero amica della sorella di <del type="falseStart">Ge</del> <persName ref="#GK">Gisella Kugler</persName></u>
+                <shift feature="loud" new="normal"/>Sì, <del type="repetition">sì</del>. <persName ref="#GK">Kugler</persName>. Sì, ero amica della sorella di <del type="falseStart">Ge</del> <persName ref="#GK">Gisella Kugler</persName></u>
                 <u who="#MR" xml:id="r128" synch="#tlp315">Certo, <gap reason="inaudible"/>
-                <anchor synch="#tls251"/>Sì, sì<anchor synch="#tls252"/>
+                <anchor synch="#tls251"/>Sì, <del type="repetition">sì</del><anchor synch="#tls252"/>
                 arriviamo anche lì. <vocal><desc>ehm</desc></vocal> Lei conosce <persName ref="#AS">Arianna</persName>
                 <anchor synch="#tls253"/><persName ref="#AS">Szörényi</persName>?<anchor synch="#tls254"/>
                 Sì</u> 
                 <u who="#GB" xml:id="b152" synch="#tlp320">La conosco. Adesso è un po' che non ci sentiamo, ma la conosco bene</u>
                 <u who="#RB" xml:id="rb20" synch="#tlp321"><q type="spoken" who="#RB" toWhom="#GB">L'hai aiutata anche a scrivere il primo libro</q></u>
                 <u who="#GB" xml:id="b153" synch="#tlp322"><q type="spoken" who="#GB" toWhom="#RB"><vocal><desc>Eh?</desc></vocal></q></u>
-                <anchor synch="#tls255"/><desc>Sovrapposizione</desc><anchor synch="#tls256"/>
+                <anchor synch="#tls255"/><gap reason="inaudible"/><anchor synch="#tls256"/>
                 <u who="#RB" xml:id="rb21" synch="#tlp323"><q type="spoken" who="#RB" toWhom="#GB">L'hai aiutata anche a scrivere il primo
-                <anchor synch="#tls257"/><desc>Sovrapposizione con Riccucci</desc><anchor synch="#tls258"/>
+                <anchor synch="#tls257"/><gap reason="inaudible"/><anchor synch="#tls258"/>
                 libro</q></u>
                 <u who="#GB" xml:id="b154" synch="#tlp324"><q type="spoken" who="#GB" toWhom="#RB">Questo non me lo ricordo</q>. 
                 <anchor synch="#tls259"/><q type="spoken" who="#RB" toWhom="#GB">Ma sì ma</q><anchor synch="#tls260"/></u>
@@ -2421,7 +2420,7 @@
             </div>
             <div type="intervista16">
                 <u who="#MR" xml:id="r131" synch="#tlp329">Dunque. <vocal><desc>mh</desc></vocal> <vocal><desc>ehh</desc></vocal> 
-                <del type="repetition">Ci</del> Ci risulta che la prima intervista che lei ha rilasciato <vocal><desc>ohm</desc></vocal> per il <orgName ref="#CDEC">CDEC</orgName> sia del <date when="1987-02">febbraio dell'87</date> a <persName ref="#RP">Liliana Picciotto</persName>. 
+                Ci <del type="repetition">Ci</del> risulta che la prima intervista che lei ha rilasciato <vocal><desc>ohm</desc></vocal> per il <orgName ref="#CDEC">CDEC</orgName> sia del <date when="1987-02">febbraio dell'87</date> a <persName ref="#RP">Liliana Picciotto</persName>. 
                 Questa intervista è ascoltabile sul sito
                 <anchor synch="#tls265"/>Allora<anchor synch="#tls266"/></u>
                 <u who="#GB" xml:id="b157" synch="#tlp330">un'intervista <del type="reformulation">dell'att</del> di tutta la deportazione?</u>
@@ -2433,7 +2432,7 @@
             </div>
             <div type="extraIntervista8">
                 <incident xml:id="n27" synch="#tln26"><desc>Bussano alla porta</desc></incident>
-                <u xml:id="x1" synch="#tlp333"><shift feature="loud" new="f"/>Permesso!</u>
+                <u xml:id="x1" synch="#tlp333"><shift feature="loud" new="f"/><emph>Permesso!</emph></u>
                 <u who="#GB" xml:id="b159" synch="#tlp334"><shift feature="loud" new="p"/>Sì, avanti. <vocal xml:id="n28" synch="#tln27"><desc>Risata</desc></vocal> Chi è?</u>
                 <incident xml:id="n29" synch="#tln28"><desc>Rumori</desc></incident>
                 <u who="#RB" xml:id="rb24" synch="#tlp335"><shift feature="loud" new="normal"/>Interrotto?</u>
@@ -2452,8 +2451,8 @@
                 <anchor synch="#tls271"/>No <anchor synch="#tls272"/></u>
                 <u who="#GB" xml:id="b163" synch="#tlp344">No, perché loro non erano a <placeName ref="#VISERBA">Viserba</placeName>. Loro erano, se non mi sbaglio, si chiama <placeName ref="#ML">Massa Lombarda</placeName></u>
                 <u who="#MR" xml:id="r137" synch="#tlp345">Era, dunque, sì, <vocal><desc>ehm</desc></vocal> perché
-                <anchor synch="#tls273"/><desc>Sovrapposizione</desc><anchor synch="#tls274"/></u>
-                <u who="#GB" xml:id="b164" synch="#tlp346">Loro non stavano insieme a noi, loro <del type="repetition">erano</del> erano nascoste, diciamo così, nascoste nel senso che, con nomi falsi vivevano</u>
+                <anchor synch="#tls273"/><gap reason="inaudible"/><anchor synch="#tls274"/></u>
+                <u who="#GB" xml:id="b164" synch="#tlp346">Loro non stavano insieme a noi, loro erano <del type="repetition">erano</del> nascoste, diciamo così, nascoste nel senso che, con nomi falsi vivevano</u>
                 <u who="#MR" xml:id="r138" synch="#tlp347">a <placeName ref="#ML">Massa Lombarda</placeName>?</u>
                 <u who="#GB" xml:id="b165" synch="#tlp348"><vocal><desc>Mah</desc></vocal> forse ho sbagliato. Ma credo sia proprio così. In un'altra zona, non lontana da <placeName ref="#VISERBA">Viserba</placeName>. A <placeName ref="#VISERBA">Viserba</placeName> vivevamo solo noi.
                 Non era bene vivere insieme con altre famiglie perché, soprattutto nel periodo invernale, dove non c'era turismo, queste poche facce straniere
@@ -2479,12 +2478,12 @@
                 <anchor synch="#tls289"/>Sì <anchor synch="#tls290"/>
                 <placeName ref="#TS">Trieste</placeName></u>
                 <u who="#GB" xml:id="b168" synch="#tlp354">Esatto</u>
-                <anchor synch="#tls291"/><desc>Sovrapposizione</desc> <anchor synch="#tls292"/>
+                <anchor synch="#tls291"/><gap reason="inaudible"/><anchor synch="#tls292"/>
                 <u who="#MR" xml:id="r142" synch="#tlp355">E a <placeName ref="#TS">Trieste</placeName> suo padre era ricoverato, vero?
                 <anchor synch="#tls293"/>Alla <placeName ref="#IGEA">Clinica Igea</placeName><anchor synch="#tls294"/>
                 alla <placeName ref="#IGEA">Clinica Igea</placeName>, dal professore <persName ref="#RV">Ravasini</persName>.</u>
                 <u who="#GB" xml:id="b169" synch="#tlp356">Sì, esattamente</u>
-                <u who="#MR" xml:id="r143" synch="#tlp357">Che è stato fatto uno studio <del type="repetition">di</del> di</u>
+                <u who="#MR" xml:id="r143" synch="#tlp357">Che è stato fatto uno studio di <del type="repetition">di</del></u>
                 <u who="#GB" xml:id="b170" synch="#tlp358">
                 Questo professore <persName ref="#RV">Ravasini</persName> era molto bravo, aveva ospitato parecchi ebrei in difficoltà. Poi erano malati 
                 <incident xml:id="n32" synch="#tln31"><desc>Qualcuno suona il clacson</desc></incident> e qualcuno forse non aveva bisogno di tante cure, ma per salvarlo lo aveva ospitato, perché i tedeschi andavano già di casa in casa ad arrestare le famiglie ebraiche. 
@@ -2510,12 +2509,12 @@
                 poi c'era Ferdinando</u>
                 <u who="#MR" xml:id="r146" synch="#tlp363">
                 Ferdinando che è sopravvissuto 
-                <anchor synch="#tls311"/><shift feature="loud" new="p"/>Sì, sì, certo <shift feature="loud" new="normal"/> Certo, è vero<anchor synch="#tls312"/>
+                <anchor synch="#tls311"/><shift feature="loud" new="p"/>Sì <del type="repetition">sì</del>, certo <shift feature="loud" new="normal"/> Certo, è vero<anchor synch="#tls312"/>
                 perché poi ha testimoniato con lei. E <vocal><desc>ehh</desc></vocal>
                 <anchor synch="#tls313"/>E <anchor synch="#tls314"/>
                 </u>
                 <u who="#GB" xml:id="b173" synch="#tlp364">poi c'erano i due bambini. 
-                <anchor synch="#tls315"/><desc>Sovrapposizione con Riccucci</desc><anchor synch="#tls316"/>
+                <anchor synch="#tls315"/><gap reason="inaudible"/><anchor synch="#tls316"/>
                 Erano Giuliano e Giselle. No, Giuliano e Juditta</u>
                 <u who="#MR" xml:id="r147" synch="#tlp365">E Juditta. E poi <vocal><desc>ehm</desc></vocal> in alcune testimonianze lei ha detto che c'erano anche i signori <persName ref="KROO">Kroo</persName></u>
                 <u who="#GB" xml:id="b174" synch="#tlp366">Sì, la mamma c'era di <persName ref="KROO">Kroo</persName> e i due figli
@@ -2551,7 +2550,7 @@
                 <u who="#GB" xml:id="b181" synch="#tlp380">Sisì. Invece la madre
                 <anchor synch="#tls333"/>La madre, lei<anchor synch="#tls334"/></u>
                 <u who="#MR" xml:id="r155" synch="#tlp381">e Alessandro, lei si è salvata.
-                <anchor synch="#tls333"/>Sì, sì<anchor synch="#tls334"/>
+                <anchor synch="#tls333"/>Sì, <del type="repetition">sì</del><anchor synch="#tls334"/>
                 <persName ref="#NV">Nelly Vamos</persName></u>
                 <u who="#GB" xml:id="b182" synch="#tlp382">Sì, <persName ref="#NV">Vamos</persName> era un nome di una famiglia fiumana e lei era appunto</u>
                 <u who="#MR" xml:id="r156" synch="#tlp383"><shift feature="loud" new="p"/>Lei si è salvata
@@ -2619,7 +2618,7 @@
                 <u who="#MR" xml:id="r167" synch="#tlp405">Erano i <persName ref="#KUCHI">Kuchi</persName>
                 <anchor synch="#tls361"/><persName ref="#KUCHI">Kuchi</persName><anchor synch="#tls362"/>
                 Erano i <persName ref="#KUCHI">Kuchi</persName>.
-                <anchor synch="#tls363"/>Sovrapposizione<anchor synch="#tls364"/>
+                <anchor synch="#tls363"/><gap reason="inaudible"/><anchor synch="#tls364"/>
                 Questa famiglia è la famiglia dei <persName ref="#KUCHI">Kuchi</persName>, che poi incontreremo. 
                 Allora <vocal><desc>ehm</desc></vocal> nello stesso tempo <vocal><desc>ohm</desc></vocal>, mi dica se sbaglio, tramite il rabbino, è entrato in contatto con il cardinale <persName ref="#SCH">Schuster</persName>. 
                 <anchor synch="#tls365"/>Sì<anchor synch="#tls366"/>
@@ -2632,7 +2631,7 @@
                 e voi. Però sua madre, suo padre, suo fratello vanno a <placeName ref="#MI">Milano</placeName>, mentre lei va a prendere le <persName ref="#KR">Kruger</persName>.</u>
                 <u who="#GB" xml:id="b194" synch="#tlp406">Esattamente. Mio padre con mio fratello sono andati il giorno prima, mia mamma mi ha aspettato mentre io andavo a prendere le <persName ref="#KR">Kruger</persName></u>
                 <u who="#MR" xml:id="r168" synch="#tlp407">E poi siete 
-                <anchor synch="#tls371"/>Sì, sì..<anchor synch="#tls372"/> 
+                <anchor synch="#tls371"/>Sì, <del type="repetition">sì</del>..<anchor synch="#tls372"/> 
                 andati tutti insieme a <placeName ref="#MI">Milano</placeName>. Perché le <persName ref="#KR">Kruger</persName> erano soltanto la madre, le tre figlie, perché il padre era a
                 <anchor synch="#tls373"/>No, era <placeName ref="#FERRAMONTI">Ferramonti</placeName><anchor synch="#tls374"/>
                 era a <placeName ref="#FERRAMONTI">Ferramonti</placeName></u>
@@ -2671,27 +2670,27 @@
                 <anchor synch="#tls393"/>Nono<anchor synch="#tls394"/>
                 ?</u>
                 <u who="#GB" xml:id="b201" synch="#tlp420">No, per non dovere andare a stare da qualche parte <incident xml:id="n35" synch="#tln34"><desc>Suono di clacson</desc></incident> perché 
-                <anchor synch="#tls395"/><desc>Sovrapposizione</desc><anchor synch="#tls396"/>
+                <anchor synch="#tls395"/><gap reason="inaudible"/><anchor synch="#tls396"/>
                 si aveva sempre paura di essere traditi</u>
                 <u who="#MR" xml:id="r175" synch="#tlp421">Ho capito, quindi non c'è stato un soggiorno a <placeName ref="#MI">Milano</placeName></u>
                 <u who="#GB" xml:id="b202" synch="#tlp422">No, 
-                <anchor synch="#tls397"/><desc>Sovrapposizione</desc><anchor synch="#tls398"/> 
+                <anchor synch="#tls397"/><gap reason="inaudible"/><anchor synch="#tls398"/> 
                 siamo arrivati, siamo andati in stazione, 
-                <anchor synch="#tls399"/><desc>Sovrapposizione</desc><anchor synch="#tls400"/> 
+                <anchor synch="#tls399"/><gap reason="inaudible"/><anchor synch="#tls400"/> 
                 e poi come le dico, siamo arrivati, era già tardi, abbiamo preso questo treno per <placeName ref="#VARESE">Varese</placeName> e poi un tram fino a <placeName ref="#GHIRLA">Ghirla</placeName> 
                 <anchor synch="#tls401"/>a <placeName ref="#GHIRLA">Ghirla</placeName>, e da lì<anchor synch="#tls402"/>
                 E da lì notte, abbiamo cominciato <del type="truncation">a</del>
                 <anchor synch="#tls403"/>E siete arrivati a <placeName ref="#CREMENAGA">Cremenaga</placeName><anchor synch="#tls404"/>
                 Certo</u>
                 <u who="#MR" xml:id="r177" synch="#tlp425">Ecco. E questo è chiarissimo 
-                <anchor synch="#tls405"/><desc>sovrapposizione tra i due parlanti</desc><anchor synch="#tls406"/></u>
+                <anchor synch="#tls405"/><gap reason="inaudible"/><anchor synch="#tls406"/></u>
                 <u who="#GB" xml:id="b204" synch="#tlp426"><date from="1944-05-01" to="1944-05-02">Tra il primo e il 2 di maggio</date></u>
                 <u who="#MR" xml:id="r178" synch="#tlp427"><date from="1944-05-01" to="1944-05-02">Tra il primo e il 2 maggio</date>,
                 <anchor synch="#tls407"/>Ecco, sì<anchor synch="#tls408"/> sisì. 
                 E poi c'è stata un passatori che hanno fatto, 
                 <anchor synch="#tls409"/><shift feature="loud" new="p"/>Sì<anchor synch="#tls410"/>
                 <shift feature="loud" new="normal"/> che vi hanno consegnato, ecco. E poi lei è intervenuta <del type="truncation">nel</del>, 
-                <anchor synch="#tls411"/><desc>Sovrapposizione</desc><anchor synch="#tls412"/>
+                <anchor synch="#tls411"/><gap reason="inaudible"/><anchor synch="#tls412"/>
                 c'è stato un processo anni dopo <vocal><desc>eh</desc></vocal></u>
                 <u who="#GB" xml:id="b205" synch="#tlp428">Sì, al ritorno</u>
                 <u who="#MR" xml:id="r179" synch="#tlp429"><vocal><desc>Ehh</desc></vocal> E <vocal><desc>mh</desc></vocal> sono stati condannati</u>
@@ -2701,9 +2700,9 @@
                 <anchor synch="#tls413"/> Ah, certo, sì<anchor synch="#tls414"/> 
                 Però poco dopo erano già liberi</u>
                 <u who="#MR" xml:id="r182" synch="#tlp435">Erano già liberi,
-                <anchor synch="#tls415"/>Sì, sì..<anchor synch="#tls416"/> 
+                <anchor synch="#tls415"/>Sì, <del type="repetition">sì</del>..<anchor synch="#tls416"/> 
                 sì. Infatti poi lei ha, nel film "<title ref="#MEMORIA">Memoria</title>", 
-                <anchor synch="#tls417"/><desc>Sovrapposizione</desc><anchor synch="#tls418"/> 
+                <anchor synch="#tls417"/><gap reason="inaudible"/><anchor synch="#tls418"/> 
                 quando è andata a <placeName ref="#CREMENAGA">Cremenaga</placeName>, ha trovato i verbali del suo arresto e ha raccontato che, insomma, un signore le ha detto <del type="truncation">che</del>
                 <anchor synch="#tls419"/>Sai <anchor synch="#tls420"/></u>
                 <u who="#GB" xml:id="b209" synch="#tlp436">Sai cosa mi ha fatto vedere, le case lì, in fondo, dice "<cit><quote>Guardi guardi tutte quelle ville, le hanno fatte con i vostri soldi</quote></cit></u>
@@ -2712,7 +2711,7 @@
             <div type="intervista19">
                 <u who="#MR" xml:id="r183" synch="#tlp437"><vocal><desc>ehm</desc></vocal> Dunque, sì. 
                 Poi lei ricorda anche un, un maresciallo dei carabinieri, che si chiamava <persName ref="#MROSSI">Marcello Rossi</persName>, a cui avete chiesto di lasciarvi andare e lui vi ha <del type="truncation">risposto</del>
-                <anchor synch="#tls421"/><desc>Piccola sovrapposizione</desc><anchor synch="#tls422"/></u>
+                <anchor synch="#tls421"/><gap reason="inaudible"/><anchor synch="#tls422"/></u>
                 <u who="#GB" xml:id="b210" synch="#tlp438">Lui era una 
                 <anchor synch="#tls423"/><vocal><desc>eh</desc></vocal><anchor synch="#tls424"/> 
                 bravissima persona, una bravissima persona. 
@@ -2750,13 +2749,13 @@
                 <u who="#MR" xml:id="r184" synch="#tlp439">
                 <anchor synch="#tls431"/><desc>Voce di sottofondo</desc><anchor synch="#tls432"/>
                 Ma cos'altro c'è, <vocal><desc>mh</desc></vocal>? 
-                <anchor synch="#tls433"/><desc>Sovrapposizione</desc><anchor synch="#tls434"/>
+                <anchor synch="#tls433"/><gap reason="inaudible"/><anchor synch="#tls434"/>
                 se non è stanca 
                 <anchor synch="#tls435"/>Io non sono stanca, per niente<anchor synch="#tls436"/>
                 <vocal><desc>ehh</desc></vocal></u>
-                <anchor synch="#tls437"/><desc>Sovrapposizione</desc><anchor synch="#tls438"/>
+                <anchor synch="#tls437"/><gap reason="inaudible"/><anchor synch="#tls438"/>
                 <u who="#GB" xml:id="b211" synch="#tlp440">No per niente 
-                <anchor synch="#tls439"/><desc>Sovrapposizione</desc><anchor synch="#tls440"/> 
+                <anchor synch="#tls439"/><gap reason="inaudible"/><anchor synch="#tls440"/> 
                 lo faccio volentieri. A parte che, questi ricordi sono ovviamente molto presenti sempre, ma non, non nei dettagli, non nelle cose minute, così mi rinfresco la memoria</u>
                 <anchor synch="#tls441"/><u who="#LR" xml:id="l11" synch="#tlp441">la memoria, <vocal><desc>risata</desc></vocal> ripassa <vocal><desc>risata</desc></vocal></u>
                 <anchor synch="#tls442"/>
@@ -2775,7 +2774,7 @@
                 <anchor synch="#tls451"/>Al carcere, <vocal><desc>ah</desc></vocal> sisì<anchor synch="#tls452"/>
                 <vocal><desc>eh</desc></vocal> 
                 Però poi fa riferimento anche al 
-                <anchor synch="#tls453"/>Sovrapposizione<anchor synch="#tls454"/>
+                <anchor synch="#tls453"/><gap reason="inaudible"/><anchor synch="#tls454"/>
                 giardino di una grande villa vicino al carcere
                 <anchor synch="#tls455"/>Vicino?<anchor synch="#tls456"/>
                 al carcere</u>
@@ -2784,7 +2783,7 @@
                 Sì. Perché dovevano, non so cosa, di cosa dovevano parlare, o che, ma ci hanno messo lì.
                 <anchor synch="#tls459"/><desc>Sottofondo</desc><anchor synch="#tls460"/>
                 Oppure forse a <placeName ref="#VARESE">Varese</placeName> era il posto, 
-                <anchor synch="#tls461"/><desc>Sovrapposizione</desc><anchor synch="#tls462"/> 
+                <anchor synch="#tls461"/><gap reason="inaudible"/><anchor synch="#tls462"/> 
                 dove, come dire, più isolato, dove nessuno ci poteva incontrare, ma so che siamo stati in questo giardino di <placeName ref="#VARESE">Varese</placeName></u>
                 <pause type="short" dur="pt1s"/>
                 <u who="#MR" xml:id="r190" synch="#tlp452"><shift feature="loud" new="p"/>ho capito, <shift feature="loud" new="normal"/><vocal><desc>Ehm</desc></vocal><pause type="short" dur="pt1s"/>
@@ -2797,10 +2796,10 @@
                 Forse <gap reason="inaudible"/>
                 <anchor synch="#tls467"/>Sì, forse, forse<anchor synch="#tls468"/></u>
                 <u who="#MR" xml:id="r191" synch="#tlp454">lei dice</u>
-                <anchor synch="#tls469"/><desc>Sovrapposizione</desc><anchor synch="#tls470"/>
+                <anchor synch="#tls469"/><gap reason="inaudible"/><anchor synch="#tls470"/>
                 <u who="#GB" xml:id="b218" synch="#tlp455">La data</u>
                 <u who="#MR" xml:id="r192" synch="#tlp456">Sì</u>
-                <anchor synch="#tls471"/><desc>Sovrapposizione</desc><anchor synch="#tls472"/>
+                <anchor synch="#tls471"/><gap reason="inaudible"/><anchor synch="#tls472"/>
                 <u who="#GB" xml:id="b219" synch="#tlp457">Se per <choice><orig>una</orig><reg resp="#SS">un</reg></choice> interesse storico 
                 <anchor synch="#tls473"/>Sisì, sisì, storico. La documentazione loro ce l'hanno<anchor synch="#tls474"/>
                 sì, certo</u>
@@ -2817,40 +2816,40 @@
                 <anchor synch="#tls477"/><desc>Voce di sottofondo</desc><anchor synch="#tls478"/>
                 perché poi siamo partiti</u>
                 <u who="#MR" xml:id="r195" synch="#tlp462">Quindi direttamente con il convoglio che vi avrebbe 
-                <anchor synch="#tls479"/>Sì. Sì, esattamente.<anchor synch="#tls480"/>
+                <anchor synch="#tls479"/>Sì. <del type="repetition">sì</del>, esattamente.<anchor synch="#tls480"/>
                 portato ad <placeName ref="#AUSCH">Auschwitz</placeName></u>
                 <vocal xml:id="n47" synch="#tln46" dur="pt6s"><desc>Brusio</desc></vocal>
                 <incident xml:id="n48" synch="#tln47"><desc>Rumore dello stop di registrazione</desc></incident>
                 <vocal xml:id="n49" synch="#tln48" dur="pt2s"><desc>Brusio</desc></vocal>
             </div>
             <div type="intervista21">
-                <u who="#LR" xml:id="l12" synch="#tlp463"><vocal><desc>ehm</desc></vocal> Ecco, era possibile <del type="repetition">fuggire</del> <vocal><desc>eh</desc></vocal> fuggire dal treno, perché poi ha raccontato di una persona, <vocal><desc>ehm</desc></vocal> un certo "<persName ref="#EG1" type="wrong">Brünberger</persName>"</u>
+                <u who="#LR" xml:id="l12" synch="#tlp463"><vocal><desc>ehm</desc></vocal> Ecco, era possibile fuggire <del type="repetition">fuggire</del> <vocal><desc>eh</desc></vocal> dal treno, perché poi ha raccontato di una persona, <vocal><desc>ehm</desc></vocal> un certo "<persName ref="#EG1" type="wrong">Brünberger</persName>"</u>
                 <u who="#GB" xml:id="b222" synch="#tlp464"><persName ref="#EG1">Grünberger</persName> 
                 <anchor synch="#tls481"/><vocal><desc>Ah</desc></vocal> <persName ref="#EG1">Grünberger</persName> <anchor synch="#tls482"/>
                 con la G</u>
                 <u who="#LR" xml:id="l13" synch="#tlp465"><del type="truncation">Che</del>
-                <anchor synch="#tls483"/><desc>Sovrapposizione</desc><anchor synch="#tls484"/></u>
+                <anchor synch="#tls483"/><gap reason="inaudible"/><anchor synch="#tls484"/></u>
                 <u who="#GB" xml:id="b223" synch="#tlp466">Era un amico</u>
                 <u who="#LR" xml:id="l14" synch="#tlp467">Che sarebbe riuscito lui a fuggire dal treno e a ritornare dalla moglie che era incinta</u>
-                <u who="#GB" xml:id="b224" synch="#tlp468">Sì, sì</u>
+                <u who="#GB" xml:id="b224" synch="#tlp468">Sì, <del type="repetition">sì</del></u>
                 <u who="#MR" xml:id="r196" synch="#tlp469">Quindi <vocal><desc>ehh</desc></vocal> si è salvato</u>
                 <u who="#GB" xml:id="b225" synch="#tlp470">Lui sì, si è salvato. 
                 <anchor synch="#tls485"/>Ecco<anchor synch="#tls486"/>
                 Certo, lui si è salvato, il fratello no. <persName ref="#EG2">Erico</persName> no. <persName ref="#EG1">Erico</persName> è finito ad <placeName ref="#AUSCH">Auschwitz</placeName> e non è tornato</u>
                 <u who="#LR" xml:id="l15" synch="#tlp471">Come si chiama lui invece?</u>
                 <u who="#GB" xml:id="b226" synch="#tlp472"><vocal><desc>Ehm</desc></vocal> allora, <del type="repetition">Egon</del> 
-                <anchor synch="#tls487"/><desc>Sovrapposizione con più di due parlanti</desc><anchor synch="#tls488"/> 
+                <anchor synch="#tls487"/><gap reason="inaudible"/><anchor synch="#tls488"/> 
                 <persName ref="#EG1">Egon Grünberger</persName>, era il fratello di questo <persName ref="#EG2">Erico</persName> che è morto nei campi</u>
                 <u who="#MR" xml:id="r197" synch="#tlp473">Mentre lui è scappato ed è tornato dalla moglie</u>
                 <u who="#GB" xml:id="b227" synch="#tlp474">Sì</u>
                 <u who="#RB" xml:id="rb26" synch="#tlp475">Ed è nato il figlio che si è chiamato Erico</u>
             </div>
             <div type="extraIntervista10">
-                <anchor synch="#tls489"/><desc>Sovrapposizione tra i parlanti</desc><anchor synch="#tls490"/>
+                <anchor synch="#tls489"/><gap reason="inaudible"/><anchor synch="#tls490"/>
                 <u who="#RB" xml:id="rb27" synch="#tlp476">C'è un legame, sua mamma in <placeName ref="#ISRAELE">Israele</placeName> compie 98 anni
-                <anchor synch="#tls491"/><desc>Sovrapposizione</desc><anchor synch="#tls492"/>
+                <anchor synch="#tls491"/><gap reason="inaudible"/><anchor synch="#tls492"/>
                 No in gamba no, sulla sedie a rotelle 
-                <anchor synch="#tls493"/><desc>Sovrapposizione 2s</desc><anchor synch="#tls494"/></u>
+                <anchor synch="#tls493"/><gap reason="inaudible"/><anchor synch="#tls494"/></u>
                 <u who="#GB" xml:id="b228" synch="#tlp477">Nel senso che è lucida, che</u>
                 <pause type="short" dur="pt2s"/>
                 <vocal xml:id="n50" synch="#tln49" dur="pt2s"><desc>Brusio</desc></vocal>
@@ -2882,16 +2881,16 @@
                 <anchor synch="#tls511"/><desc>Voce di sottofondo</desc><anchor synch="#tls512"/>
                 in fretta il lavoro</u>
                 <u who="#MR" xml:id="r199x" synch="#tlp481x">Difatti, <del type="falseStart">la</del> gli storici, insomma, 
-                <anchor synch="#tls513"/><desc>Sovrapposizione</desc><anchor synch="#tls514"/> 
+                <anchor synch="#tls513"/><gap reason="inaudible"/><anchor synch="#tls514"/> 
                 la documentazione storica dice 
-                <anchor synch="#tls515"/><desc>Sovrapposizione</desc><anchor synch="#tls516"/>
+                <anchor synch="#tls515"/><gap reason="inaudible"/><anchor synch="#tls516"/>
                 proprio metà maggio 
-                <anchor synch="#tls517"/><desc>Lunga sovrapposizione</desc><anchor synch="#tls518"/>
+                <anchor synch="#tls517"/><gap reason="inaudible"/><anchor synch="#tls518"/>
                 viene fatto questo prolungamento. Quindi voi sareste stati tra i primi convogli che arrivano direttamente dentro. 
-                Ecco, dunque, <vocal><desc>mh</desc></vocal> lei dice che "<cit><quote>non è ancora giorno. E ci fanno scendere, disporre <del type="repetition">in fila</del> in fila, da un lato le donne e dall'altro gli uomini. <vocal><desc>ehm</desc></vocal> E ci fanno incamminare, dove ci portano insomma, a seconda delle diverse occasioni in cui lei è destinata, fino a una baracca messa di traverso. Sul binario</quote></cit>"</u>
+                Ecco, dunque, <vocal><desc>mh</desc></vocal> lei dice che "<cit><quote>non è ancora giorno. E ci fanno scendere, disporre in fila<del type="repetition">in fila</del>, da un lato le donne e dall'altro gli uomini. <vocal><desc>ehm</desc></vocal> E ci fanno incamminare, dove ci portano insomma, a seconda delle diverse occasioni in cui lei è destinata, fino a una baracca messa di traverso. Sul binario</quote></cit>"</u>
                 <u who="#GB" xml:id="b230y" synch="#tlp481y">Sì, perché lì c'erano <del type="falseStart">i</del> gli ufficiali tedeschi che facevano la selezione. <vocal><desc>Eh</desc></vocal> sì. Me lo ricordo bene. 
                 <anchor synch="#tls519"/><vocal><desc>ehh</desc></vocal><anchor synch="#tls520"/>
-                Erano lì, a un certo punto c'era, come dire, <del type="repetition">una</del> una <unclear reason="inaudible">arrestozio</unclear>, oltre quel punto non si poteva andare, e loro erano davanti e con un cenno del dito, senza molti complimenti, "<cit><quote>tu di la, questo di la</quote></cit>".
+                Erano lì, a un certo punto c'era, come dire, una <del type="repetition">una</del> <unclear reason="inaudible">arrestozio</unclear>, oltre quel punto non si poteva andare, e loro erano davanti e con un cenno del dito, senza molti complimenti, "<cit><quote>tu di la, questo di la</quote></cit>".
                 E sul momento non si capiva cosa voleva dire questa divisione. E per esempio, a me "<cit><quote>tu di qua</quote></cit>" e mia mamma "<cit><quote>di la</quote></cit>". E' lì che ho visto mia mamma per l'ultima volta, perché appunto "<cit><quote>lì, di la</quote></cit>".
                 Mia mamma era una donna molto giovane ancora. <vocal><desc>ehh</desc></vocal> <pause type="short" dur="pt2s"/>E niente.
                 Allora a un certo punto gli abbiamo chiesto, a qualcuno, sia a dei giovani che poi sorvegliavano 
@@ -2901,8 +2900,8 @@
             </div>
             <div type="intervista23">
                 <u who="#MR" xml:id="r200" synch="#tlp482"><vocal><desc>Ehm</desc></vocal> 
-                Dunque, <del type="falseStart">era</del> <vocal><desc>mh</desc></vocal> lei <del type="repetition">ha scritto</del> ha scritto, insomma <vocal><desc>ehm</desc></vocal>: "<cit><quote>ancora oggi faccio fatica a pronunciare la parola '<w>selezione</w>'</quote></cit>". <vocal><desc>ehm</desc></vocal> Perché quella parola significa una cosa sola.
-                <anchor synch="#tls521"/><desc>Sovrapposizione</desc><anchor synch="#tls522"/> 
+                Dunque, <del type="falseStart">era</del> <vocal><desc>mh</desc></vocal> lei ha scritto <del type="repetition">ha scritto</del>, insomma <vocal><desc>ehm</desc></vocal>: "<cit><quote>ancora oggi faccio fatica a pronunciare la parola '<w>selezione</w>'</quote></cit>". <vocal><desc>ehm</desc></vocal> Perché quella parola significa una cosa sola.
+                <anchor synch="#tls521"/><gap reason="inaudible"/><anchor synch="#tls522"/> 
                 La decisione rapidissima fatta con il cenno del dito di un solo uomo, con la sua mano.
                 <anchor synch="#tls523"/>Era Mengel<anchor synch="#tls524"/>
                 <del type="truncation">Allora</del></u>
@@ -2926,9 +2925,9 @@
                 <u who="#MR" xml:id="r203" synch="#tlp488">Quindi, <pause type="short" dur="pt2s"/> le poche donne che sono state mandate a destra e lei dirà no, quindi in qualche modo, non erano state, voi, mandate subito in gas. Siete state condotte <del type="reformulation">quella che lei ha chiamato</del> in quella che lei ha chiamato '<placeName>La baracca dell'amministrazione</placeName>'</u>
                 <u who="#GB" xml:id="b234" synch="#tlp489">Sì, perché loro 
                 <anchor synch="#tls533"/>Sì<anchor synch="#tls534"/>
-                prima di farci entrare nella, come si chiama, nella grande baracca <del type="repetition">dove</del>
+                prima di farci entrare nella, come si chiama, nella grande baracca dove 
                 <incident xml:id="n54" synch="#tln53"><desc>Rumore di sottofondo</desc></incident>
-                dove si doveva stare, <vocal><desc>ehm</desc></vocal> c'era questo posto dell'amministrazione, ci facevano le domande</u>
+                <del type="repetition">dove</del> si doveva stare, <vocal><desc>ehm</desc></vocal> c'era questo posto dell'amministrazione, ci facevano le domande</u>
                 <u who="#MR" xml:id="r204" synch="#tlp490">E poi vi tatuavano</u>
                 <pause type="short" dur="pt2s"/>
                 <u who="#GB" xml:id="b235" synch="#tlp491">Sì, il tatuaggio adesso devo ricordarlo. <del type="falseStart">s</del> No, non era lì. L'hanno fatto poi. Perché quello era già verso sera. 
@@ -2938,13 +2937,13 @@
                 <u who="#MR" xml:id="r205" synch="#tlp492">Ecco, ma quella <gap reason="inaudible"/>.
                 <del type="truncation">Quindi voi avete</del> <vocal><desc>mh</desc></vocal>
                 E' l'alba, no. Quindi c'è prima questa terribile selezione, <del type="falseStart">sul</del><del type="falseStart">sulla</del> sul binario. 
-                <anchor synch="#tls537"/>Sì, sì <anchor synch="#tls538"/> 
+                <anchor synch="#tls537"/>Sì, <del type="repetition">sì</del> <anchor synch="#tls538"/> 
                 Poi voi siete stati condotti a piedi, 
                 <anchor synch="#tls539"/>Sì<anchor synch="#tls540"/> 
                 avete attraversato il pezzo di strada all'interno di <placeName ref="#BIRKENAU">Birkenau</placeName> e siete entrati in questo edificio, dove vi hanno registrato. 
                 <anchor synch="#tls541"/>Sì<anchor synch="#tls542"/>
                 Quello che io ho capito, non so se ho capito male. Vi hanno proprio registrato. 
-                <anchor synch="#tls543"/><desc>Sovrapposizione tra i due parlanti</desc><anchor synch="#tls544"/>
+                <anchor synch="#tls543"/><gap reason="inaudible"/><anchor synch="#tls544"/>
                 Però il tatuaggio non ve l'hanno fatto in quel momento 
                 <anchor synch="#tls545"/> Che cosa?<anchor synch="#tls546"/>
                 il tatuggio, non ve l'hanno fatto in quel momento</u>
@@ -2963,12 +2962,12 @@
                 <anchor synch="#tls553"/><desc>Voce di sottofondo</desc><anchor synch="#tls554"/>
                 riesce ad orientarsi. 
                 <incident xml:id="n55" synch="#tln54" dur="pt2s"><desc>Rumore di sottofondo 2s</desc></incident>
-                Dunque l'ingresso del Lager è qua <vocal><desc>eh</desc></vocal>. Ci sono i binari 
+                Dunque l'ingresso del Lager è qua <kinesic><desc>Indica l'ingresso del Lager sulla mappa</desc></kinesic> <vocal><desc>eh</desc></vocal>. Ci sono i binari 
                 <anchor synch="#tls555"/><desc>Sottofondo</desc> <anchor synch="#tls556"/>
                 Ecco, la <placeName ref="#BAHNRAMPE">Bahnrampe</placeName> <pause type="short" dur="pt2s"/></u>
                 <u who="#GB" xml:id="b237" synch="#tlp496">Scusi, Lager A qual è?
-                <del type="repetition">Questo</del> 
-                <anchor synch="#tls557"/><desc>Sovrapposizione</desc><anchor synch="#tls558"/> 
+                <del type="repetition">Questo</del><kinesic><desc>Indica il Lager B sulla mappa</desc></kinesic>
+                <anchor synch="#tls557"/><gap reason="inaudible"/><anchor synch="#tls558"/> 
                 questo è il B</u>
                 <u who="#LR" xml:id="l17" synch="#tlp497">Dunque, allora questo <pause type="short" dur="pt2s"/> 
                 No, dunque questo è B. Tutta questa parte qua. <pause type="short" dur="pt1s"/> 
@@ -2991,20 +2990,20 @@
             </div>
             <div type="intervista23">
                 <u who="#MR" xml:id="r207" synch="#tlp501">
-                <anchor synch="#tls567"/><desc>Sovrapposizione</desc><anchor synch="#tls568"/> 
+                <anchor synch="#tls567"/><gap reason="inaudible"/><anchor synch="#tls568"/> 
                 Quindi lei <del type="falseStart">non ha riattraversato</del> non ha attraversato i binari per andare nei luoghi della quarantena, no</u>
                 <pause type="short" dur="pt1s"/>
                 <u who="#GB" xml:id="b239" synch="#tlp502"><vocal><desc>Ehh</desc></vocal> Come scesi <del type="falseStart">dai</del>
-                <anchor synch="#tls569"/><desc>Sovrapposizione</desc><anchor synch="#tls570"/>
+                <anchor synch="#tls569"/><gap reason="inaudible"/><anchor synch="#tls570"/>
                 dal treno, c'erano i binari lì nella stazione,  
-                <anchor synch="#tls571"/><desc>Sovrapposizione</desc><anchor synch="#tls572"/>
+                <anchor synch="#tls571"/><gap reason="inaudible"/><anchor synch="#tls572"/>
                 ma poi bisognava andare verso <del type="falseStart">ii</del> il campo</u>
                 <u who="#MR" xml:id="r208" synch="#tlp503">Verso il campo, quindi verso le baracche</u>
                 <u who="#GB" xml:id="b240" synch="#tlp504">Certo</u>
                 <u who="#MR" xml:id="r209" synch="#tlp505">Perché quello che risulta a noi è che il settore femminile 
                 <anchor synch="#tls573"/>Sì<anchor synch="#tls574"/>
                 <vocal><desc>èh</desc></vocal> fosse dalla parte opposta della binario,
-                <anchor synch="#tls575"/><desc>Sovrapposizione</desc><anchor synch="#tls576"/>
+                <anchor synch="#tls575"/><gap reason="inaudible"/><anchor synch="#tls576"/>
                 dove si trovava la quarantena</u>
                 <u who="#GB" xml:id="b241" synch="#tlp506">Nono, quello che era nella <del type="repetition">nella</del> parte opposta della quarantena, 
                 <anchor synch="#tls577"/>Sì<anchor synch="#tls578"/>  
@@ -3012,7 +3011,7 @@
                 <anchor synch="#tls579"/>Sì<anchor synch="#tls580"/> 
                 una malattia</u>
                 <u who="#MR" xml:id="r210" synch="#tlp507">A lei è successo, 
-                <anchor synch="#tls581"/><desc>Sovrapposizione</desc><anchor synch="#tls582"/> 
+                <anchor synch="#tls581"/><gap reason="inaudible"/><anchor synch="#tls582"/> 
                 è rimasta</u>
                 <u who="#GB" xml:id="b242" synch="#tlp508">Era prolungata. 
                 <anchor synch="#tls583"/>Sì<anchor synch="#tls584"/>
@@ -3021,7 +3020,7 @@
                 <incident xml:id="n59" synch="tln58"><desc>Rumore di sottofondo</desc></incident> Non lo so</u>
             </div>
             <div type="extraIntervista12">
-                <anchor synch="#tls585"/><desc>Lunga sovrapposizione tra più parlanti</desc>
+                <anchor synch="#tls585"/><gap reason="inaudible"/>
                 <u>Perché questa è la mappa è questa</u>
                 <u>Sono mappe che sono state diffuse, no</u>
                 <anchor synch="#tls586"/>
@@ -3045,7 +3044,7 @@
                 <u who="#MR" xml:id="r213" synch="#tlp513"><vocal><desc>Ohhm</desc></vocal> <pause type="medium" dur="pt5s"/>
                 <anchor synch="#tls595"/><desc>Voce di sottofondo</desc><anchor synch="#tls596"/> 
                 A quante selezioni è stata sottoposta, oltre alla prima, quella dell'arrivo?</u>
-                <u who="#GB" xml:id="b245" synch="#tlp514">Beh, alcune sicuramente. E sono state terribili perché non si sapeva <pause type="short" dur="pt1s"/></u>
+                <u who="#GB" xml:id="b245" synch="#tlp514"><vocal><desc>Beh</desc></vocal>, alcune sicuramente. E sono state terribili perché non si sapeva <pause type="short" dur="pt1s"/></u>
             </div>
             <div type="extraIntervista13">
                 <vocal xml:id="n61" synch="#tln60" dur="pt2s"><desc>Voce di sottofondo</desc></vocal>
@@ -3066,7 +3065,7 @@
             </div>
             <div type="intervista24">
                 <u who="#MR" xml:id="r217" synch="#tlp521">Quindi si ricorda di queste 
-                <anchor synch="#tls601"/><desc>Sovrapposizione</desc><anchor synch="#tls602"/> 
+                <anchor synch="#tls601"/><gap reason="inaudible"/><anchor synch="#tls602"/> 
                 delle selezioni periodiche, selezioni a cui voi eravate sottoposti</u>
                 <u who="#GB" xml:id="b248" synch="#tlp522">Non è <del type="reformulation">che fosse</del> che ci fosse una regola, 
                 <anchor synch="#tls603"/>Ecco<anchor synch="#tls604"/>
@@ -3083,23 +3082,23 @@
                 <anchor synch="#tls605"/><vocal><desc>Ahh</desc></vocal><anchor synch="#tls606"/></u>
                 <u who="#GB" xml:id="b250" synch="#tlp526">Queste erano due sorelle ungheresi, molto anziane. Più anziane di me. Ma sai che adesso non mi ricordo. Che cos'è che ho raccontato?</u>
                 <u who="#MR" xml:id="r220" synch="#tlp527">Ha detto che 
-                <anchor synch="#tls607"/><desc>Sovrapposizione con Goti</desc><anchor synch="#tls608"/>
+                <anchor synch="#tls607"/><gap reason="inaudible"/><anchor synch="#tls608"/>
                 </u>
                 <u who="#GB" xml:id="b251" synch="#tlp528">Perché loro, ne ho vista una, <vocal><desc>ehm</desc></vocal> così di passaggio, <del type="truncation">perché lì</del></u>
                 <u who="#MR" xml:id="r221" synch="#tlp529">Perché <del type="reformulation">mi ha detto</del> <del type="reformulation">ha detto</del>
-                <anchor synch="#tls609"/><desc>Sovrapposizione tra Bauer e Riccucci</desc><anchor synch="#tls610"/>
+                <anchor synch="#tls609"/><gap reason="inaudible"/><anchor synch="#tls610"/>
                 ci ha detto, insomma, non a noi, credo alla Daniela <gap reason="inaudible"/> "<cit><quote>Mi ricordo le due sorelle <persName ref="#LANDAU">Landau</persName>"</quote></cit></u>
                 <u who="#GB" xml:id="b252" synch="#tlp530">Che me <choice><orig>la</orig><corr>le</corr></choice> ricordi certo. 
-                <anchor synch="#tls611"/><desc>Sovrapposizione tra i due parlanti</desc><anchor synch="#tls612"/>
+                <anchor synch="#tls611"/><gap reason="inaudible"/><anchor synch="#tls612"/>
                 C'è una lontana parentela tra di noi. Non mi ricordo. La città d'origine era la stessa, però io francamente non mi ricordo</u>
             </div>
             <div type="intervista26">
                 <u who="#MR" xml:id="r222" synch="#tlp531">Dunque, poi lei parla molto della brutalità delle
-                <anchor synch="#tls613"/><desc>Breve sovrapposizione</desc><anchor synch="#tls614"/></u>
+                <anchor synch="#tls613"/><gap reason="inaudible"/><anchor synch="#tls614"/></u>
                 <u who="#GB" xml:id="b253" synch="#tlp532">Della sorveglianza? <vocal><desc>Ah</desc></vocal> delle donne polacche. <vocal><desc>Ah</desc></vocal> sì, erano tremende.
                 </u>
                 <u who="#MR" xml:id="r223" synch="#tlp533">Le donne del 42</u>
-                <u who="#GB" xml:id="b254" synch="#tlp534">Sì, sisì. Molte erano state deportate prima di noi. Allora, in <placeName ref="#POLONIA">Polonia</placeName>, c'era un grande antisemitismo, già precedente. E queste le avevano, come dico io in maniera, un po' come dire.. come mi viene in mente, le avevano succhiato col latte delle madri questo antisemitismo, non sapevano neanche chi fosse un'ebrea e chi fosse no. 
+                <u who="#GB" xml:id="b254" synch="#tlp534">Sì, <del type="repetition">sì, sì</del>. Molte erano state deportate prima di noi. Allora, in <placeName ref="#POLONIA">Polonia</placeName>, c'era un grande antisemitismo, già precedente. E queste le avevano, come dico io in maniera, un po' come dire.. come mi viene in mente, le avevano succhiato col latte delle madri questo antisemitismo, non sapevano neanche chi fosse un'ebrea e chi fosse no. 
                 Se sentivano <incident xml:id="n68" synch="#tln67"><desc>Rumore</desc></incident> che una tale era ebrea, si scatenava contro queste loro antisemitismo. Pronte semitismo.
                 Di vecchia data, e non mi ricordo, non so da che cosa era originario. Sì, adesso mi viene in mente che, siccome <del type="reformulation">lì era</del> la Polonia era, e forse lo è ancora adesso, una delle nazioni più cattoliche dell'Europa, e lì <del type="reformulation">i ragazzi erano</del> i ragazzi da ragazzini e da piccoli andavano in chiesa a far lezione dal, non so, dal.. chi era, il curato di campagna, o non so, un sarcedote, o che. E diceva che la colpa di tutti i mali erano gli ebrei perché avevano ammazzato Gesù Cristo. 
                 E questi erano cresciuti con questa convinzione, e naturalmente di riflesso odiavano gli ebrei.
@@ -3112,7 +3111,7 @@
                 <incident xml:id="n69" synch="#tln68"><desc>Rumore</desc></incident>
                 <u who="#GB" xml:id="b255" synch="#tlp536">Sì, era diventata una Kapo lì ad <placeName ref="#AUSCH">Auschwitz</placeName>, questa <persName ref="#GROSS">Suzi Gross</persName>. Una <del type="repetition">una</del> delle Kapo. Perché si chiamavano Kapo quelle che avevano a un certo punto una posizione <del type="falseStart">di dirigen</del> dirigenziale, che comandavano, che prendevano le decisioni. 
                 E ad un certo punto i tedeschi.
-                <anchor synch="#tls615"/><desc>Breve sovrapposizione</desc><anchor synch="#tls616"/></u>
+                <anchor synch="#tls615"/><gap reason="inaudible"/><anchor synch="#tls616"/></u>
                 <u who="#MR" xml:id="r225" synch="#tlp537">Era una prigioniera, arrivata come prigioniera</u>
                 <u who="#GB" xml:id="b256" synch="#tlp538">Certo. Una ragazza molto in gamba, molto intelligente. Ma non era la sola perché anche altre erano arrivate, a questa posizione, che a un certo punto i tedeschi li dicevano "<cit><quote>devi fare questo, quest'altro, quest'altro, e <del type="falseStart">compra</del> comportarti così, con tutte le altre prigioniere, castigarle quando le cose non vanno bene</quote></cit>" e cosi via. 
                 E questa era una donna molto in gamba che <vocal><desc>ehm</desc></vocal> <del type="falseStart">si er</del> aveva preso tutte queste <del type="repetition">queste</del> informazioni, questi, come dire, questi consigli che i tedeschi le avevano dati e li faceva, lo faceva con estrema bravura, nel senso che <vocal><desc>mh</desc></vocal>, come dire, che castigava quelli che facevano una cosa che non era giusta, anche se qualche volta era lei che esagerava. 
@@ -3152,10 +3151,10 @@
                 <del type="reformulation">Più <vocal><desc>ehm</desc></vocal>..</del> E uno di questi campi era la <placeName ref="#WILI">Wilischthal</placeName>. Adesso io non ci sono stata, per cui io non posso dire, ma il nome circolava e dicevano che era sicuramente più facile di <placeName ref="#AUSCH">Auschwitz</placeName></u>
                 <u who="#MR" xml:id="r230" synch="#tlp547">Sì, perché appunto era uno dei 96 sotto-campi di <placeName ref="#FLOSS">Flossenbürg</placeName>. Però di <placeName ref="#WILI">Wilischthal</placeName> <vocal><desc>ehm</desc></vocal> si sa ancora molto poco, veramente molto poco.</u> 
                 <u who="#GB" xml:id="b261" synch="#tlp548">Io non mi ricordo come si chiama il centro in <placeName ref="#GERMANIA">Germania</placeName> dove ci si può informare di questo, ma 
-                <anchor synch="#tls623"/><desc>Sovrapposizione e voci di sottofondo</desc><anchor synch="#tls624"/>
+                <anchor synch="#tls623"/><gap reason="inaudible"/><anchor synch="#tls624"/>
                 questo se telefonate il centro di documentazione ve lo sanno dire. E gli mandate una richiesta di informazione. Se questo ve la danno, ha un nome questo posto, però non mi ricordo adesso. E' un centro in <placeName ref="#GERMANIA">Germania</placeName> che si occupa proprio di questo, per dare tutte le informazioni a chi è interessato a sapere. 
                 Una volta sapevo anche il nome, adesso non me lo ricordo. Ma al centro di documentazione ve lo danno. Anche Pezzetti, 
-                <anchor synch="#tls625"/><desc>Sovrapposizione fra più parlanti</desc><anchor synch="#tls626"/>
+                <anchor synch="#tls625"/><gap reason="inaudible"/><anchor synch="#tls626"/>
                 anche a lui</u>
             </div>
             <div type="extraIntervista15">
@@ -3163,7 +3162,7 @@
                 <vocal xml:id="n74" synch="#tln73"><desc>ehm</desc></vocal>
                 <pause type="short" dur="pt2s"/>
                 <incident xml:id="n75" synch="#tln74"><desc>Bussano alla porta</desc></incident>
-                <u xml:id="x2" synch="#tlp549"><shift feature="loud" new="f"/>Scusi!</u>
+                <u xml:id="x2" synch="#tlp549"><shift feature="loud" new="f"/><emph>Scusi!</emph></u>
                 <incident xml:id="n76" synch="#tln75"><desc>Rumore stop della registrazione</desc></incident>
             </div>
             <div type="intervista30">
@@ -3171,7 +3170,7 @@
                 <u who="#MR" xml:id="r231" synch="#tlp550"><shift feature="loud" new="normal"/>Sono migliori, dove lavora <del type="falseStart">nella</del> in una fabbrica di munizioni 
                 <anchor synch="#tls627"/>Sì, esattamente <anchor synch="#tls628"/>
                 Ecco, e poi <incident xml:id="n77" synch="#tln76"><desc>rumore</desc></incident> l'ultimo trasferimento da <placeName ref="#WILI">Wilischthal</placeName> a <placeName ref="#THERE">Theresienstadt</placeName>, 
-                <anchor synch="#tls629"/>Sì, sì<anchor synch="#tls630"/>
+                <anchor synch="#tls629"/>Sì, <del type="repetition">sì</del><anchor synch="#tls630"/>
                 no. Che è il luogo dove poi sarete liberati.
                 <anchor synch="#tls631"/>Sisì<anchor synch="#tls632"/> 
                 <del type="truncation">Dunque <vocal><desc>ehm</desc></vocal></del></u>
@@ -3183,7 +3182,7 @@
                 <u who="#GB" xml:id="b263" synch="#tlp553">Andavo al consolato</u>
                 <u who="#MR" xml:id="r233" synch="#tlp554">Al consolato, sisì, con <persName ref="#RLEVI1">Rachele Levi</persName></u>
                 <u who="#GB" xml:id="b264" synch="#tlp555">Non me la ricordo, erano due sorelle
-                <anchor synch="#tls635"/> Erano due sorelle si sì <persName ref="#RLEVI2">Rosa</persName> e <persName ref="#RLEVI1">Rachele</persName><anchor synch="#tls636"/> 
+                <anchor synch="#tls635"/> Erano due sorelle, si <del type="repetition">sì</del>, <persName ref="#RLEVI2">Rosa</persName> e <persName ref="#RLEVI1">Rachele</persName><anchor synch="#tls636"/> 
                 <persName ref="#RLEVI2">Rosa</persName> e <persName ref="#RLEVI1">Rachele</persName>, sì</u>
                 <u who="#MR" xml:id="r234" synch="#tlp556">Poi con una romana, la <persName ref="#SDV">Silvia di Veroli</persName>, che poi appunto, racconterà, e poi con una signora, che lei chiama <persName ref="#CDC">Costanza Di Castro</persName></u>
                 <u who="#GB" xml:id="b265" synch="#tlp557">Ecco, anche lei era romana</u>
@@ -3191,7 +3190,7 @@
                 <u who="#GB" xml:id="b266" synch="#tlp559">Noi abbiamo conosciuto molte romane</u>
                 <u who="#MR" xml:id="r236" synch="#tlp560">Sì, infatti lo dice, "<cit><quote>ho conosciuto molte romane</quote></cit>" proprio</u>
                 <u who="#GB" xml:id="b267" synch="#tlp561">
-                <anchor synch="#tls637"/><desc>Sovrapposizione</desc><anchor synch="#tls638"/>
+                <anchor synch="#tls637"/><gap reason="inaudible"/><anchor synch="#tls638"/>
                 Allora devo dire che queste romane, molto carine, molto, come dire, molto socievoli, avevano molto piacere a fare amicizia, ma avevano piacere di fare amicizia con me, perché parlavo le lingue del posto, e così le aiutavo in ungherese e in tedesco, e <vocal><desc>ehh</desc></vocal> insomma, qualche volta c'era difficoltà di comprendersi</u>
                 <pause type="short" dur="pt2s"/>
                 <u who="#MR" xml:id="r238" synch="#tlp562">E poi da <placeName ref="#PRAGA">Praga</placeName> a <placeName ref="#VIENNA">Vienna</placeName>. Dunque, lei a <placeName ref="#VIENNA">Vienna</placeName> dice che siete state ospitate da una signora, molto gentile. Vero? In attesa di tornare in <placeName ref="#ITA">Italia</placeName>, tornare a casa. Lei non se la ricorda questa signora? Se la ricorda?</u>
@@ -3199,10 +3198,10 @@
                 <u who="#GB" xml:id="b268" synch="#tlp563">Mi ricordo che è stata molto gentile</u>
                 <u who="#MR" xml:id="r239" synch="#tlp564">Era una signora austriaca</u>
                 <u who="#GB" xml:id="b269" synch="#tlp565">Sisì.
-                <anchor synch="#tls639"/><desc>Sovrapposizione</desc><anchor synch="#tls640"/> 
+                <anchor synch="#tls639"/><gap reason="inaudible"/><anchor synch="#tls640"/> 
                 No, ma <vocal><desc>mh</desc></vocal> dovete sapere perchè noi non siamo andati a caso da questa signora, ce l'ha fornito il consolato. E questa signora era, <vocal><desc>ehm</desc></vocal> come dire, non so come dire, era finanziata dal consolato per ospitare le persone che il consolato le mandava perché le ospitasse. 
                 E lei è stata veramente molto gentile, molto ospitale. Però noi avevamo fretta di tornare in <placeName ref="#ITA">Italia</placeName>, per cui ci siamo fermati un giorno e siamo andati via, perché <placeName ref="#VIENNA">Vienna</placeName> è molto interessante ma il nostro 
-                <anchor synch="#tls641"/><desc>Sovrapposizione con Riccucci</desc><anchor synch="#tls642"/> 
+                <anchor synch="#tls641"/><gap reason="inaudible"/><anchor synch="#tls642"/> 
                 obiettivo era tornare a casa</u>
                 <u who="#MR" xml:id="r240" synch="#tlp566">
                 <anchor synch="#tls643"/>Verso casa<anchor synch="#tls644"/> 
@@ -3212,8 +3211,8 @@
                 sua mamma</u>
                 <u who="#GB" xml:id="b271" synch="#tlp569">in <del type="falseStart">Cec</del> in <placeName ref="#SLOVACCHIA">Slovacchia</placeName>. 
                 <vocal xml:id="n79" synch="#tln78"><desc>Qualcuno starnutisce</desc></vocal>
-                <del type="truncation">E allora</del><q type="spoken" who="#GB" toWhom="#LR">Salute!</q>
-                <anchor synch="#tls647"/><q type="#spoken" who="#LR" toWhom="#GB">Grazie!</q><anchor synch="#tls648"/>
+                <del type="truncation">E allora</del><q type="spoken" who="#GB" toWhom="#LR"><emph>Salute!</emph></q>
+                <anchor synch="#tls647"/><q type="#spoken" who="#LR" toWhom="#GB"><emph>Grazie!</emph></q><anchor synch="#tls648"/>
                 Perché le sentivo parlare in ungherese, e allora mi sono avvicinata "<cit><quote>di dove siete</quote></cit>", "<cit><quote>siamo di <gap reason="inaudible"/></quote></cit>", e allora quando hanno sentito che io conoscevo questa città perché tutte le estati andavamo a trovar la nonna, 
                 <anchor synch="#tls649"/><shift feature="loud" new="p"/><vocal><desc>Ah</desc></vocal> ecco <anchor synch="#tls650"/>
                 <shift feature="loud" new="normal"/>o le zie, e allora "<cit><quote>vieni con noi, vieni con noi</quote></cit>", e hanno fatto di tutto. E io avevo già il piede sul, come dire, sul predilino del vagone, ho detto "<cit><quote>no, io non devo andare</quote></cit>", perché se io prendo questa decisione, io influisco sul mio futuro. 
@@ -3223,9 +3222,9 @@
                 <u who="#MR" xml:id="r243" synch="#tlp572"><vocal><desc>Ah</desc></vocal> anche loro</u>
                 <u who="#GB" xml:id="b273" synch="#tlp573">Certo, i tedeschi ormai erano padroni di tutta <placeName ref="#ITA">Italia</placeName></u>
                 <u who="#MR" xml:id="r244" synch="#tlp574">E non è
-                <anchor synch="#tls651"/>di tutta l'Europa scusa<anchor synch="#tls652"/>
+                <anchor synch="#tls651"/><del type="correction">di tutta l'Europa</del>, scusa<anchor synch="#tls652"/>
                 e non ha più avuto contatto con loro, con nessuno di loro</u>
-                <u who="#GB" xml:id="b274" synch="#tlp575">Si. Sì, con una cugina, che purtroppo adesso non c'è più, che era cugina, le nostri madri erano sorelle, 
+                <u who="#GB" xml:id="b274" synch="#tlp575">Si.<del type="repetition">Sì</del>, con una cugina, che purtroppo adesso non c'è più, che era cugina, le nostri madri erano sorelle, 
                 <anchor synch="#tls653"/><vocal><desc>Ah</desc></vocal><anchor synch="#tls654"/> 
                 e loro di quando i tedeschi hanno occupato tutto il paese, a un certo punto sono andati in <placeName ref="#ISRAELE">Israele</placeName>, e vivono in <placeName ref="#ISRAELE">Israele</placeName> adesso, quelli che son rimasti. E gli altri sono stati deportati. Hanno fatto un <del type="falseStart">macc</del> macello i nazisti</u>
             </div>
@@ -3235,7 +3234,7 @@
                 Dunque, quindi è l'estate del <date from="1945-07" to="1945-08">'45, tra il luglio e l'agosto, luglio 1945</date> <del type="truncation">che</del></u>
                 <u who="#GB" xml:id="b275" synch="#tlp577">No, io ero già tornata qua</u>
                 <u who="#MR" xml:id="r246" synch="#tlp578">Era già luglio 
-                <anchor synch="#tls655"/><desc>Sovrapposizione</desc><anchor synch="#tls656"/> 
+                <anchor synch="#tls655"/><gap reason="inaudible"/><anchor synch="#tls656"/> 
                 nel <date when="1945-07">luglio del '45</date> lei arriva a <placeName ref="#FIUME">Fiume</placeName>?</u>
                 <u who="#GB" xml:id="b276" synch="#tlp579">Sì</u>
                 <u who="#MR" xml:id="r247" synch="#tlp580">
@@ -3255,26 +3254,26 @@
                 E siamo usciti il giorno dopo, e sa. Di queste cose non si racconta mai abbastanza perché le domande sono infinite. Suoi genitori non sono stati deportati perché erano scappati in <placeName ref="SWI">Svizzera</placeName>. E poi niente, e poi.. cosa volevo dire.. <del type="repetition">che</del> che appunto ho raccontata questa cosa e la famiglia da cui stavo</u>
                 <u who="#MR" xml:id="r249" synch="#tlp584">Quindi <del type="reformulation">era proprio</del> lei abitava proprio da questi signori <persName ref="#REISS">Reiss</persName>?</u>
                 <u who="#GB" xml:id="b279" synch="#tlp585">Sì. La signora si chiamava Reiss, e la famiglia, e la sorella di questa signora si era sposata e si chiamava Lager, e loro praticamente vivevamo nello stesso palazzo e noi al quarto piano, loro al quinto. Per cui era tutto un frequentarsi</u>
-                <anchor synch="#tls663"/><desc>Lunga sovrapposizione tra parlanti, brusio</desc><anchor synch="#tls664"/>
+                <anchor synch="#tls663"/><gap reason="inaudible"/><anchor synch="#tls664"/>
                 <pause type="short" dur="pt2s"/>
             </div>
             <div type="extraIntervista16">
-                <u who="#GB" xml:id="b280" synch="#tlp586">E molti si stupiscono che viene al tavolo mio per salutarmi, o io vado al suo per salutare lui, se sono entrata io dopo di lui, e tutti dicono "<cit><quote>Beh, tu devi star simpatica a lui</quote></cit>"</u>
+                <u who="#GB" xml:id="b280" synch="#tlp586">E molti si stupiscono che viene al tavolo mio per salutarmi, o io vado al suo per salutare lui, se sono entrata io dopo di lui, e tutti dicono "<cit><quote><vocal><desc>Beh</desc></vocal>, tu devi star simpatica a lui</quote></cit>"</u>
                 <vocal xml:id="n80" synch="#tln79" dur="pt5s"><desc>forte risata</desc></vocal>
                 <anchor synch="#tls665"/><u who="#RB" xml:id="rb29" synch="#tlp587">Perché tralaltro è un bellissimo uomo</u>
                 <vocal xml:id="n81" synch="#tln80"><desc>Risata</desc></vocal>
                 <anchor synch="#tls666"/>
                 <u who="#GB" xml:id="b281" synch="#tlp588">Ha 101 anni, ma li porta molto bene 
                 <vocal xml:id="n82" synch="#tln81"><desc>Risata</desc></vocal>
-                E va beh ma da noi c'è un'amicizia di sempre. Abitavano a <placeName ref="#FIUME">Fiume</placeName> nella stessa via, <placeName type="street">Via Goldoni</placeName>, dove stavamo noi 
-                <anchor synch="#tls667"/><vocal><desc>AH!</desc></vocal> <anchor synch="#tls668"/>
+                E <vocal><desc>Va beh</desc></vocal> ma da noi c'è un'amicizia di sempre. Abitavano a <placeName ref="#FIUME">Fiume</placeName> nella stessa via, <placeName type="street">Via Goldoni</placeName>, dove stavamo noi 
+                <anchor synch="#tls667"/><emph><vocal><desc>AH!</desc></vocal></emph><anchor synch="#tls668"/>
                 e poi il</u>
                 <u who="#MR" xml:id="r250" synch="#tlp589">
-                <anchor synch="#tls669"/><desc>sovrapposizione</desc><anchor synch="#tls670"/> 
+                <anchor synch="#tls669"/><gap reason="inaudible"/><anchor synch="#tls670"/> 
                 E quindi la signora <persName ref="#REISS">Reiss</persName> era amica di sua madre, eravate vicine di casa, 
                 <anchor synch="#tls671"/>Sì <anchor synch="#tls672"/> 
                 anche loro</u>
-                <u who="#GB" xml:id="b282" synch="#tlp590">Sì, sì. La signora <persName ref="#REISS">Reiss</persName> era rimasta vedova e <del type="falseStart">le</del>, invece aveva una sorella, che è la madre di quello che vive qui, che aveva la famiglia ancora completa, <vocal><desc>eee</desc></vocal> e poi si sono trasferiti a <placeName ref="#MI">Milano</placeName> per questioni di lavoro. 
+                <u who="#GB" xml:id="b282" synch="#tlp590">Sì, <del type="repetition">sì</del>. La signora <persName ref="#REISS">Reiss</persName> era rimasta vedova e <del type="falseStart">le</del>, invece aveva una sorella, che è la madre di quello che vive qui, che aveva la famiglia ancora completa, <vocal><desc>eee</desc></vocal> e poi si sono trasferiti a <placeName ref="#MI">Milano</placeName> per questioni di lavoro. 
                 Ma siamo rimasti sempre in amicizia. E' così, <vocal><desc>ride</desc></vocal> e poi..</u>
                 <anchor synch="#tlc5"/><desc>Censura per privacy</desc><anchor synch="#tlc6"/>
             </div>
@@ -3288,7 +3287,7 @@
                 Allora siamo venuti via. Era tutta complicata la vita. 
                 <anchor synch="#tls677"/>tanto <anchor synch="#tls678"/> 
                 Si fa presto a raccontarla, però
-                <anchor synch="#tls679"/><desc>Sovrapposizione</desc><anchor synch="#tls680"/>
+                <anchor synch="#tls679"/><gap reason="inaudible"/><anchor synch="#tls680"/>
                 se non si vivono le situazioni, qualche volta è dura</u>
                 <pause type="medium" dur="pt4s"/>
             </div>
@@ -3297,19 +3296,19 @@
                 <anchor synch="#tls681"/><vocal><desc>Ah</desc></vocal> certo<anchor synch="#tls682"/>
                 La foto, però non è venuta tanto bene</u>
                 <u who="#GB" xml:id="b284" synch="#tlp594">
-                <anchor synch="#tls683"/><desc>Sovrapposizione</desc><anchor synch="#tls684"/>
+                <anchor synch="#tls683"/><gap reason="inaudible"/><anchor synch="#tls684"/>
                 Puoi venire un'altra volta a farla 
-                <anchor synch="#tls685"/><desc>Sovrapposizione</desc><anchor synch="#tls686"/>
+                <anchor synch="#tls685"/><gap reason="inaudible"/><anchor synch="#tls686"/>
                 quando vuoi</u>
-                <anchor synch="#tls687"/><desc>Sovrapposizione</desc><anchor synch="#tls688"/>
+                <anchor synch="#tls687"/><gap reason="inaudible"/><anchor synch="#tls688"/>
                 <u who="#RB" xml:id="rb30" synch="#tlp595">Se vuoi posso farla io</u>
                 <u who="#GB" xml:id="b285" synch="#tlp596">Eh ma fai come vuoi
-                <anchor synch="#tls689"/><desc>Sovrapposizione</desc><anchor synch="#tls690"/> 
+                <anchor synch="#tls689"/><gap reason="inaudible"/><anchor synch="#tls690"/> 
                 se la signora ha fretta vai</u>
                 <u who="#MR" xml:id="r253" synch="#tlp597">La foto. Perché c'è venuta un po' 
-                <anchor synch="#tls691"/><desc>Sovrapposizione</desc><anchor synch="#tls692"/> <del type="repetition">un po'</del> mossa. 
+                <anchor synch="#tls691"/><gap reason="inaudible"/><anchor synch="#tls692"/> <del type="repetition">un po'</del> mossa. 
                 Ecco, è bellissimo quel quadro. Lei ci ha detto 
-                <anchor synch="#tls693"/>Sì <anchor synch="#tls694"/>
+                <anchor synch="#tls693"/>Sì<anchor synch="#tls694"/>
                 che è il ritratto di sua mamma, dipinto da un pittore viennese</u>
                 <u who="#GB" xml:id="b286" synch="#tlp598">Sì, è vero, c'è anche la firma sotto</u>
                 <u who="#MR" xml:id="r254" synch="#tlp599">Come si chiama?</u>
@@ -3319,7 +3318,7 @@
                 <u who="#MR" xml:id="r255" synch="#tlp601">E come mai allora questo pittore aveva fatto questo ritratto a sua mamma?</u>
                 <u who="#GB" xml:id="b288" synch="#tlp602">No, mio papà quando si sono sposati sono andati a fare un viaggio di nozze, eccetera, e non poteva permettersi di stare parecchio lì. 
                 Non è che è stato tanto, perché il pittore ha fatto immagino tutte le 
-                <anchor synch="#tls697"/><desc>Sovrapposizione</desc><anchor synch="#tls698"/> 
+                <anchor synch="#tls697"/><gap reason="inaudible"/><anchor synch="#tls698"/> 
                 le forme appena, non so, appena disegnate, poi avrà completato. Non credo che, si saranno fermati due-tre settimane, non ti so dire quanto</u>
                 <u who="#MR" xml:id="r256" synch="#tlp603">E quindi questo quadro è sopravvissuto al saccheggio, <del type="truncation">alla vostra</del></u>
                 <u who="#GB" xml:id="b289" synch="#tlp604"><del type="reformulation">Sì..</del> Nono. Questo qui.. perché mio papà aveva per quel quadro un grandissimo, come dire, desiderio che si mantenesse, che non lo portassero via. Alcune cose della nostra casa, qualche tappeto, qualche altra cosa, le ha prese la signora Braida, la vicina di casa. 
@@ -3335,14 +3334,14 @@
                 <u who="#MR" xml:id="r258" synch="#tlp607">Nel libro</u>
                 <u who="#GB" xml:id="b291" synch="#tlp608">Volentieri</u> 
                 <u who="#RB" xml:id="rb31" synch="#tlp609"><shift feature="loud" new="p"/><del type="reformulation">Gli faccio</del> devo chiedere a mio marito, io son negata</u>
-                <anchor synch="#tls701"/><desc>Lunga sovrapposizione tra più parlanti</desc><anchor synch="#tls702"/>
+                <anchor synch="#tls701"/><gap reason="inaudible"/><anchor synch="#tls702"/>
                 <incident xml:id="n85" synch="#tln84"><desc>Rumore stop della registrazione</desc></incident>
-                <anchor synch="#tls703"/><desc>Sovrapposizione tra più parlanti</desc><anchor synch="#tls704"/>
+                <anchor synch="#tls703"/><gap reason="inaudible"/><anchor synch="#tls704"/>
             </div>
             <div type="intervista34">
                 <u who="#MR" xml:id="r259" synch="#tlp610"><shift feature="loud" new="normal"/>Una domanda che non le è mai stata fatta e che avrebbe voluto che le fosse rivolta</u>
                 <u who="#GB" xml:id="b292" synch="#tlp611">Non so rispondere, perché mi hanno fatto un'infinità di domande, di tutti i tipi e come le ho detto prima, un ragazzo mi ha chiesto <del type="repetition">se</del> se ad <placeName ref="#AUSCH">Auschwitz</placeName> mi facevano la torta per il compleanno. 
-                <anchor synch="#tls705"/>Sovrapposizione <anchor synch="#tls706"/> 
+                <anchor synch="#tls705"/><gap reason="inaudible"/><anchor synch="#tls706"/> 
                 E quell'altra <vocal xml:id="n86" synch="#tln85"><desc>Risata di sottofondo</desc></vocal> che mi ha chiesto e lei ha raccontato tutte le cose, però quando è tornata a casa e i suoi genitori li ha ritrovati 
                 <anchor synch="#tls707"/><shift feature="loud" new="p"/><vocal><desc>Eh</desc></vocal> no <anchor synch="#tls708"/>
                 <shift feature="loud" new="normal"/>è troppo difficile da capire questo</u>
@@ -3361,7 +3360,7 @@
                 <u who="#GB" xml:id="b295" synch="#tlp618">No. <pause type="medium" dur="pt6s"/> E cara ho perso, non c'è più lei, e neanche il figlio. Purtroppo</u>
             </div>
             <div type="extraIntervista18">
-                <anchor synch="#tls715"/><desc>Sovrapposizione</desc><anchor synch="#tls716"/>
+                <anchor synch="#tls715"/><gap reason="inaudible"/><anchor synch="#tls716"/>
                 <anchor synch="#tlc7"/><desc>fino alla fine intervista: cose personali e conclusione dell'intervista con foto di gruppo</desc><anchor synch="#tlc8"/>
             </div>
         </body> 
