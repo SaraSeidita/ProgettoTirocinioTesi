@@ -52,7 +52,7 @@
             <sourceDesc>
                 <recordingStmt>
                     <recording type="audio" dur="PT02H04M11S">
-                        <date when="2020-02-20">20 febbraio 2020</date>
+                        <date when="2020-03-07">7 marzo 2020</date>
                         <respStmt>
                             <resp>Intervista curata e realizzata da</resp>
                             <persName ref="#MR">Marina Riccucci</persName>
@@ -63,7 +63,7 @@
                                     <author ref="#MR">Marina Riccucci</author>
                                     <author ref="#LR">Laura Ricotti</author>
                                     <title>Intervista a Goti Bauer, 2020</title>
-                                    <date when="2020-02-20">20 febbraio 2020</date>
+                                    <date when="2020-03-07">7 marzo 2020</date>
                                     <placeName ref="MI">Milano</placeName>
                                     <note>Registrazione dell'intervista sulla testimonianza di <persName ref="#GB">Goti Bauer</persName>, realizzata da <persName ref="#MR">Marina Riccucci</persName> e <persName ref="#LR">Laura Ricotti</persName>.
                                     L'intervista è stata fatta presso la RSA (<placeName ref="#MI">Milano</placeName>) dove Goti risiede da alcuni anni.</note>
@@ -133,7 +133,7 @@
                 </listPerson>
             </particDesc>
             <creation>
-                <date when="2020-02-20">20 febbraio 2020</date>
+                <date when="2020-03-07">07 marzo 2020</date>
             </creation>
             <langUsage>
                 <language ident="it">Italiano</language>
