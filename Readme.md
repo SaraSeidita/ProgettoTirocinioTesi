@@ -12,4 +12,5 @@ Lavoro realizzato per il tirocinio universitario e per il lavoro di tesi trienna
   <li>Il file TXT che contiene la trascrizione dell'intervista audio</li>
   <li>Il file DTD-TEI</li>
   <li>Il file DTD-TEI versione Voci dall'Inferno</li>
+  <li>Il file PDF della mia tesi triennale</li>
 </ul>
