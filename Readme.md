@@ -1,4 +1,4 @@
-<h1><b>Tirocinio e lavoro di tesi per 'Voci dall'Inferno'</b></h1>
+<h1><b>Lavoro di tesi per il progetto 'Voci dall'Inferno'</b></h1>
 CdL Informatica Umanistica, Università di Pisa <br/>
 Codifica di una testimonianza orale di Goti Bauer, intervista realizzata dalla professoressa Marina Riccucci dell'Università di Pisa.<br/>
 Lavoro realizzato per il tirocinio universitario e per il lavoro di tesi triennale.
